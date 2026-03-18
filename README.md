@@ -1,5 +1,4 @@
 ---
-
 ## title: British Airways Flight Booking Prediction
 emoji: ✈️
 colorFrom: blue
@@ -9,6 +8,7 @@ sdk_version: "6.9.0"
 python_version: "3.12"
 app_file: app.py
 pinned: false
+---
 
 # British Airways Flight Booking Prediction
 
@@ -102,7 +102,7 @@ Access the app at `http://localhost:7860`
 
 - **Multiple Input Options**: Manual individual entry or batch CSV upload
 - **Interactive Predictions**: Real-time booking completion probability with confidence scores
-- **Visual Analytics**: 
+- **Visual Analytics**:
   - Probability gauge visualization
   - Feature importance plots
   - Confusion matrix for model evaluation
@@ -152,15 +152,21 @@ How can we develop a machine learning system that predicts customer booking beha
 
 1. **Data Cleaning**: Duplicate removal (719 duplicates found and removed)
 2. **Feature Engineering**:
-  - Extracted origin and destination airport codes from route
-  - Converted binary preference flags to categorical (Yes/No)
+
+- Extracted origin and destination airport codes from route
+- Converted binary preference flags to categorical (Yes/No)
+
 3. **Feature Encoding**:
-  - Binary encoding for sales channel
-  - Frequency encoding for high-cardinality features (route, booking_origin)
-  - One-hot encoding for trip type
+
+- Binary encoding for sales channel
+- Frequency encoding for high-cardinality features (route, booking_origin)
+- One-hot encoding for trip type
+
 4. **Feature Scaling**:
-  - Robust scaling for numerical features with outliers
-  - MinMax scaling for bounded features
+
+- Robust scaling for numerical features with outliers
+- MinMax scaling for bounded features
+
 5. **Class Balancing**: SMOTE oversampling (4:5 ratio) to handle 85% class imbalance
 
 ### Feature Selection
@@ -194,21 +200,25 @@ Link to the deployed app: [British Airways Flight Booking Prediction](https://hu
 ## How to Use
 
 1. **Manual Entry**:
-  - Fill in trip details (passengers, route, duration)
-  - Enter booking information (channel, origin country, lead time)
-  - Set flight schedule and preferences (baggage, seat, meals)
-  - Click "Predict" to see booking probability with confidence gauge
+
+- Fill in trip details (passengers, route, duration)
+- Enter booking information (channel, origin country, lead time)
+- Set flight schedule and preferences (baggage, seat, meals)
+- Click "Predict" to see booking probability with confidence gauge
+
 2. **Upload CSV**:
-  - Prepare CSV with required columns matching the dataset format
-  - Upload for batch predictions
-  - Download results with predictions and probabilities
+
+- Prepare CSV with required columns matching the dataset format
+- Upload for batch predictions
+- Download results with predictions and probabilities
+
 3. **Sample Data**:
-  - Test with random samples from actual test dataset
-  - View confusion matrix and performance metrics
-  - Compare predicted vs actual outcomes
+
+- Test with random samples from actual test dataset
+- View confusion matrix and performance metrics
+- Compare predicted vs actual outcomes
 
 ## Data Dictionary
-
 
 | Feature               | Description                                | Type        | Importance |
 | --------------------- | ------------------------------------------ | ----------- | ---------- |
@@ -223,7 +233,6 @@ Link to the deployed app: [British Airways Flight Booking Prediction](https://hu
 | wants_extra_baggage   | Extra baggage preference                   | Binary      | Medium     |
 | wants_preferred_seat  | Preferred seat preference                  | Binary      | Medium     |
 | wants_in_flight_meals | In-flight meals preference                 | Binary      | Low        |
-
 
 ## Key Insights
 
@@ -247,4 +256,3 @@ Link to the deployed app: [British Airways Flight Booking Prediction](https://hu
 - [Email](mailto:mcikalmerdeka@gmail.com)
 
 ---
-
