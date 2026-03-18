@@ -508,8 +508,6 @@ with gr.Blocks(title="BA Flight Booking Predictor") as demo:
             """)
     
     gr.Markdown("---")
-    gr.Markdown("Built with ❤️ using Gradio | British Airways Flight Booking Prediction")
-
 
 if __name__ == "__main__":
     demo.launch(theme=gr.themes.Soft())
