@@ -83,19 +83,11 @@ jobs:
                   ".env",
                   ".env.*",
                   "*.ipynb",
-                  "notebook.ipynb",
-                  "Study.pdf",
                   "*.log",
-                  "tests/*",
-                  ".pytest_cache/*",
-                  ".coverage",
-                  "htmlcov/*",
-                  "dist/*",
-                  "build/*",
-                  "*.egg-info/*",
-                  "src/scripts/*",
-                  "Final_Report.md",
-                  "hf_deploy_reference/*",  # Exclude reference folder
+                  "hf_deploy_reference/*",
+                  "reference/*",
+                  ".python-version",
+                  "uv.lock",
               ],
           )
           print("✅ Successfully deployed to Hugging Face Space!")
