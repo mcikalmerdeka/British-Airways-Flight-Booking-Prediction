@@ -9,4 +9,4 @@ category-encoders
 imbalanced-learn
 joblib
 ipykernel
-streamlit
+gradio
