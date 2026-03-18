@@ -65,11 +65,24 @@ The ultimate goal of this project is to create a machine learning model that can
 
 ### Web Interface
 
-```bash
-# Install dependencies
-pip install -r requirements.txt
+## Install dependencies
 
-# Run the Gradio app
+using uv
+
+```
+uv sync
+uv add -r requirements.txt
+```
+
+using pip:
+
+```
+pip install -r requirements.txt
+```
+
+## Run the Gradio app
+
+```bash
 python app.py
 ```
 
@@ -92,17 +105,20 @@ The model uses the following features for prediction:
 ## 📁 Project Structure
 
 ```
+
 .
-├── app.py                       # Gradio web interface (entry point)
-├── requirements.txt             # Python dependencies
-├── README.md                    # This file
-├── models/                      # Trained model artifacts
-│   ├── random_forest_model.joblib
-│   ├── encoders.joblib
-│   └── scalers.joblib
-├── assets/                      # Static assets
-│   └── Project Header.jpg
-└── data/                        # Data files
+├── app.py # Gradio web interface (entry point)
+├── requirements.txt # Python dependencies
+├── notebook_fix.ipynb # Jupyter notebook for training/analysis
+├── README.md # This file
+├── models/ # Trained model artifacts
+│ ├── random_forest_model.joblib
+│ ├── encoders.joblib
+│ └── scalers.joblib
+├── assets/ # Static assets
+│ └── Project Header.jpg
+└── data/ # Data files
+
 ```
 
 ## 📝 How to Use
@@ -127,7 +143,3 @@ The model uses the following features for prediction:
 
 - `models/*.joblib` - Trained model files
 - `assets/*.jpg` - Project images
-
----
-
-Built with ❤️ using Gradio | British Airways Flight Booking Prediction
