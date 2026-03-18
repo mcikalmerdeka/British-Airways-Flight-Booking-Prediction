@@ -1,0 +1,2466 @@
+num_passengers,sales_channel,trip_type,purchase_lead,length_of_stay,flight_hour,flight_day,route,booking_origin,wants_extra_baggage,wants_preferred_seat,wants_in_flight_meals,flight_duration,booking_complete
+2,Internet,RoundTrip,253,3,16,Fri,KBVKIX,Japan,Yes,No,No,7.0,0
+2,Mobile,RoundTrip,325,29,12,Wed,AKLKUL,Malaysia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,41,31,2,Wed,MELSGN,Vietnam,Yes,No,No,8.83,0
+1,Internet,RoundTrip,48,24,9,Sat,KTMMFM,Macau,Yes,Yes,Yes,4.75,1
+1,Internet,RoundTrip,20,20,12,Sat,PENSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,18,24,14,Thu,KCHPEK,Malaysia,Yes,No,No,6.42,0
+1,Internet,RoundTrip,250,3,20,Tue,AKLKUL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,1,18,2,Wed,DADSYD,Australia,No,No,No,8.58,0
+1,Mobile,RoundTrip,32,4,5,Sat,JOGTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,231,89,11,Sun,AKLKUL,Malaysia,No,No,Yes,8.83,0
+1,Mobile,RoundTrip,378,30,12,Sun,AKLDEL,India,No,No,No,5.52,0
+2,Internet,RoundTrip,304,5,12,Mon,LOPPVG,China,No,No,No,5.33,0
+2,Internet,RoundTrip,142,4,2,Mon,DPSPEK,Indonesia,Yes,No,No,6.42,1
+1,Internet,RoundTrip,257,21,0,Mon,CNXMEL,Australia,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,211,39,5,Wed,MAAMEL,India,Yes,No,No,8.83,0
+1,Internet,RoundTrip,36,18,7,Fri,HGHPEN,Malaysia,No,No,No,5.07,0
+3,Mobile,RoundTrip,386,5,15,Mon,CTSDMK,Malaysia,No,No,No,8.67,0
+1,Internet,RoundTrip,3,24,8,Thu,BKIPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,12,19,10,Mon,BWNCKG,Brunei,Yes,No,No,4.83,0
+1,Internet,RoundTrip,27,36,17,Thu,PVGSIN,Singapore,Yes,No,Yes,5.33,0
+1,Internet,RoundTrip,94,32,7,Mon,PNHSYD,Australia,No,No,No,8.58,0
+1,Mobile,RoundTrip,24,3,8,Sat,DMKPER,Ireland,No,No,No,5.62,0
+2,Internet,RoundTrip,157,4,2,Thu,ICNSIN,South Korea,Yes,No,No,6.62,0
+3,Internet,RoundTrip,42,6,0,Fri,BWNPER,Brunei,Yes,No,No,5.62,1
+1,Mobile,RoundTrip,22,29,12,Wed,DPSKTM,Indonesia,No,No,No,4.75,0
+2,Internet,RoundTrip,247,4,6,Sun,KIXLGK,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,7,18,6,Wed,PENPER,Malaysia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,22,4,6,Mon,KIXSIN,Singapore,Yes,No,No,7.0,1
+2,Internet,RoundTrip,42,5,18,Mon,KIXKNO,Indonesia,Yes,No,No,7.0,0
+1,Internet,RoundTrip,66,26,11,Mon,DMKMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,118,23,5,Wed,MELTPE,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,253,94,6,Thu,DMKOOL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,19,173,3,Sat,MELMNL,Philippines,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,52,27,10,Sun,LPQPER,Australia,No,No,No,5.62,1
+2,Internet,RoundTrip,7,88,2,Wed,KIXMYY,Malaysia,Yes,No,Yes,7.0,0
+1,Mobile,RoundTrip,133,29,7,Tue,HKTPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,117,5,7,Sat,MELPEN,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,199,21,15,Tue,DPSICN,South Korea,No,No,No,6.62,0
+1,Internet,CircleTrip,45,24,8,Mon,IKAOOL,Iran,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,10,35,14,Thu,HYDPER,Australia,Yes,No,Yes,5.62,0
+2,Internet,RoundTrip,2,5,11,Sat,ICNKBR,South Korea,Yes,Yes,No,6.62,1
+1,Internet,RoundTrip,93,103,12,Fri,HKGMEL,Hong Kong,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,256,37,15,Sat,DMKKIX,Thailand,Yes,Yes,Yes,7.0,0
+3,Internet,RoundTrip,101,4,9,Sun,CGKHND,Japan,Yes,No,Yes,7.57,0
+1,Internet,RoundTrip,2,18,9,Mon,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+5,Internet,RoundTrip,185,33,5,Sat,HYDPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,95,29,4,Mon,HNDPEN,Malaysia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,5,5,9,Thu,PERPNH,Australia,No,Yes,No,5.62,0
+1,Internet,RoundTrip,84,17,5,Mon,KNOMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,12,5,19,Sat,CEBPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,14,47,9,Wed,JHBKTM,Malaysia,Yes,No,No,4.75,1
+1,Internet,RoundTrip,61,25,2,Fri,KBVOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,409,6,16,Sun,JHBTPE,Malaysia,No,Yes,Yes,4.67,1
+1,Internet,RoundTrip,5,26,8,Sat,CGKICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,64,23,8,Thu,MAASYD,India,No,No,No,8.58,0
+1,Internet,RoundTrip,50,6,11,Tue,PENTPE,Taiwan,Yes,No,No,4.67,0
+2,Internet,RoundTrip,153,18,1,Tue,DPSICN,South Korea,Yes,No,Yes,6.62,0
+2,Internet,RoundTrip,57,31,13,Mon,JOGMEL,Indonesia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,46,5,4,Tue,LGKPEK,China,No,No,No,6.42,1
+2,Internet,RoundTrip,43,29,12,Sat,OOLSBW,Malaysia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,20,19,0,Tue,DPSSYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,102,4,6,Wed,HKTKIX,Japan,Yes,Yes,No,7.0,0
+1,Mobile,RoundTrip,5,1,12,Thu,MELMYY,Malaysia,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,38,4,8,Sat,COKICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,18,3,12,Tue,PNHSYD,Cambodia,No,No,No,8.58,0
+1,Internet,RoundTrip,5,26,3,Tue,JHBKTM,Malaysia,Yes,No,No,4.75,0
+3,Mobile,RoundTrip,125,5,4,Sun,ICNKBR,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,27,61,9,Thu,JHBKTM,Malaysia,Yes,No,No,4.75,1
+1,Internet,RoundTrip,52,32,5,Tue,HKGPER,Australia,Yes,Yes,Yes,5.62,1
+1,Internet,RoundTrip,41,31,11,Wed,CMBMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,79,18,1,Wed,DPSOOL,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,30,81,14,Tue,SYDTRZ,India,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,22,5,3,Thu,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,124,4,9,Fri,DMKKIX,Thailand,Yes,No,No,7.0,0
+2,Internet,RoundTrip,52,29,10,Wed,HANOOL,Australia,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,86,47,21,Fri,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,58,25,12,Sat,HKGSYD,Hong Kong,No,No,Yes,8.58,0
+1,Internet,RoundTrip,18,18,9,Fri,CCUMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,5,20,8,Fri,MELSGN,Vietnam,Yes,No,No,8.83,0
+2,Internet,RoundTrip,78,55,7,Tue,HNDPEN,Japan,No,No,No,7.57,1
+1,Internet,RoundTrip,16,5,1,Tue,COKPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,70,38,7,Fri,CGKTPE,Taiwan,Yes,No,No,4.67,0
+4,Internet,RoundTrip,15,5,2,Mon,ICNKCH,South Korea,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,26,6,17,Fri,LGKMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,22,22,2,Thu,SGNSYD,Australia,Yes,No,No,8.58,0
+2,Mobile,RoundTrip,10,6,8,Wed,DADSYD,Australia,Yes,Yes,No,8.58,0
+1,Internet,RoundTrip,7,17,11,Wed,SBWSYD,Australia,No,Yes,Yes,8.58,0
+1,Internet,RoundTrip,173,42,2,Tue,KNOSYD,Indonesia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,46,5,6,Thu,PENTPE,Malaysia,No,No,Yes,4.67,0
+2,Internet,RoundTrip,230,17,7,Tue,OOLRGN,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,160,22,18,Thu,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,94,4,4,Fri,DPSKIX,Japan,No,No,No,7.0,0
+1,Mobile,RoundTrip,25,3,9,Mon,OOLTPE,Taiwan,No,Yes,No,8.83,0
+1,Internet,RoundTrip,325,31,14,Sun,CGKKIX,Indonesia,No,No,No,7.0,0
+1,Internet,RoundTrip,84,5,4,Fri,HKTSYD,Australia,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,16,37,2,Wed,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,170,19,12,Wed,MELSGN,Australia,Yes,Yes,No,8.83,0
+1,Mobile,RoundTrip,321,4,5,Thu,DMKKIX,Thailand,Yes,Yes,Yes,7.0,0
+1,Mobile,RoundTrip,42,5,7,Wed,HKTTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,157,29,11,Mon,MAAMEL,Australia,Yes,No,Yes,8.83,0
+1,Mobile,RoundTrip,199,6,10,Sun,AKLKUL,Indonesia,No,No,No,8.83,0
+4,Internet,RoundTrip,78,3,7,Sat,HKTICN,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,79,17,9,Wed,KTMMFM,Macau,Yes,No,No,4.75,0
+4,Internet,RoundTrip,165,4,2,Sun,HNDREP,Japan,Yes,No,Yes,7.57,0
+3,Internet,RoundTrip,156,24,11,Sat,RGNSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,17,3,12,Thu,PENPER,Malaysia,Yes,No,No,5.62,1
+4,Internet,RoundTrip,41,4,5,Thu,HKTTPE,Taiwan,Yes,No,No,4.67,0
+2,Internet,RoundTrip,150,25,14,Mon,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,109,3,12,Mon,MELSGN,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,43,3,6,Thu,HNDSIN,Japan,Yes,No,No,7.57,0
+2,Internet,RoundTrip,60,5,13,Wed,HKTKIX,Japan,Yes,Yes,No,7.0,0
+1,Mobile,RoundTrip,292,3,15,Fri,KIXLGK,Japan,No,Yes,No,7.0,0
+4,Internet,RoundTrip,118,42,13,Tue,COKSYD,Australia,Yes,No,Yes,8.58,0
+4,Internet,RoundTrip,15,5,5,Mon,CKGTWU,China,No,No,No,4.83,0
+3,Internet,RoundTrip,73,18,14,Sun,PERTPE,Taiwan,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,54,85,2,Wed,DMKOOL,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,48,6,5,Mon,CNXTPE,Thailand,Yes,No,No,4.67,0
+2,Internet,RoundTrip,0,4,2,Wed,JHBTPE,Malaysia,Yes,Yes,Yes,4.67,1
+2,Internet,RoundTrip,65,17,19,Sat,DPSPEK,Russia,No,No,No,6.42,0
+1,Internet,RoundTrip,32,1,7,Wed,BDOICN,Indonesia,Yes,Yes,No,6.62,0
+2,Internet,RoundTrip,106,5,23,Mon,PERSBW,Malaysia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,46,5,3,Thu,HKGOOL,Hong Kong,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,0,2,6,Fri,PEKSIN,Singapore,No,No,No,6.42,0
+1,Internet,RoundTrip,78,58,4,Fri,BDOKIX,Japan,No,Yes,No,7.0,0
+4,Internet,RoundTrip,69,47,4,Thu,CMBPER,Australia,Yes,No,Yes,5.62,0
+2,Internet,RoundTrip,38,6,15,Thu,CMBICN,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,27,167,0,Sat,RGNSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,2,25,7,Fri,DELMEL,India,Yes,No,No,8.83,0
+2,Internet,RoundTrip,26,29,5,Wed,MELPNH,Cambodia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,27,21,7,Sun,COKSYD,Australia,Yes,Yes,Yes,8.58,0
+5,Internet,RoundTrip,30,3,10,Thu,ICNLGK,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,17,31,9,Tue,KIXSBW,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,10,51,9,Fri,OOLPEN,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,104,5,7,Fri,TGGTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,37,5,17,Tue,HKTSYD,United States,Yes,Yes,No,8.58,0
+1,Internet,RoundTrip,216,25,12,Thu,MAASYD,Australia,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,33,88,7,Fri,HKGPER,Hong Kong,Yes,Yes,Yes,5.62,0
+1,Mobile,RoundTrip,252,24,1,Fri,KBRMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,56,5,2,Thu,LOPPVG,China,No,No,No,5.33,0
+3,Internet,RoundTrip,16,71,23,Thu,KIXTRZ,Japan,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,24,4,13,Tue,ICNPER,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,1,3,7,Wed,DMKPER,Australia,No,No,Yes,5.62,0
+2,Mobile,RoundTrip,37,4,15,Wed,HKTHND,Japan,No,No,No,7.57,0
+8,Internet,RoundTrip,78,5,10,Tue,PEKTWU,China,No,No,No,6.42,1
+1,Internet,RoundTrip,46,6,0,Mon,PEKTGG,United States,Yes,Yes,Yes,6.42,0
+3,Internet,RoundTrip,207,4,16,Mon,KBVKIX,Japan,Yes,Yes,No,7.0,0
+2,Internet,RoundTrip,57,6,18,Tue,PENTPE,Taiwan,Yes,Yes,Yes,4.67,0
+2,Mobile,RoundTrip,107,6,14,Sat,MRUPVG,China,Yes,No,No,7.42,0
+1,Internet,RoundTrip,7,22,3,Sun,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,11,4,8,Tue,CGKPEK,Indonesia,Yes,No,No,6.42,0
+1,Internet,RoundTrip,12,6,1,Mon,MFMPER,Macau,No,No,No,5.62,0
+1,Internet,RoundTrip,194,33,14,Sun,COKKIX,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,24,17,11,Mon,CGKCTU,Indonesia,Yes,No,Yes,4.72,0
+5,Internet,RoundTrip,204,25,11,Wed,KCHPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,192,4,4,Fri,MRUSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,196,4,15,Wed,KBRPER,Malaysia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,0,41,15,Mon,IKAPER,Australia,Yes,Yes,Yes,8.15,0
+1,Internet,RoundTrip,4,3,23,Mon,ICNKNO,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,58,6,6,Thu,HNDLGK,Japan,Yes,Yes,Yes,7.57,0
+2,Internet,RoundTrip,281,5,8,Tue,CGKHND,Indonesia,Yes,Yes,Yes,7.57,0
+1,Internet,RoundTrip,52,5,14,Fri,DPSPUS,South Korea,Yes,No,No,6.33,0
+1,Internet,RoundTrip,2,2,14,Tue,MAAPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,77,4,10,Fri,PUSSIN,South Korea,Yes,No,No,6.33,0
+1,Internet,RoundTrip,36,24,12,Sat,ICNPER,United Kingdom,Yes,Yes,No,6.62,0
+2,Internet,RoundTrip,110,4,7,Fri,DMKKIX,Thailand,Yes,No,No,7.0,1
+1,Internet,RoundTrip,35,151,13,Sun,MAAPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,54,5,11,Sat,DMKSYD,Thailand,No,Yes,Yes,8.58,0
+1,Internet,RoundTrip,23,29,18,Tue,JEDMNL,Saudi Arabia,Yes,No,No,9.5,0
+1,Internet,RoundTrip,19,5,2,Mon,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,6,6,8,Wed,PENPUS,Malaysia,Yes,Yes,Yes,6.33,0
+1,Internet,RoundTrip,28,29,8,Thu,HANOOL,Australia,No,No,No,8.83,0
+6,Internet,RoundTrip,290,5,11,Sun,DMKKIX,Thailand,Yes,No,No,7.0,1
+1,Internet,RoundTrip,34,4,10,Fri,KNOTPE,Taiwan,Yes,No,No,4.67,0
+2,Internet,RoundTrip,231,4,8,Fri,DPSTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,36,25,2,Mon,JOGKIX,Japan,Yes,Yes,Yes,7.0,0
+2,Internet,RoundTrip,298,4,14,Sun,JOGKIX,Indonesia,Yes,No,No,7.0,1
+1,Internet,RoundTrip,51,19,15,Sun,PUSSYD,Australia,Yes,No,Yes,8.58,0
+2,Mobile,RoundTrip,91,4,12,Tue,KCHKIX,Japan,Yes,No,No,7.0,0
+2,Internet,RoundTrip,48,6,12,Mon,DPSKTM,Nepal,Yes,No,Yes,4.75,0
+2,Internet,RoundTrip,301,4,16,Wed,PUSSIN,South Korea,Yes,No,Yes,6.33,0
+3,Mobile,RoundTrip,13,5,15,Thu,KBVPEK,China,Yes,No,No,6.42,0
+1,Mobile,RoundTrip,62,6,6,Tue,HKTOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,58,4,16,Wed,DMKKIX,Thailand,Yes,Yes,Yes,7.0,1
+1,Internet,RoundTrip,47,46,3,Sat,DACSYD,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,89,6,14,Wed,MELTPE,Taiwan,Yes,No,No,8.83,0
+2,Internet,RoundTrip,9,3,4,Wed,CGKKIX,Japan,No,No,No,7.0,1
+1,Internet,RoundTrip,117,82,0,Mon,MELPVG,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,129,4,12,Tue,CNXTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,297,35,22,Wed,CMBSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,119,18,5,Mon,PEKTWU,China,Yes,No,No,6.42,0
+1,Internet,RoundTrip,19,6,6,Sat,COKHGH,India,No,No,No,5.07,0
+1,Internet,RoundTrip,30,18,5,Mon,MELTPE,Australia,No,No,No,8.83,0
+1,Mobile,RoundTrip,20,6,15,Tue,CGKTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,6,4,8,Sat,SBWTPE,Taiwan,Yes,Yes,No,4.67,1
+1,Internet,RoundTrip,54,5,20,Sun,CMBMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,24,72,3,Sun,HYDMEL,India,Yes,No,No,8.83,0
+1,Internet,RoundTrip,46,21,14,Tue,HNDPEN,Malaysia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,34,17,2,Thu,HKTPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,1,27,4,Thu,KTMMFM,Macau,Yes,No,No,4.75,0
+2,Internet,RoundTrip,52,20,7,Sat,OOLSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,28,6,2,Wed,MELSGN,Australia,No,Yes,No,8.83,0
+1,Internet,RoundTrip,10,22,16,Thu,DPSMRU,Mauritius,Yes,No,No,7.42,0
+1,Internet,RoundTrip,207,28,9,Mon,CCUSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,23,5,11,Wed,CTSDMK,Thailand,Yes,Yes,Yes,8.67,0
+1,Internet,RoundTrip,8,6,18,Sun,ICNSIN,South Korea,Yes,Yes,Yes,6.62,0
+2,Internet,RoundTrip,177,6,21,Sat,KCHMEL,Malaysia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,101,6,11,Fri,DELHKG,India,Yes,No,No,5.52,0
+1,Internet,RoundTrip,29,20,1,Thu,CEBMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,10,6,12,Tue,HKTMEL,Australia,No,No,No,8.83,1
+1,Internet,RoundTrip,111,21,21,Tue,OOLSGN,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,25,173,12,Sat,BDOKIX,Japan,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,2,27,11,Fri,KTMMFM,Macau,Yes,No,No,4.75,1
+1,Internet,RoundTrip,14,4,11,Fri,HNDPEN,Japan,Yes,Yes,Yes,7.57,1
+1,Internet,RoundTrip,57,17,2,Wed,HNDMEL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,172,4,3,Mon,ICNLGK,South Korea,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,54,50,5,Tue,CMBMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,36,5,12,Sat,PUSSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,1,19,6,Tue,MELPNH,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,16,4,0,Fri,DMKOOL,Australia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,22,26,7,Thu,PUSTRZ,South Korea,Yes,No,Yes,6.33,0
+1,Mobile,RoundTrip,41,29,0,Tue,DPSMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,1,6,6,Mon,COKPER,Australia,No,No,Yes,5.62,0
+1,Internet,RoundTrip,152,5,13,Sat,ICNPEN,South Korea,No,No,No,6.62,0
+2,Internet,RoundTrip,56,2,6,Fri,PENTPE,Malaysia,No,No,Yes,4.67,0
+1,Internet,RoundTrip,4,17,6,Thu,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,15,17,12,Thu,CGKKTM,Indonesia,No,No,No,4.75,0
+1,Internet,RoundTrip,8,6,0,Fri,MELSGN,Australia,No,No,No,8.83,0
+1,Mobile,RoundTrip,41,30,2,Sat,KTMMFM,Macau,Yes,No,Yes,4.75,1
+1,Internet,RoundTrip,59,28,6,Fri,DMKPER,Australia,No,No,Yes,5.62,0
+2,Internet,RoundTrip,483,6,18,Wed,DMKKIX,Thailand,Yes,No,No,7.0,0
+1,Internet,RoundTrip,15,6,10,Mon,CGKMEL,United Kingdom,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,22,144,13,Mon,PENSYD,Malaysia,Yes,No,No,8.58,1
+1,Mobile,RoundTrip,7,77,2,Wed,PENPUS,Malaysia,Yes,No,No,6.33,0
+1,Internet,RoundTrip,66,28,0,Wed,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,21,3,1,Wed,MNLOOL,Philippines,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,46,20,8,Sat,ICNKNO,Indonesia,Yes,No,No,6.62,0
+3,Internet,RoundTrip,427,21,5,Tue,KNOSYD,Indonesia,No,No,No,8.58,1
+1,Internet,RoundTrip,45,28,15,Wed,DMKPER,Australia,No,No,No,5.62,0
+1,Mobile,RoundTrip,0,4,14,Wed,PERTPE,Australia,No,No,No,5.62,0
+2,Internet,RoundTrip,16,4,0,Thu,DPSHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,9,26,1,Tue,KTMMFM,Macau,Yes,No,No,4.75,0
+1,Mobile,RoundTrip,1,6,22,Wed,DMKPER,Australia,No,Yes,No,5.62,0
+1,Internet,RoundTrip,52,4,13,Tue,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,139,33,0,Wed,ICNMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,112,22,11,Thu,COKMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,32,42,6,Sun,COKMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,19,28,22,Mon,MYYOOL,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,157,4,13,Mon,DPSTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,336,21,6,Mon,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,113,29,14,Sat,PENTPE,Taiwan,Yes,No,No,4.67,0
+2,Internet,RoundTrip,30,5,8,Tue,CGKKIX,Indonesia,Yes,Yes,Yes,7.0,1
+3,Internet,RoundTrip,65,4,16,Mon,REPTPE,Taiwan,No,No,No,4.67,0
+4,Internet,RoundTrip,93,6,3,Sun,KBVSYD,Thailand,Yes,No,Yes,8.58,0
+3,Internet,RoundTrip,53,69,13,Mon,KTMPEN,Malaysia,Yes,No,Yes,4.75,0
+2,Internet,RoundTrip,58,4,13,Tue,ICNSIN,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,21,27,23,Fri,DELDPS,India,No,No,No,5.52,0
+2,Internet,RoundTrip,60,27,9,Thu,CTUPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,60,5,13,Mon,DPSPEK,China,No,No,No,6.42,0
+2,Internet,RoundTrip,68,5,1,Fri,ICNPEN,United States,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,58,56,5,Fri,AKLKUL,New Zealand,Yes,No,No,8.83,1
+1,Internet,RoundTrip,2,1,8,Thu,ICNPER,South Korea,No,No,No,6.62,0
+4,Internet,RoundTrip,82,6,0,Fri,HNDSBW,Malaysia,Yes,No,Yes,7.57,0
+1,Internet,RoundTrip,121,130,6,Tue,ICNSIN,South Korea,Yes,No,Yes,6.62,0
+3,Mobile,RoundTrip,195,6,4,Fri,HKTPVG,China,Yes,Yes,No,5.33,1
+1,Internet,RoundTrip,59,73,12,Sat,CKGOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,4,17,2,Thu,IKAOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,163,5,12,Thu,HKTKIX,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,76,17,3,Sat,AKLKUL,Malaysia,No,No,No,8.83,0
+2,Internet,RoundTrip,133,17,4,Fri,BKISYD,Malaysia,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,21,5,14,Thu,CTSDMK,Thailand,Yes,No,No,8.67,1
+1,Internet,RoundTrip,6,28,6,Thu,PERRGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,69,3,16,Mon,DPSICN,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,94,3,3,Tue,HNDLGK,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,33,4,4,Tue,ICNSIN,Singapore,No,No,No,6.62,0
+2,Internet,RoundTrip,99,19,16,Fri,PNHSYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,6,6,12,Fri,HKTPER,Australia,Yes,No,No,5.62,1
+3,Mobile,RoundTrip,63,5,17,Sun,HKTPEK,China,No,No,Yes,6.42,0
+1,Mobile,RoundTrip,56,41,20,Mon,HYDSYD,India,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,153,17,9,Wed,CMBSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,386,39,13,Sun,MELTRZ,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,6,362,12,Sun,HYDPER,Australia,Yes,Yes,Yes,5.62,0
+4,Internet,RoundTrip,283,26,4,Sun,CNXPEK,Thailand,No,No,No,6.42,1
+2,Internet,RoundTrip,75,84,19,Mon,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,20,5,2,Fri,CNXTPE,Thailand,No,No,No,4.67,0
+1,Internet,RoundTrip,22,71,12,Fri,CANPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,167,34,6,Sun,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+3,Internet,RoundTrip,113,5,3,Fri,ICNKCH,Malaysia,Yes,No,Yes,6.62,1
+2,Internet,RoundTrip,101,6,3,Fri,DELJOG,India,No,Yes,No,5.52,0
+1,Internet,RoundTrip,38,5,7,Sat,HNDREP,Malaysia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,132,28,9,Tue,CGKHND,Japan,Yes,No,No,7.57,0
+1,Internet,RoundTrip,14,3,6,Thu,CGKPUS,Malaysia,No,No,Yes,6.33,0
+1,Internet,RoundTrip,198,6,17,Tue,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+2,Internet,RoundTrip,73,6,2,Tue,ICNKTM,South Korea,No,No,No,6.62,0
+3,Internet,RoundTrip,38,29,7,Fri,RGNTPE,Taiwan,Yes,No,Yes,4.67,0
+2,Internet,RoundTrip,14,25,1,Thu,CMBMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,49,29,12,Fri,HYDSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,52,30,13,Sun,AKLKUL,Malaysia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,75,32,13,Fri,MELPEN,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,47,4,2,Wed,MYYPER,(not set),Yes,No,No,5.62,0
+1,Internet,RoundTrip,35,3,3,Wed,CGKPUS,South Korea,No,Yes,Yes,6.33,0
+1,Internet,RoundTrip,29,5,12,Sun,CGKTPE,Taiwan,No,No,No,4.67,1
+1,Internet,RoundTrip,11,152,3,Wed,MELMNL,Philippines,Yes,No,No,8.83,0
+1,Internet,RoundTrip,23,18,8,Mon,HGHSYD,France,No,No,No,8.58,1
+1,Mobile,RoundTrip,250,6,0,Mon,CTSDMK,Thailand,No,No,No,8.67,0
+3,Internet,RoundTrip,14,4,12,Tue,BKIICN,South Korea,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,35,6,6,Wed,DMKMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,3,91,8,Thu,PERSGN,Australia,Yes,No,No,5.62,1
+1,Internet,RoundTrip,30,35,1,Mon,SYDTPE,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,148,20,9,Fri,KTMPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,86,34,10,Wed,KHHSYD,Taiwan,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,10,31,4,Sat,KTMPEN,Malaysia,Yes,No,Yes,4.75,1
+1,Internet,RoundTrip,3,162,1,Wed,KIXSIN,Japan,Yes,Yes,Yes,7.0,0
+3,Internet,RoundTrip,50,6,12,Wed,ICNPEN,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,44,4,11,Fri,BKIPER,Malaysia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,1,6,12,Tue,MELPEN,Australia,Yes,No,No,8.83,0
+3,Internet,RoundTrip,32,23,15,Wed,AKLKUL,Malaysia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,168,5,12,Sat,DPSKIX,Japan,Yes,Yes,No,7.0,0
+2,Mobile,RoundTrip,123,22,1,Mon,BOMSYD,India,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,54,19,13,Fri,DELDPS,Indonesia,No,No,No,5.52,0
+1,Internet,RoundTrip,48,5,9,Wed,CTSJOG,Indonesia,No,No,No,8.67,0
+1,Internet,RoundTrip,1,3,13,Sat,CGKPVG,China,No,No,No,5.33,0
+1,Mobile,RoundTrip,9,27,19,Sun,MAASYD,India,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,63,92,14,Tue,MELPVG,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,275,4,4,Mon,ICNOOL,South Korea,No,No,No,8.83,0
+1,Internet,RoundTrip,64,29,12,Wed,HNDPER,Australia,No,No,No,7.57,0
+1,Internet,RoundTrip,59,4,15,Mon,LGKPVG,Taiwan,No,No,Yes,5.33,1
+1,Internet,RoundTrip,39,2,5,Tue,HNDPEN,Malaysia,Yes,Yes,No,7.57,1
+2,Internet,RoundTrip,48,91,13,Sat,MAASYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,331,3,5,Tue,HNDPER,Japan,No,No,No,7.57,0
+1,Mobile,RoundTrip,50,19,16,Thu,CMBSYD,Sri Lanka,No,No,No,8.58,0
+1,Internet,RoundTrip,130,17,4,Mon,MFMPER,Macau,No,No,No,5.62,0
+1,Internet,RoundTrip,33,4,12,Fri,HNDSIN,Japan,No,Yes,No,7.57,1
+1,Mobile,RoundTrip,21,5,11,Thu,ICNSIN,Singapore,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,6,87,11,Wed,MELMNL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,110,26,15,Wed,CNXTPE,Greece,Yes,Yes,Yes,4.67,0
+1,Mobile,RoundTrip,31,4,5,Sun,DMKKIX,Thailand,Yes,Yes,Yes,7.0,0
+2,Internet,RoundTrip,104,36,6,Tue,OOLPNH,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,28,128,4,Fri,MAASYD,India,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,46,31,12,Mon,CMBMEL,Australia,Yes,Yes,Yes,8.83,0
+4,Internet,RoundTrip,317,5,8,Thu,HNDPEN,Malaysia,Yes,Yes,Yes,7.57,0
+2,Internet,RoundTrip,36,5,9,Tue,HKTSYD,Australia,Yes,Yes,Yes,8.58,1
+1,Internet,RoundTrip,30,31,13,Mon,KTMSIN,Philippines,Yes,No,No,4.75,0
+3,Internet,RoundTrip,140,5,9,Tue,CGKTPE,Indonesia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,159,6,9,Mon,CMBSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,51,17,8,Tue,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,139,27,3,Sun,ICNRGN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,1,5,10,Sat,ICNSIN,South Korea,Yes,Yes,Yes,6.62,0
+2,Internet,RoundTrip,175,5,0,Wed,KBVPVG,China,No,No,No,5.33,0
+1,Internet,RoundTrip,200,6,15,Tue,DPSHGH,China,Yes,No,Yes,5.07,1
+1,Internet,RoundTrip,99,6,9,Sat,KIXPEN,Japan,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,105,35,0,Sat,HYDSYD,New Zealand,Yes,No,No,8.58,0
+1,Internet,RoundTrip,17,5,9,Wed,ICNMLE,South Korea,Yes,Yes,Yes,6.62,0
+2,Internet,RoundTrip,99,17,15,Sat,AKLKUL,Thailand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,28,56,9,Tue,KBRPEK,China,Yes,No,Yes,6.42,0
+1,Internet,RoundTrip,129,6,16,Thu,HKTPER,Australia,Yes,Yes,No,5.62,0
+2,Internet,RoundTrip,26,3,8,Tue,DPSICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,33,154,2,Mon,PERPNH,Australia,Yes,Yes,No,5.62,0
+2,Mobile,RoundTrip,13,5,8,Mon,ICNMLE,South Korea,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,95,4,23,Mon,DMKSYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,3,29,9,Thu,COKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,54,22,21,Thu,MELPUS,Australia,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,18,88,7,Wed,MELMNL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,44,21,5,Thu,OOLSGN,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,2,19,11,Tue,IKASYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,10,5,10,Wed,PENPER,Malaysia,Yes,Yes,Yes,5.62,0
+5,Internet,RoundTrip,171,5,14,Sat,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+5,Mobile,RoundTrip,9,29,13,Wed,ICNSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,30,4,10,Mon,CNXICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,18,78,1,Thu,MELMNL,Australia,Yes,Yes,Yes,8.83,0
+2,Mobile,RoundTrip,2,6,9,Mon,KCHMEL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,7,38,9,Fri,KTMPEN,Malaysia,Yes,No,No,4.75,1
+1,Internet,RoundTrip,59,6,14,Fri,HYDMRU,India,Yes,No,No,7.42,0
+3,Internet,RoundTrip,234,21,9,Wed,CTSSIN,Singapore,No,No,No,8.67,0
+1,Internet,RoundTrip,155,25,13,Fri,SGNSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,17,30,14,Mon,HGHOOL,China,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,37,4,3,Fri,DPSPEK,China,No,No,No,6.42,0
+1,Internet,RoundTrip,70,6,15,Fri,MYYPER,Malaysia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,8,18,8,Sat,CKGTWU,China,Yes,No,No,4.83,0
+1,Internet,RoundTrip,41,6,14,Mon,HNDPEN,Japan,Yes,Yes,Yes,7.57,0
+1,Internet,RoundTrip,19,6,9,Mon,MELPEN,Malaysia,Yes,No,Yes,8.83,1
+1,Mobile,RoundTrip,44,4,9,Wed,PENPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,70,34,9,Wed,MELXIY,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,84,4,5,Tue,DMKOOL,United States,No,Yes,No,8.83,0
+7,Internet,RoundTrip,106,6,7,Tue,CGKHND,Indonesia,Yes,Yes,Yes,7.57,0
+2,Internet,RoundTrip,32,24,10,Thu,MELPEN,Malaysia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,72,21,12,Fri,KIXMEL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,42,72,3,Tue,JHBKTM,Malaysia,Yes,No,Yes,4.75,1
+1,Internet,RoundTrip,104,26,11,Fri,MELTPE,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,49,62,5,Wed,KTMPEN,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,15,85,14,Sun,ICNKCH,Malaysia,Yes,No,No,6.62,1
+2,Internet,RoundTrip,69,6,3,Tue,CANMRU,China,Yes,No,No,7.42,0
+1,Internet,RoundTrip,5,111,8,Wed,KCHOOL,Singapore,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,394,5,4,Mon,HNDKBV,Japan,No,Yes,No,7.57,0
+1,Internet,RoundTrip,76,5,11,Sat,BKIOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,31,87,5,Wed,COKKIX,India,Yes,No,No,7.0,0
+1,Internet,RoundTrip,168,29,16,Mon,PERTPE,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,350,6,11,Sun,CTSDMK,Japan,No,Yes,No,8.67,0
+3,Internet,RoundTrip,84,29,11,Mon,PENPVG,China,Yes,No,No,5.33,1
+3,Internet,RoundTrip,149,5,12,Wed,DPSICN,South Korea,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,12,3,11,Wed,PERTWU,Malaysia,No,No,No,5.62,0
+2,Mobile,RoundTrip,47,5,20,Mon,BKIPVG,China,Yes,Yes,Yes,5.33,0
+2,Internet,RoundTrip,306,5,12,Sat,ICNSGN,Vietnam,No,No,No,6.62,0
+1,Internet,RoundTrip,82,66,3,Fri,PEKPEN,China,Yes,No,No,6.42,0
+1,Internet,RoundTrip,15,17,16,Thu,HKGOOL,Hong Kong,Yes,No,No,8.83,0
+1,Internet,RoundTrip,31,23,1,Sat,MELREP,Australia,No,No,Yes,8.83,0
+2,Mobile,RoundTrip,98,4,10,Sat,CTUDPS,China,Yes,No,No,4.72,1
+1,Mobile,RoundTrip,284,4,8,Sat,PEKSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,318,3,16,Tue,HNDSGN,Japan,No,No,Yes,7.57,0
+2,Internet,RoundTrip,359,6,8,Mon,DPSPVG,China,No,No,No,5.33,0
+1,Mobile,RoundTrip,225,5,14,Mon,LGKPVG,China,Yes,Yes,Yes,5.33,0
+3,Internet,RoundTrip,38,23,9,Wed,DELMEL,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,72,22,8,Mon,AKLTPE,New Zealand,No,No,No,4.67,0
+1,Internet,RoundTrip,4,6,14,Mon,CGKTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,61,24,11,Fri,SGNSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,38,24,0,Wed,OOLTRZ,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,245,6,5,Fri,PENPER,Australia,No,No,Yes,5.62,0
+3,Internet,RoundTrip,268,28,9,Wed,COKSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,222,6,8,Tue,DELSYD,India,No,No,No,8.58,0
+1,Internet,RoundTrip,9,5,12,Tue,COKSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,15,4,23,Mon,MELTRZ,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,93,90,4,Wed,KNOOOL,Australia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,28,29,4,Sun,DPSMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,81,4,3,Fri,DPSPVG,China,No,No,No,5.33,0
+1,Mobile,RoundTrip,7,70,10,Sun,MAAMEL,India,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,94,6,1,Mon,MELREP,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,276,3,22,Thu,PEKSBW,Indonesia,No,Yes,No,6.42,1
+1,Internet,RoundTrip,14,6,15,Tue,AKLKUL,Malaysia,No,No,Yes,8.83,0
+2,Internet,RoundTrip,28,4,0,Thu,ICNPER,South Korea,Yes,No,Yes,6.62,0
+2,Internet,RoundTrip,93,5,2,Wed,JHBTPE,Malaysia,Yes,No,No,4.67,1
+1,Internet,RoundTrip,85,92,1,Thu,CGKOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,19,4,3,Fri,CANSYD,China,No,No,No,8.58,0
+1,Internet,RoundTrip,21,22,2,Thu,PUSSIN,Singapore,No,No,No,6.33,1
+1,Internet,RoundTrip,61,6,19,Wed,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,52,5,3,Mon,PENPVG,China,No,No,No,5.33,0
+1,Internet,RoundTrip,3,56,3,Sat,MELSBW,Malaysia,Yes,No,No,8.83,0
+3,Internet,RoundTrip,180,71,8,Sat,AKLKUL,New Zealand,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,331,17,2,Wed,AKLKUL,Malaysia,Yes,Yes,No,8.83,0
+3,Internet,RoundTrip,265,6,6,Thu,DMKMEL,Thailand,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,5,3,9,Sat,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,417,2,7,Sun,CMBKIX,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,5,4,23,Tue,MELTPE,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,240,3,13,Tue,BKIOOL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,15,3,13,Thu,DMKHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,14,5,5,Wed,KCHPEK,Malaysia,No,Yes,No,6.42,1
+3,Internet,RoundTrip,340,19,11,Sun,BKIHND,Malaysia,Yes,No,Yes,7.57,0
+1,Internet,RoundTrip,69,3,2,Sat,DMKKIX,Japan,No,No,No,7.0,0
+2,Internet,RoundTrip,106,3,13,Fri,DMKKIX,Japan,Yes,No,No,7.0,0
+2,Internet,RoundTrip,66,5,5,Sun,LGKSYD,Australia,Yes,Yes,No,8.58,0
+1,Mobile,RoundTrip,29,21,6,Thu,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,62,6,6,Wed,HKGSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,68,90,6,Mon,MNLPER,Australia,Yes,No,Yes,5.62,0
+2,Internet,RoundTrip,64,3,14,Fri,KIXREP,Japan,Yes,Yes,Yes,7.0,0
+2,Internet,RoundTrip,4,5,5,Sat,PENPER,Malaysia,No,No,No,5.62,0
+2,Internet,RoundTrip,7,6,10,Wed,KBVPVG,China,No,No,No,5.33,1
+2,Internet,RoundTrip,312,33,5,Fri,HNDPEN,Malaysia,Yes,Yes,No,7.57,0
+7,Internet,RoundTrip,355,4,9,Tue,DPSICN,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,15,5,7,Fri,DPSSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,70,18,7,Mon,HNDSUB,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,27,5,12,Mon,CGKHND,Indonesia,Yes,No,Yes,7.57,0
+1,Internet,RoundTrip,12,50,8,Mon,DMKPER,Australia,No,Yes,No,5.62,0
+1,Internet,RoundTrip,31,3,13,Mon,HNDSUB,Japan,No,Yes,Yes,7.57,0
+1,Internet,RoundTrip,11,28,2,Fri,HKTMEL,Australia,Yes,No,Yes,8.83,1
+1,Mobile,RoundTrip,29,5,6,Wed,CMBICN,South Korea,No,No,No,6.62,0
+1,Mobile,RoundTrip,60,6,12,Wed,DMKKIX,Thailand,Yes,No,No,7.0,0
+5,Internet,RoundTrip,322,5,14,Wed,HKTXIY,China,No,No,No,5.0,0
+1,Internet,RoundTrip,46,37,4,Fri,KNOTPE,Indonesia,Yes,No,Yes,4.67,0
+2,Internet,RoundTrip,39,24,5,Sun,MAAOOL,India,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,72,177,6,Fri,CGKHND,Japan,Yes,Yes,Yes,7.57,0
+1,Internet,RoundTrip,12,6,1,Tue,COKMEL,Australia,Yes,No,Yes,8.83,0
+3,Internet,RoundTrip,44,6,16,Tue,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,45,34,6,Fri,BKIOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,8,6,1,Mon,BKICTS,Malaysia,Yes,Yes,No,8.67,1
+1,Internet,RoundTrip,57,36,12,Fri,MELTPE,Australia,Yes,Yes,No,8.83,0
+4,Internet,RoundTrip,9,35,1,Tue,CMBMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,44,3,16,Sun,ICNKCH,South Korea,No,No,No,6.62,1
+1,Mobile,RoundTrip,57,5,10,Sat,MAAPER,Australia,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,55,153,1,Sun,MELTRZ,Australia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,28,21,9,Mon,CMBSYD,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,198,5,3,Mon,DPSTPE,Taiwan,No,Yes,No,4.67,0
+7,Internet,RoundTrip,35,28,11,Fri,MELXIY,China,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,1,5,7,Sun,PENTPE,Malaysia,No,No,No,4.67,1
+3,Internet,RoundTrip,91,28,1,Sun,DELMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,7,6,16,Fri,PENTPE,Malaysia,Yes,No,No,4.67,0
+3,Internet,RoundTrip,37,3,17,Mon,DPSICN,South Korea,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,7,3,15,Thu,PENTPE,United Kingdom,Yes,Yes,Yes,4.67,0
+1,Internet,RoundTrip,50,4,7,Thu,PENPER,Malaysia,Yes,Yes,Yes,5.62,1
+1,Internet,RoundTrip,94,20,9,Tue,DPSPVG,United States,Yes,No,Yes,5.33,0
+1,Internet,RoundTrip,92,20,10,Tue,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,47,4,15,Wed,DELSZX,India,No,No,Yes,5.52,0
+1,Internet,RoundTrip,75,20,8,Tue,ICNSIN,Singapore,Yes,No,No,6.62,1
+1,Internet,RoundTrip,42,5,12,Tue,ICNJHB,Singapore,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,43,39,13,Wed,COKSYD,Australia,Yes,No,Yes,8.58,1
+1,Internet,RoundTrip,44,4,16,Fri,DMKPER,Thailand,No,No,No,5.62,0
+2,Internet,RoundTrip,130,30,8,Tue,KIXPEN,Malaysia,Yes,No,No,7.0,0
+3,Internet,RoundTrip,163,6,17,Tue,DMKHND,Thailand,Yes,No,No,7.57,0
+2,Internet,RoundTrip,225,4,11,Thu,PUSSIN,South Korea,Yes,No,Yes,6.33,0
+1,Internet,RoundTrip,9,5,1,Tue,ICNSYD,Australia,No,Yes,No,8.58,0
+1,Internet,RoundTrip,25,122,4,Fri,HNDKNO,Indonesia,Yes,Yes,No,7.57,1
+9,Internet,RoundTrip,299,17,3,Sun,DMKPER,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,294,6,5,Tue,DMKHND,Thailand,Yes,No,No,7.57,1
+1,Internet,RoundTrip,3,30,9,Wed,KCHPEK,Malaysia,Yes,No,No,6.42,0
+1,Internet,RoundTrip,145,32,8,Fri,DELDPS,Indonesia,No,No,No,5.52,0
+1,Internet,RoundTrip,19,6,10,Tue,PENTPE,Malaysia,No,Yes,Yes,4.67,0
+1,Internet,RoundTrip,94,94,7,Sat,PNHSYD,United Kingdom,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,106,5,5,Mon,BDOICN,South Korea,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,71,6,3,Fri,MNLMRU,Indonesia,Yes,Yes,No,7.42,0
+1,Internet,RoundTrip,3,36,7,Mon,KTMPEN,Malaysia,Yes,No,No,4.75,0
+2,Internet,RoundTrip,39,5,4,Sun,PENPER,Australia,No,No,No,5.62,0
+2,Internet,RoundTrip,428,4,20,Mon,HNDKCH,Malaysia,Yes,Yes,Yes,7.57,0
+2,Mobile,RoundTrip,30,5,8,Mon,DPSPVG,China,Yes,No,No,5.33,0
+2,Internet,RoundTrip,269,22,12,Wed,HNDPEN,Japan,Yes,Yes,No,7.57,0
+2,Internet,RoundTrip,8,27,4,Thu,DPSPEK,China,Yes,Yes,Yes,6.42,0
+2,Internet,RoundTrip,83,6,3,Thu,CTSDMK,Thailand,Yes,No,No,8.67,0
+1,Internet,RoundTrip,47,4,4,Fri,PENTPE,Malaysia,Yes,Yes,Yes,4.67,1
+1,Internet,RoundTrip,50,17,10,Wed,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,257,29,9,Fri,MNLPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,55,19,3,Wed,MELTPE,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,42,5,5,Sun,ICNSYD,South Korea,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,122,35,15,Sun,MNLPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,134,4,6,Mon,MELPEN,Malaysia,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,9,1,8,Sat,HNDSIN,Singapore,No,No,No,7.57,1
+2,Internet,RoundTrip,264,3,7,Fri,ICNSYD,South Korea,No,No,No,8.58,0
+1,Internet,RoundTrip,52,81,10,Mon,CEBMEL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,40,22,11,Sat,HKTPEK,United States,Yes,Yes,No,6.42,1
+1,Internet,RoundTrip,4,2,4,Tue,CGKKIX,Indonesia,No,No,Yes,7.0,1
+1,Internet,RoundTrip,85,6,8,Wed,CGKHND,Indonesia,No,No,Yes,7.57,1
+2,Internet,RoundTrip,67,5,10,Sat,BKIPER,Australia,Yes,No,Yes,5.62,0
+2,Internet,RoundTrip,108,26,11,Mon,CNXPER,Australia,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,58,5,9,Sun,DMKICN,Thailand,Yes,No,No,6.62,1
+2,Internet,RoundTrip,283,17,10,Thu,KIXOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,9,6,0,Fri,KIXSGN,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,49,88,11,Thu,COKMEL,Australia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,38,5,13,Sun,DMKKIX,Thailand,No,No,No,7.0,0
+2,Internet,RoundTrip,96,4,20,Sun,KBVOOL,Australia,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,38,24,14,Wed,BTUPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,16,3,10,Thu,AKLKUL,New Zealand,No,No,No,8.83,0
+1,Internet,RoundTrip,7,42,2,Wed,JHBKIX,Malaysia,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,17,30,3,Mon,HKTOOL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,36,22,18,Wed,ICNPEN,South Korea,No,Yes,No,6.62,0
+1,Internet,RoundTrip,133,22,2,Fri,COKPER,Australia,No,No,No,5.62,0
+2,Internet,RoundTrip,81,4,8,Thu,CMBSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,91,3,9,Wed,ICNSIN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,129,63,17,Fri,TRZWUH,Taiwan,Yes,No,Yes,5.13,0
+2,Internet,RoundTrip,192,35,5,Mon,COKPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,207,25,4,Tue,HKGMEL,Australia,No,No,No,8.83,0
+2,Mobile,RoundTrip,118,58,12,Mon,MYYPER,Malaysia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,20,22,7,Mon,ICNSYD,Australia,No,No,Yes,8.58,0
+2,Internet,RoundTrip,32,57,10,Thu,HKTMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,11,5,8,Mon,DMKTPE,Taiwan,Yes,Yes,Yes,4.67,0
+1,Internet,RoundTrip,2,21,4,Tue,KTMMFM,Macau,No,No,No,4.75,0
+1,Internet,RoundTrip,20,17,9,Wed,CCUSYD,India,Yes,No,No,8.58,0
+2,Internet,RoundTrip,62,3,13,Fri,HKTSYD,Australia,No,Yes,No,8.58,0
+3,Internet,RoundTrip,109,20,15,Mon,CTSDPS,Japan,No,No,No,8.67,0
+4,Internet,RoundTrip,70,4,1,Thu,DMKHND,Thailand,Yes,No,Yes,7.57,1
+1,Internet,RoundTrip,3,4,5,Mon,HNDPNH,Japan,Yes,No,No,7.57,1
+1,Internet,RoundTrip,55,6,4,Thu,DPSPVG,China,No,No,Yes,5.33,0
+2,Internet,RoundTrip,188,47,5,Sun,AKLKUL,Malaysia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,27,5,2,Fri,CNXPER,Australia,No,Yes,Yes,5.62,0
+2,Internet,RoundTrip,33,4,20,Thu,DMKPER,United Kingdom,Yes,Yes,Yes,5.62,0
+2,Mobile,RoundTrip,101,6,14,Wed,ICNSYD,South Korea,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,26,6,12,Thu,CMBPER,Australia,Yes,No,No,5.62,0
+1,Internet,OneWay,37,50,11,Mon,MELTPE,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,40,6,0,Fri,HKGMEL,Hong Kong,Yes,No,No,8.83,1
+2,Internet,RoundTrip,252,6,13,Tue,HKTPEK,China,No,No,No,6.42,1
+1,Internet,RoundTrip,67,45,10,Mon,JHBKTM,Malaysia,Yes,No,No,4.75,1
+2,Internet,RoundTrip,234,18,9,Mon,DACSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,212,28,12,Thu,HKTSYD,Australia,Yes,No,No,8.58,0
+3,Internet,RoundTrip,159,20,4,Thu,DMKPER,Australia,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,68,5,10,Tue,DELDPS,India,Yes,No,No,5.52,0
+1,Internet,RoundTrip,246,30,4,Fri,COKSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,90,36,23,Wed,HANOOL,Australia,No,No,No,8.83,0
+1,Mobile,RoundTrip,296,6,3,Mon,KBVPVG,China,No,No,No,5.33,0
+1,Internet,RoundTrip,275,27,9,Mon,DMKPER,Australia,No,No,No,5.62,0
+3,Internet,RoundTrip,403,4,15,Mon,ICNMLE,South Korea,No,Yes,No,6.62,0
+1,Internet,RoundTrip,169,20,11,Wed,CNXPER,Australia,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,23,1,6,Wed,MELTPE,Taiwan,Yes,No,No,8.83,0
+1,Internet,RoundTrip,8,17,2,Wed,ICNVTZ,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,59,29,4,Wed,MAAPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,54,5,5,Sat,MELTPE,Taiwan,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,32,17,11,Fri,COKPER,Australia,No,Yes,Yes,5.62,0
+1,Internet,RoundTrip,63,30,11,Fri,HYDSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,288,17,5,Sun,PENSYD,Malaysia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,111,28,18,Tue,DPSICN,United States,Yes,Yes,Yes,6.62,0
+1,Mobile,RoundTrip,28,5,13,Tue,HYDPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,50,28,10,Thu,OOLTPE,Australia,Yes,No,No,8.83,0
+3,Internet,RoundTrip,109,6,18,Sat,HNDKBV,Japan,Yes,Yes,Yes,7.57,1
+4,Internet,RoundTrip,35,22,9,Mon,CMBMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,3,6,21,Sun,DPSPVG,India,Yes,Yes,Yes,5.33,0
+1,Internet,RoundTrip,174,84,11,Tue,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,37,20,0,Tue,ICNPER,South Korea,Yes,Yes,Yes,6.62,0
+3,Internet,RoundTrip,18,5,14,Thu,DPSHND,Japan,Yes,No,No,7.57,0
+1,Internet,RoundTrip,5,28,10,Thu,ICNSYD,South Korea,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,29,28,22,Fri,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,421,5,7,Sun,CGKICN,Indonesia,No,No,No,6.62,0
+2,Internet,RoundTrip,58,17,4,Sun,HKTMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,28,93,4,Wed,KTMPEN,Malaysia,Yes,No,Yes,4.75,1
+3,Mobile,RoundTrip,52,5,3,Sun,LGKPVG,China,Yes,No,No,5.33,0
+1,Internet,RoundTrip,85,6,15,Mon,PEKPER,Singapore,Yes,Yes,Yes,6.42,0
+1,Internet,RoundTrip,85,23,5,Wed,MELPVG,United States,No,No,No,8.83,0
+1,Internet,RoundTrip,11,3,7,Tue,CGKPEK,Indonesia,Yes,No,No,6.42,0
+2,Internet,RoundTrip,3,18,13,Fri,PVGSUB,China,No,No,No,5.33,0
+2,Internet,RoundTrip,294,40,10,Sat,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,47,22,23,Thu,HKGMEL,United Kingdom,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,248,28,4,Wed,CMBMEL,Australia,Yes,No,Yes,8.83,0
+4,Internet,RoundTrip,16,17,9,Thu,CGKTPE,Indonesia,Yes,No,No,4.67,1
+1,Internet,RoundTrip,193,5,7,Sun,KIXLGK,Japan,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,1,29,6,Sun,CNXPER,Australia,No,No,No,5.62,0
+2,Internet,RoundTrip,398,17,10,Tue,OOLPEN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,3,5,2,Sun,MAATPE,Taiwan,No,No,Yes,4.67,0
+2,Internet,RoundTrip,190,24,22,Sun,MELSGN,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,57,29,7,Sun,KTMMEL,Australia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,8,5,6,Sat,PENTPE,Taiwan,Yes,No,No,4.67,1
+2,Internet,RoundTrip,43,30,5,Sun,HKTPEK,China,No,No,Yes,6.42,0
+1,Internet,RoundTrip,79,90,11,Sat,PENTPE,Malaysia,Yes,Yes,No,4.67,1
+1,Internet,RoundTrip,5,29,4,Thu,JHBKTM,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,4,19,4,Fri,COKSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,114,34,14,Fri,MELPVG,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,36,4,14,Mon,MYYPER,Malaysia,No,Yes,No,5.62,0
+1,Internet,RoundTrip,7,6,14,Wed,DPSSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,47,21,5,Wed,PERPNH,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,92,17,6,Wed,MELPNH,Australia,Yes,Yes,No,8.83,1
+1,Internet,RoundTrip,52,25,10,Mon,AKLKUL,Malaysia,Yes,Yes,No,8.83,0
+1,Mobile,RoundTrip,16,6,14,Mon,MELVTZ,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,22,6,10,Tue,HKTWUH,China,No,No,No,5.13,0
+1,Internet,RoundTrip,35,6,1,Tue,DMKOOL,Australia,No,No,No,8.83,0
+3,Internet,RoundTrip,83,28,1,Fri,COKSYD,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,172,22,12,Fri,HKTPEK,China,Yes,No,No,6.42,0
+2,Mobile,RoundTrip,19,5,6,Mon,HKTPEK,China,Yes,Yes,No,6.42,0
+1,Internet,RoundTrip,213,19,11,Thu,HKTMEL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,226,79,17,Sun,PENSYD,Malaysia,Yes,Yes,No,8.58,1
+2,Internet,RoundTrip,6,34,11,Mon,DELMEL,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,25,18,6,Thu,PENXIY,Malaysia,Yes,Yes,No,5.0,1
+1,Internet,RoundTrip,66,2,10,Tue,CTSPEN,Japan,No,Yes,Yes,8.67,0
+1,Internet,RoundTrip,82,55,12,Mon,SGNSYD,Australia,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,29,19,12,Mon,MELPEN,Australia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,22,5,10,Sat,DELHKT,India,No,No,No,5.52,0
+1,Internet,RoundTrip,46,3,10,Tue,ICNKBR,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,25,40,9,Fri,DMKOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,94,20,9,Tue,DMKMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,17,91,8,Mon,JHBKTM,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,114,6,10,Tue,DPSICN,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,4,4,4,Fri,HNDPER,Australia,No,Yes,Yes,7.57,0
+2,Internet,RoundTrip,98,17,1,Wed,PERSDK,Malaysia,Yes,Yes,Yes,5.62,1
+1,Internet,RoundTrip,35,6,5,Mon,CGKSYD,Indonesia,Yes,No,No,8.58,0
+3,Internet,RoundTrip,339,5,4,Mon,PENTPE,Singapore,No,No,Yes,4.67,1
+4,Internet,RoundTrip,79,31,7,Wed,DMKSYD,Australia,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,53,23,22,Wed,SYDTRZ,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,217,22,0,Sun,HNDPEN,Japan,Yes,Yes,No,7.57,0
+1,Internet,RoundTrip,21,67,2,Mon,COKSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,193,4,17,Sat,CGKKIX,Indonesia,No,Yes,No,7.0,0
+1,Internet,RoundTrip,55,26,13,Wed,SYDSZX,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,21,4,10,Fri,HNDSIN,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,54,36,12,Mon,HGHTRZ,China,No,No,Yes,5.07,0
+1,Internet,RoundTrip,5,5,8,Thu,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,55,88,7,Thu,IKAPER,Australia,Yes,No,Yes,8.15,0
+1,Internet,RoundTrip,269,6,6,Mon,ICNSBW,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,57,3,10,Thu,DMKKIX,Thailand,No,No,No,7.0,1
+1,Internet,RoundTrip,47,5,12,Tue,DELSGN,India,No,No,No,5.52,0
+1,Internet,RoundTrip,2,31,12,Mon,MYYXIY,Malaysia,Yes,No,Yes,5.0,0
+2,Internet,RoundTrip,9,6,5,Wed,PENSYD,Malaysia,No,No,Yes,8.58,0
+2,Internet,RoundTrip,265,6,8,Mon,DPSICN,South Korea,No,No,No,6.62,0
+1,Mobile,RoundTrip,63,5,12,Fri,PERREP,Australia,No,Yes,No,5.62,0
+1,Internet,RoundTrip,111,6,4,Sun,PERPNH,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,10,5,7,Mon,TGGTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,27,24,13,Wed,ICNPEN,Malaysia,No,No,No,6.62,0
+2,Internet,RoundTrip,47,2,14,Sun,CNXPER,Japan,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,141,32,15,Tue,PERTRZ,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,64,4,2,Sun,ICNMLE,United States,Yes,No,No,6.62,0
+2,Internet,RoundTrip,34,49,17,Tue,AKLKUL,Netherlands,Yes,No,No,8.83,0
+2,Internet,RoundTrip,15,3,10,Tue,DPSHND,Japan,No,No,No,7.57,0
+2,Mobile,RoundTrip,29,3,22,Thu,KIXSGN,Japan,Yes,Yes,No,7.0,0
+1,Mobile,RoundTrip,53,29,13,Sat,HYDMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,144,4,13,Sun,SYDTPE,Taiwan,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,17,30,12,Fri,PEKPEN,China,No,No,No,6.42,0
+3,Internet,RoundTrip,174,4,12,Wed,ICNPEN,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,38,21,9,Sun,BKIHND,Malaysia,Yes,Yes,Yes,7.57,0
+3,Mobile,RoundTrip,212,5,4,Sun,KNOPEK,Indonesia,Yes,No,No,6.42,0
+1,Internet,RoundTrip,88,17,8,Thu,KTMMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,51,4,22,Fri,HNDPEN,Japan,No,Yes,No,7.57,0
+1,Internet,RoundTrip,90,2,16,Tue,MAAPER,Thailand,No,Yes,Yes,5.62,0
+1,Internet,RoundTrip,330,22,20,Wed,AKLKUL,New Zealand,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,39,5,8,Mon,PENTPE,Taiwan,No,No,No,4.67,0
+2,Internet,RoundTrip,258,4,8,Mon,DMKSYD,Australia,Yes,Yes,No,8.58,0
+2,Internet,RoundTrip,21,6,16,Mon,AORMEL,Malaysia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,150,17,10,Fri,DMKPER,Australia,Yes,No,No,5.62,1
+1,Internet,RoundTrip,29,5,15,Tue,HKGPER,Hong Kong,No,No,No,5.62,0
+1,Internet,RoundTrip,75,5,2,Tue,ICNSBW,Malaysia,Yes,Yes,No,6.62,0
+4,Internet,RoundTrip,15,6,1,Tue,AKLKUL,Malaysia,Yes,Yes,No,8.83,1
+1,Internet,RoundTrip,131,5,3,Sat,REPTPE,Taiwan,No,No,Yes,4.67,0
+2,Internet,RoundTrip,4,23,14,Sat,CGKPEK,China,No,No,No,6.42,0
+1,Internet,RoundTrip,51,17,0,Sat,SGNSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,46,6,2,Wed,DPSPUS,France,Yes,No,Yes,6.33,0
+1,Internet,RoundTrip,35,39,15,Thu,HYDPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,13,6,10,Fri,ICNMEL,United States,No,No,Yes,8.83,0
+1,Internet,RoundTrip,11,3,14,Tue,KIXSGN,Japan,No,No,Yes,7.0,0
+2,Internet,RoundTrip,87,19,0,Fri,DMKSYD,Brazil,Yes,No,No,8.58,0
+1,Internet,RoundTrip,13,60,6,Tue,JHBKTM,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,7,22,3,Mon,LGKSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,54,4,6,Sat,PERPNH,Australia,Yes,Yes,Yes,5.62,0
+1,Mobile,RoundTrip,1,22,14,Tue,BOMMEL,India,Yes,No,No,8.83,0
+1,Internet,RoundTrip,31,24,14,Sat,OOLTPE,Australia,No,No,Yes,8.83,0
+4,Internet,RoundTrip,387,6,8,Mon,DPSHGH,China,Yes,No,No,5.07,1
+1,Internet,RoundTrip,122,5,4,Tue,DPSTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,46,29,2,Sat,KTMMFM,Macau,Yes,No,No,4.75,0
+1,Internet,RoundTrip,187,20,13,Mon,MELSBW,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,93,5,4,Mon,KIXSUB,Indonesia,Yes,Yes,Yes,7.0,1
+2,Internet,RoundTrip,298,22,7,Tue,AKLKUL,Malaysia,Yes,No,No,8.83,0
+6,Internet,RoundTrip,47,5,11,Tue,ICNKBV,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,47,19,7,Fri,SUBSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,62,5,15,Sat,DELLGK,India,No,No,No,5.52,0
+2,Internet,RoundTrip,94,90,6,Wed,JHBSYD,Singapore,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,19,57,10,Fri,KTMPEN,Malaysia,Yes,No,No,4.75,0
+1,Mobile,RoundTrip,93,3,14,Wed,PERSGN,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,42,5,2,Fri,DMKKIX,Japan,No,No,No,7.0,1
+2,Internet,RoundTrip,107,28,11,Thu,CMBSYD,Australia,Yes,Yes,Yes,8.58,0
+4,Internet,RoundTrip,108,6,5,Tue,PENPER,Malaysia,Yes,No,No,5.62,0
+3,Internet,RoundTrip,30,5,8,Mon,DMKKIX,Thailand,Yes,No,No,7.0,0
+1,Internet,RoundTrip,30,21,15,Fri,CGKTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,79,26,7,Mon,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,51,20,7,Fri,PERTPE,Australia,Yes,No,No,5.62,0
+2,Mobile,RoundTrip,86,22,19,Wed,CEBOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,186,3,17,Sun,PVGSIN,Singapore,No,No,No,5.33,1
+1,Internet,RoundTrip,7,71,6,Sat,PENSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,115,137,12,Fri,MELRGN,Indonesia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,60,18,23,Thu,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,282,6,1,Mon,CGKICN,Indonesia,No,No,No,6.62,0
+2,Internet,RoundTrip,11,43,12,Wed,CEBMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,39,3,10,Mon,SYDTRZ,Australia,No,Yes,Yes,8.58,0
+7,Internet,RoundTrip,219,5,3,Mon,DELSIN,India,No,No,Yes,5.52,0
+1,Internet,RoundTrip,2,40,2,Tue,MELMYY,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,11,5,2,Thu,KIXPER,Australia,No,No,No,7.0,0
+1,Internet,RoundTrip,160,3,14,Sat,HNDSIN,Japan,No,Yes,No,7.57,0
+3,Internet,RoundTrip,95,5,7,Mon,PUSSIN,South Korea,Yes,No,No,6.33,0
+2,Internet,RoundTrip,210,31,12,Wed,HKTOOL,Australia,Yes,Yes,No,8.83,0
+5,Internet,RoundTrip,113,5,3,Mon,HKTPER,Australia,Yes,No,No,5.62,1
+2,Internet,RoundTrip,63,18,11,Sun,CANSYD,China,Yes,No,Yes,8.58,1
+1,Internet,RoundTrip,60,33,4,Sat,SGNSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,278,65,2,Wed,MELPNH,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,17,41,13,Sat,DELMEL,India,Yes,No,No,8.83,0
+1,Internet,RoundTrip,28,56,21,Tue,DPSHND,Japan,Yes,Yes,No,7.57,0
+1,Internet,RoundTrip,90,18,7,Fri,SGNSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,22,22,14,Fri,BKICTS,Malaysia,Yes,No,No,8.67,1
+1,Internet,RoundTrip,11,4,4,Sat,CGKTPE,Taiwan,Yes,No,No,4.67,0
+1,Mobile,RoundTrip,371,6,0,Tue,AKLKUL,Malaysia,No,No,No,8.83,1
+2,Internet,RoundTrip,22,43,7,Sat,CGKDEL,Indonesia,Yes,No,No,5.52,0
+1,Internet,RoundTrip,218,30,7,Thu,MELSGN,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,166,29,1,Thu,CNXOOL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,102,29,15,Fri,PEKSIN,China,No,No,No,6.42,0
+1,Internet,RoundTrip,347,27,10,Sat,KNOSYD,Indonesia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,52,4,15,Thu,ICNSIN,South Korea,Yes,Yes,No,6.62,0
+2,Internet,RoundTrip,95,3,6,Sun,SBWTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,36,4,1,Tue,KCHKIX,Malaysia,No,Yes,Yes,7.0,0
+2,Internet,RoundTrip,215,17,9,Fri,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,340,5,5,Fri,MELSBW,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,40,78,1,Fri,CEBMEL,Philippines,Yes,No,No,8.83,0
+1,Internet,RoundTrip,118,21,1,Sat,COKPER,Australia,Yes,No,Yes,5.62,0
+2,Internet,RoundTrip,41,19,15,Fri,DPSPEK,China,Yes,No,Yes,6.42,0
+1,Internet,OneWay,18,5,7,Fri,SUBSYD,Indonesia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,28,72,5,Sun,DADOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Mobile,RoundTrip,270,17,11,Thu,CTSKNO,Japan,No,No,No,8.67,0
+2,Internet,RoundTrip,141,19,12,Sat,OOLPNH,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,69,20,8,Sun,CMBSYD,Australia,Yes,Yes,Yes,8.58,0
+3,Internet,RoundTrip,53,5,11,Mon,DPSSYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,39,31,8,Mon,MNLSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,54,21,16,Sun,MELPEK,(not set),Yes,No,No,8.83,0
+1,Internet,RoundTrip,20,33,13,Fri,ICNPER,Australia,Yes,No,No,6.62,0
+1,Internet,RoundTrip,67,6,3,Fri,ICNJHB,South Korea,No,Yes,Yes,6.62,0
+1,Internet,RoundTrip,9,3,16,Mon,CGKHND,Japan,No,No,No,7.57,1
+3,Internet,RoundTrip,111,5,14,Mon,ICNMEL,South Korea,No,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,28,31,23,Sat,MELTPE,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,24,5,7,Wed,DPSICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,108,4,6,Mon,DPSHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,9,19,11,Mon,MELPEN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,39,72,2,Sun,ICNPEN,South Korea,Yes,No,Yes,6.62,0
+2,Mobile,RoundTrip,80,6,23,Fri,KNOSYD,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,287,26,20,Sun,DMKSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,118,48,15,Fri,MNLPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,20,3,15,Sun,MELPEN,Malaysia,No,No,No,8.83,0
+2,Internet,RoundTrip,47,31,9,Fri,MAAMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,26,20,5,Thu,HGHOOL,Australia,No,No,Yes,8.83,0
+1,Mobile,RoundTrip,65,31,9,Mon,CGKKIX,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,0,1,1,Wed,DMKKIX,Thailand,Yes,No,No,7.0,1
+1,Internet,RoundTrip,7,4,0,Wed,PENSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,73,45,9,Thu,CGKMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,57,4,13,Sun,HKTKIX,Japan,Yes,Yes,No,7.0,0
+3,Internet,RoundTrip,230,21,21,Wed,MELSGN,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,87,4,6,Fri,KIXREP,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,114,6,0,Mon,OOLPNH,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,68,5,7,Tue,CMBPVG,United States,Yes,No,No,5.33,0
+2,Internet,RoundTrip,135,23,11,Mon,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,56,29,1,Mon,DMKPER,Thailand,No,No,No,5.62,0
+1,Internet,RoundTrip,24,74,23,Sat,PERRGN,Australia,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,42,5,4,Tue,CNXHND,Thailand,Yes,Yes,No,7.57,0
+1,Internet,RoundTrip,9,137,23,Mon,OOLPNH,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,86,22,6,Sun,KCHPER,Australia,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,54,3,10,Sat,PUSSIN,South Korea,Yes,No,Yes,6.33,0
+1,Internet,RoundTrip,9,74,7,Thu,MELPEN,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,170,23,22,Tue,AKLKUL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,56,3,14,Thu,HKGKTM,Hong Kong,No,No,No,4.75,0
+1,Internet,RoundTrip,22,3,15,Sun,DELDPS,India,No,No,No,5.52,0
+1,Internet,OneWay,18,6,5,Tue,KIXSYD,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,12,174,7,Tue,HYDMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,156,36,23,Wed,COKMEL,Australia,No,No,No,8.83,0
+3,Internet,RoundTrip,93,18,14,Tue,CKGMEL,China,Yes,No,No,8.83,1
+1,Internet,RoundTrip,11,92,1,Thu,JHBKTM,Malaysia,Yes,No,No,4.75,1
+1,Internet,RoundTrip,28,180,10,Wed,DMKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,34,93,13,Tue,HKTMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,12,6,18,Tue,ICNSIN,Singapore,Yes,No,No,6.62,1
+1,Internet,RoundTrip,45,19,11,Thu,MELTRZ,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,45,27,10,Wed,KCHMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,105,21,9,Tue,HNDSYD,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,64,6,7,Tue,KIXSIN,Japan,Yes,No,No,7.0,0
+2,Mobile,RoundTrip,9,26,8,Fri,AKLKUL,Thailand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,7,5,15,Wed,BTUICN,Malaysia,No,No,No,6.62,0
+5,Internet,RoundTrip,36,20,4,Tue,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,64,24,5,Fri,DMKOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,11,36,3,Fri,SGNSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,59,4,8,Thu,PENTPE,Macau,Yes,No,Yes,4.67,1
+1,Internet,RoundTrip,274,6,12,Mon,CGKKIX,Indonesia,No,No,No,7.0,0
+1,Internet,RoundTrip,8,73,14,Mon,PENPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,99,6,13,Tue,OOLSIN,Singapore,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,3,6,1,Fri,CGKSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,70,31,19,Tue,AKLKUL,New Zealand,Yes,No,Yes,8.83,1
+1,Mobile,RoundTrip,71,5,8,Wed,MELSGN,Vietnam,No,Yes,No,8.83,0
+1,Internet,RoundTrip,58,4,10,Tue,OOLPEN,Malaysia,Yes,No,Yes,8.83,0
+1,Mobile,RoundTrip,23,5,11,Tue,SYDTPE,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,71,31,12,Fri,AKLKUL,France,No,No,Yes,8.83,1
+1,Internet,RoundTrip,17,51,5,Tue,JHBKTM,Malaysia,Yes,No,No,4.75,0
+1,Mobile,RoundTrip,61,29,10,Sun,DMKPER,Australia,Yes,Yes,Yes,5.62,0
+3,Mobile,RoundTrip,35,26,6,Mon,CANSYD,China,Yes,Yes,No,8.58,0
+2,Internet,RoundTrip,360,18,8,Tue,HKTMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,7,18,21,Mon,DPSMEL,Chile,No,No,No,8.83,0
+1,Internet,RoundTrip,10,20,19,Sun,DACSYD,Australia,Yes,Yes,Yes,8.58,0
+5,Internet,RoundTrip,66,24,16,Tue,CGKSYD,Indonesia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,18,4,7,Wed,PERPNH,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,64,182,16,Mon,AKLKUL,Thailand,Yes,No,No,8.83,0
+3,Internet,RoundTrip,21,6,14,Sun,CTSSIN,Singapore,Yes,Yes,No,8.67,0
+2,Internet,RoundTrip,123,20,15,Mon,HYDSYD,United States,Yes,No,No,8.58,0
+1,Internet,RoundTrip,37,29,11,Mon,MELTPE,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,133,87,15,Tue,JHBMEL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,29,23,23,Mon,PNHSYD,Australia,Yes,Yes,Yes,8.58,1
+1,Internet,RoundTrip,287,17,15,Sat,AKLKUL,Malaysia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,55,22,12,Fri,COKMEL,India,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,59,38,23,Fri,MELSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,48,4,12,Thu,DPSPUS,South Korea,No,Yes,Yes,6.33,0
+2,Internet,RoundTrip,2,3,7,Tue,ICNPEN,South Korea,No,No,Yes,6.62,0
+3,Internet,RoundTrip,78,5,0,Tue,DPSPEK,China,Yes,No,No,6.42,0
+1,Internet,RoundTrip,68,29,8,Fri,COKMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,25,5,12,Sat,KCHMEL,Australia,Yes,Yes,No,8.83,1
+5,Internet,RoundTrip,62,4,13,Thu,SBWTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,50,28,12,Wed,IKAPEN,Malaysia,Yes,Yes,No,8.15,0
+1,Internet,RoundTrip,27,5,14,Mon,ICNSIN,Singapore,No,No,No,6.62,0
+1,Internet,RoundTrip,26,20,7,Sat,DELMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,219,4,6,Tue,CTSDMK,Thailand,Yes,No,No,8.67,1
+2,Internet,RoundTrip,104,3,12,Sat,HKGMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,5,6,8,Mon,ICNMYY,Malaysia,No,No,No,6.62,0
+4,Internet,RoundTrip,76,22,8,Wed,MNLOOL,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,304,6,3,Mon,HGHKNO,Indonesia,No,No,No,5.07,0
+1,Internet,RoundTrip,84,4,6,Wed,PENTPE,Malaysia,No,No,No,4.67,0
+1,Internet,RoundTrip,46,25,15,Fri,MELTPE,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,7,5,13,Wed,PENSYD,Malaysia,Yes,Yes,Yes,8.58,1
+2,Internet,RoundTrip,153,6,13,Wed,ICNSYD,South Korea,No,No,No,8.58,0
+1,Internet,RoundTrip,26,37,23,Thu,DMKPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,51,64,5,Wed,ICNOOL,Australia,Yes,No,No,8.83,0
+3,Internet,RoundTrip,224,25,0,Wed,DPSICN,South Korea,Yes,No,No,6.62,1
+1,Internet,RoundTrip,249,123,1,Tue,PENPER,Malaysia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,89,4,18,Wed,DELDPS,India,Yes,No,No,5.52,0
+2,Internet,RoundTrip,93,5,14,Sat,ICNJHB,Malaysia,Yes,No,Yes,6.62,1
+1,Internet,RoundTrip,178,32,2,Fri,PERTPE,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,5,20,7,Thu,MNLSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,14,60,7,Thu,DMKSYD,Australia,Yes,No,Yes,8.58,0
+5,Internet,RoundTrip,337,18,18,Sun,AKLKUL,Malaysia,Yes,No,No,8.83,1
+4,Internet,RoundTrip,179,34,23,Fri,COKOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Mobile,RoundTrip,297,35,2,Sun,MELPEN,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,126,41,6,Fri,AKLKUL,Malaysia,Yes,Yes,No,8.83,1
+3,Internet,RoundTrip,32,5,15,Fri,PEKTGG,China,No,No,No,6.42,0
+1,Internet,RoundTrip,32,5,18,Sun,COKPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,52,18,12,Tue,PENPER,Malaysia,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,21,21,4,Mon,CNXPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,49,6,13,Wed,PENPUS,South Korea,Yes,Yes,Yes,6.33,1
+1,Internet,RoundTrip,53,21,6,Wed,PERSGN,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,97,37,6,Sat,ICNPEN,South Korea,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,26,215,3,Wed,CMBMEL,Sri Lanka,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,3,6,18,Sat,COKHGH,India,No,No,No,5.07,0
+2,Internet,RoundTrip,12,29,9,Fri,JHBKTM,Malaysia,Yes,Yes,Yes,4.75,0
+1,Internet,RoundTrip,119,24,2,Fri,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,4,25,15,Sun,PENTPE,Malaysia,Yes,No,No,4.67,1
+1,Internet,RoundTrip,130,6,8,Thu,KIXPEN,Malaysia,Yes,No,No,7.0,0
+1,Internet,RoundTrip,67,17,9,Mon,CGKDEL,France,No,No,No,5.52,1
+1,Internet,RoundTrip,19,6,9,Thu,MELTPE,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,395,4,17,Sun,DMKPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,10,59,4,Sat,PERPUS,Australia,Yes,No,No,6.33,0
+1,Internet,RoundTrip,45,4,11,Tue,OOLSGN,Vietnam,No,No,No,8.83,1
+1,Internet,RoundTrip,91,84,8,Thu,BKIMEL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,37,34,6,Sat,PERTPE,Australia,Yes,Yes,Yes,5.62,0
+2,Mobile,RoundTrip,74,6,11,Sat,ICNMLE,South Korea,No,No,No,6.62,1
+1,Internet,RoundTrip,170,63,7,Sat,MELPEN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,10,5,11,Mon,HYDPER,Australia,No,Yes,Yes,5.62,1
+1,Internet,RoundTrip,84,57,13,Wed,COKHGH,China,Yes,No,No,5.07,0
+1,Internet,RoundTrip,21,2,14,Mon,DMKOOL,Cambodia,No,No,No,8.83,0
+1,Internet,RoundTrip,231,25,11,Thu,PNHSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Mobile,RoundTrip,1,31,3,Sun,ICNSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,43,3,23,Wed,SINTPE,Taiwan,No,No,No,4.67,0
+2,Internet,RoundTrip,60,18,9,Fri,MELSGN,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,35,27,4,Fri,MAAPER,Australia,Yes,No,No,5.62,0
+1,Internet,OneWay,10,1,7,Fri,KCHPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,7,3,6,Fri,JHBXIY,Malaysia,No,No,No,5.0,0
+1,Internet,RoundTrip,14,21,13,Sat,ICNSYD,Australia,Yes,Yes,Yes,8.58,0
+3,Internet,RoundTrip,92,107,14,Sat,CGKHND,Japan,Yes,Yes,Yes,7.57,0
+2,Internet,RoundTrip,26,25,0,Thu,ICNSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,13,6,2,Thu,DMKPER,Australia,No,No,Yes,5.62,0
+1,Mobile,RoundTrip,33,18,9,Wed,DPSICN,South Korea,No,No,No,6.62,0
+2,Internet,RoundTrip,75,21,9,Thu,MNLOOL,Philippines,No,No,No,8.83,0
+1,Internet,RoundTrip,25,5,6,Sat,MELTPE,Taiwan,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,87,5,14,Sun,ICNSIN,Singapore,Yes,No,No,6.62,0
+1,Internet,RoundTrip,8,91,8,Sun,DMKOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,51,85,13,Fri,ICNSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,184,5,8,Mon,BKIPVG,United States,No,No,No,5.33,0
+2,Mobile,RoundTrip,1,6,5,Sat,ICNSIN,Singapore,No,No,No,6.62,0
+1,Internet,RoundTrip,31,29,0,Tue,SYDTPE,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,56,19,14,Tue,PENSYD,Malaysia,No,Yes,Yes,8.58,0
+1,Internet,RoundTrip,63,27,7,Sat,DACSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,94,22,7,Fri,CRKMEL,Philippines,Yes,No,No,8.83,0
+1,Internet,RoundTrip,47,29,6,Tue,ICNMEL,South Korea,Yes,No,No,8.83,0
+1,Internet,RoundTrip,9,5,1,Wed,CTUMYY,Malaysia,Yes,No,Yes,4.72,1
+1,Internet,RoundTrip,39,19,13,Fri,HKTSYD,Australia,Yes,Yes,No,8.58,0
+2,Internet,RoundTrip,202,25,6,Mon,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,49,4,11,Mon,AKLKUL,Malaysia,No,No,No,8.83,1
+1,Internet,RoundTrip,36,24,15,Sun,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,121,4,11,Tue,HKTKIX,Japan,No,No,No,7.0,0
+4,Internet,RoundTrip,75,19,1,Sat,COKSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,9,59,9,Tue,MELTPE,Taiwan,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,28,6,1,Thu,MYYPER,Malaysia,Yes,No,Yes,5.62,0
+2,Internet,RoundTrip,136,24,8,Tue,COKPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,53,120,10,Sun,HKGSYD,Hong Kong,Yes,Yes,Yes,8.58,1
+1,Internet,RoundTrip,18,59,2,Tue,KTMTGG,Malaysia,Yes,No,No,4.75,0
+2,Internet,RoundTrip,154,31,2,Sun,CMBPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,47,4,18,Fri,IKASIN,Singapore,Yes,No,No,8.15,0
+2,Internet,RoundTrip,193,23,4,Wed,MELPEN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,31,21,17,Sun,BDOMEL,Indonesia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,37,32,15,Mon,HNDPER,Australia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,70,28,9,Sun,MNLPER,Australia,Yes,No,Yes,5.62,0
+1,Mobile,RoundTrip,22,4,5,Fri,DMKKIX,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,17,25,10,Wed,COKSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,104,5,8,Fri,TGGTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,20,84,12,Wed,COKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,1,28,2,Fri,PENTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,14,21,8,Thu,SYDTPE,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,48,6,15,Sun,DPSHND,Japan,No,Yes,No,7.57,0
+1,Internet,RoundTrip,11,37,7,Fri,PERSBW,Malaysia,No,No,No,5.62,0
+2,Internet,RoundTrip,236,6,4,Tue,MELSUB,Indonesia,No,Yes,No,8.83,0
+2,Mobile,RoundTrip,85,4,16,Tue,CTSLGK,Japan,Yes,Yes,Yes,8.67,0
+1,Internet,RoundTrip,33,6,14,Sat,CGKKIX,Indonesia,Yes,No,No,7.0,0
+2,Internet,RoundTrip,38,18,14,Fri,HKTPER,Australia,Yes,No,No,5.62,0
+3,Internet,RoundTrip,86,5,9,Tue,DMKKIX,Thailand,Yes,No,No,7.0,1
+3,Internet,RoundTrip,57,43,11,Wed,COKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,37,4,14,Sun,DPSKIX,Japan,Yes,Yes,Yes,7.0,0
+3,Internet,RoundTrip,12,6,3,Fri,HKTKIX,China,Yes,No,No,7.0,0
+3,Mobile,RoundTrip,113,5,4,Wed,PVGSIN,China,Yes,No,No,5.33,0
+2,Internet,RoundTrip,95,4,12,Mon,HKTICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,54,37,13,Sun,PNHSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Mobile,RoundTrip,201,33,0,Sat,DMKPER,Thailand,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,46,18,23,Sun,HKGOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,40,25,12,Tue,DPSHND,Japan,Yes,Yes,Yes,7.57,0
+2,Internet,RoundTrip,10,355,5,Thu,HYDOOL,India,Yes,Yes,Yes,8.83,1
+2,Internet,RoundTrip,272,17,9,Wed,HKTOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,84,3,8,Mon,DPSKIX,Japan,Yes,Yes,No,7.0,0
+3,Internet,RoundTrip,75,5,3,Sat,REPTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,84,59,4,Mon,DPSPUS,South Korea,No,No,No,6.33,0
+1,Mobile,RoundTrip,62,5,15,Sun,KIXSIN,Singapore,Yes,Yes,Yes,7.0,1
+3,Internet,RoundTrip,25,6,13,Mon,ICNJHB,Singapore,Yes,No,No,6.62,0
+2,Internet,RoundTrip,97,6,9,Fri,HKTPEK,China,Yes,No,Yes,6.42,1
+1,Internet,RoundTrip,50,23,15,Mon,MAAPER,Réunion,Yes,No,No,5.62,0
+1,Internet,RoundTrip,2,5,1,Mon,CGKKIX,Indonesia,No,Yes,No,7.0,0
+1,Mobile,RoundTrip,24,6,11,Mon,MNLPER,Philippines,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,18,3,12,Tue,ICNKBV,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,34,18,18,Sun,DPSPEK,United States,Yes,No,No,6.42,0
+2,Internet,RoundTrip,42,4,6,Fri,PEKSBW,Malaysia,Yes,Yes,Yes,6.42,0
+1,Internet,RoundTrip,282,5,7,Tue,REPTPE,China,No,No,No,4.67,0
+1,Mobile,RoundTrip,56,26,14,Sun,HNDRGN,Japan,No,Yes,No,7.57,0
+2,Internet,RoundTrip,291,21,5,Wed,CMBSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,76,27,6,Mon,CKGSBW,Malaysia,Yes,No,No,4.83,0
+1,Internet,RoundTrip,27,26,6,Thu,CTUSIN,Singapore,Yes,No,No,4.72,0
+1,Internet,RoundTrip,12,17,6,Thu,SGNSYD,Australia,Yes,Yes,No,8.58,1
+1,Mobile,RoundTrip,15,46,12,Tue,HKGPER,Australia,Yes,No,Yes,5.62,0
+1,Mobile,RoundTrip,1,6,1,Tue,DACSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,234,17,22,Tue,DELSYD,India,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,75,6,15,Sat,DPSPVG,China,No,No,No,5.33,0
+2,Internet,RoundTrip,41,3,15,Fri,PEKSIN,China,Yes,No,No,6.42,0
+1,Internet,RoundTrip,6,4,6,Fri,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,2,25,13,Wed,KCHMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,20,32,11,Wed,HYDMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,8,3,16,Sat,ICNSYD,United States,No,No,No,8.58,0
+1,Internet,RoundTrip,92,19,0,Mon,CMBPER,Australia,Yes,No,No,5.62,0
+5,Internet,RoundTrip,63,6,11,Tue,JHBMEL,Malaysia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,59,28,6,Sun,BDOOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,81,6,11,Tue,HKTSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Mobile,RoundTrip,221,17,13,Sat,JOGMEL,Indonesia,No,Yes,No,8.83,0
+3,Internet,RoundTrip,127,43,20,Wed,AKLKUL,New Zealand,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,33,121,2,Wed,DMKPER,Australia,Yes,No,No,5.62,0
+3,Internet,RoundTrip,348,4,17,Sat,CTSDMK,Thailand,No,No,No,8.67,0
+1,Internet,RoundTrip,15,5,11,Wed,KCHPER,Australia,No,No,No,5.62,0
+1,Mobile,RoundTrip,44,4,7,Tue,ICNPER,Australia,No,No,No,6.62,0
+3,Internet,RoundTrip,23,4,13,Wed,DMKHND,Thailand,Yes,Yes,Yes,7.57,1
+1,Internet,RoundTrip,24,22,10,Tue,KCHPER,Malaysia,Yes,Yes,No,5.62,1
+1,Internet,RoundTrip,241,47,4,Mon,AKLKUL,Malaysia,Yes,Yes,No,8.83,1
+1,Mobile,RoundTrip,47,113,14,Sun,DACSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,140,4,4,Thu,KIXREP,Japan,Yes,Yes,Yes,7.0,1
+1,Internet,RoundTrip,20,6,23,Thu,AKLKUL,New Zealand,No,No,Yes,8.83,0
+4,Internet,RoundTrip,94,17,16,Tue,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,44,5,7,Tue,MELPEN,Malaysia,Yes,Yes,Yes,8.83,1
+2,Internet,RoundTrip,55,5,9,Sun,DPSICN,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,19,31,3,Sat,HKGMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,106,6,1,Tue,DPSICN,South Korea,No,Yes,Yes,6.62,0
+1,Internet,RoundTrip,284,42,19,Sun,DMKSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,9,87,0,Thu,BKIMEL,Malaysia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,17,6,18,Fri,AKLKUL,Malaysia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,55,91,12,Thu,COKOOL,Australia,Yes,Yes,Yes,8.83,0
+3,Mobile,RoundTrip,407,5,13,Wed,CGKKIX,Indonesia,Yes,Yes,Yes,7.0,1
+1,Internet,RoundTrip,325,22,4,Wed,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,57,24,6,Sat,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,127,3,2,Wed,HKTKIX,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,43,28,5,Sat,DPSSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,42,84,19,Sun,MELSGN,Vietnam,No,No,No,8.83,0
+1,Internet,RoundTrip,33,30,10,Wed,HKGOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,18,5,23,Fri,HNDPEN,Japan,No,Yes,No,7.57,0
+1,Internet,RoundTrip,4,6,9,Wed,CTSSGN,Japan,Yes,No,No,8.67,0
+1,Internet,OneWay,275,26,3,Thu,HNDPER,Australia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,4,4,5,Tue,CGKHGH,Indonesia,No,No,Yes,5.07,1
+2,Internet,RoundTrip,13,6,23,Thu,CEBMEL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,13,6,5,Fri,HKTPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,59,4,11,Mon,MELTPE,Australia,No,No,Yes,8.83,0
+1,Mobile,RoundTrip,43,17,0,Fri,KTMMFM,Macau,No,No,No,4.75,1
+3,Internet,RoundTrip,103,3,12,Sun,KIXPEN,Japan,No,No,No,7.0,0
+2,Internet,RoundTrip,135,22,13,Wed,AKLKUL,Malaysia,Yes,Yes,No,8.83,0
+1,Mobile,RoundTrip,2,6,4,Tue,CTSDMK,Thailand,No,No,No,8.67,0
+1,Internet,RoundTrip,380,18,10,Sun,ICNSYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,6,2,8,Fri,HKTSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,220,29,4,Sun,PENTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,26,20,12,Mon,MAAOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,61,4,9,Sat,HNDLGK,Japan,No,No,No,7.57,1
+6,Internet,RoundTrip,22,5,10,Tue,BKIPEK,China,Yes,Yes,Yes,6.42,0
+2,Internet,RoundTrip,76,6,11,Thu,MLEPER,Australia,No,No,Yes,5.62,1
+1,Mobile,RoundTrip,29,5,13,Tue,BKIPEK,China,No,Yes,No,6.42,0
+1,Internet,RoundTrip,146,35,4,Wed,MELSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,0,4,2,Mon,SBWTPE,Taiwan,Yes,Yes,Yes,4.67,0
+2,Mobile,RoundTrip,159,5,7,Sat,CGKHND,Indonesia,Yes,No,No,7.57,0
+7,Internet,RoundTrip,84,5,12,Sat,DPSPVG,China,Yes,Yes,No,5.33,0
+1,Internet,RoundTrip,22,23,8,Sat,CMBMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,30,4,4,Mon,CNXTPE,Taiwan,No,No,No,4.67,0
+2,Internet,RoundTrip,1,19,3,Mon,KTMSIN,Singapore,No,No,No,4.75,1
+1,Internet,RoundTrip,16,29,15,Thu,OOLTPE,Taiwan,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,77,30,0,Sat,ICNSYD,South Korea,No,No,No,8.58,0
+4,Mobile,RoundTrip,175,6,12,Wed,DPSPVG,China,No,No,No,5.33,0
+2,Internet,RoundTrip,58,3,4,Tue,PEKSUB,Indonesia,Yes,No,Yes,6.42,0
+1,Internet,RoundTrip,37,22,5,Fri,PERSGN,Vietnam,Yes,No,No,5.62,0
+1,Internet,RoundTrip,53,4,9,Sat,KCHOOL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,46,38,13,Fri,COKCTU,China,Yes,No,No,4.72,0
+2,Internet,RoundTrip,149,17,10,Sat,DMKSYD,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,86,4,15,Sat,HKTICN,South Korea,Yes,No,No,6.62,0
+5,Internet,RoundTrip,161,6,8,Sun,CTUDPS,Singapore,No,No,No,4.72,1
+2,Internet,RoundTrip,23,5,9,Sun,KBRPUS,Malaysia,No,No,No,6.33,1
+1,Internet,RoundTrip,0,31,7,Thu,MELPEN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,62,29,12,Thu,HKTOOL,Australia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,290,113,13,Mon,BKIMEL,Malaysia,Yes,No,No,8.83,0
+3,Internet,RoundTrip,54,4,11,Sat,CGKHND,Indonesia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,96,19,5,Wed,ICNOOL,South Korea,No,No,Yes,8.83,0
+1,Internet,RoundTrip,4,3,16,Mon,CGKHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,2,36,7,Thu,JHBKTM,Malaysia,Yes,No,No,4.75,1
+1,Internet,RoundTrip,11,3,6,Wed,BKIPER,Malaysia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,74,47,13,Sat,CCUSYD,Australia,No,No,Yes,8.58,0
+4,Internet,RoundTrip,14,6,14,Fri,CGKPVG,China,Yes,Yes,Yes,5.33,1
+1,Internet,RoundTrip,85,29,13,Sun,HNDSUB,Brunei,Yes,No,No,7.57,1
+1,Internet,OneWay,37,1,14,Mon,JHBPUS,Malaysia,Yes,No,Yes,6.33,0
+1,Internet,RoundTrip,219,6,10,Mon,BKIHND,Malaysia,Yes,No,No,7.57,1
+2,Internet,RoundTrip,33,5,9,Wed,PEKPEN,Malaysia,Yes,Yes,Yes,6.42,0
+9,Mobile,RoundTrip,23,6,21,Thu,BKIXIY,China,Yes,No,No,5.0,0
+1,Internet,RoundTrip,44,35,2,Wed,CGKICN,United States,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,5,4,6,Fri,CGKICN,Indonesia,Yes,No,Yes,6.62,0
+2,Internet,RoundTrip,182,41,0,Fri,AKLKUL,New Zealand,Yes,No,No,8.83,1
+1,Internet,RoundTrip,37,59,11,Sat,DELDPS,Indonesia,Yes,No,No,5.52,0
+1,Mobile,RoundTrip,20,4,1,Tue,CTUSIN,China,No,No,No,4.72,0
+1,Internet,RoundTrip,13,31,8,Tue,HNDPER,Japan,Yes,No,No,7.57,0
+1,Internet,RoundTrip,16,3,9,Fri,DMKICN,Thailand,No,No,No,6.62,0
+2,Mobile,RoundTrip,21,5,18,Sun,DPSKIX,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,5,19,23,Fri,MAASYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,65,5,5,Tue,REPTPE,Taiwan,No,No,Yes,4.67,0
+1,Internet,RoundTrip,23,17,7,Tue,AKLTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,102,58,5,Sat,DPSPEK,Russia,No,No,No,6.42,1
+1,Internet,RoundTrip,87,6,23,Mon,ICNSIN,Japan,No,No,No,6.62,0
+1,Internet,RoundTrip,66,21,10,Sun,CANPER,Australia,No,No,No,5.62,0
+5,Internet,RoundTrip,23,5,13,Wed,CTSDMK,Thailand,Yes,Yes,No,8.67,1
+1,Mobile,RoundTrip,0,82,6,Fri,KTMSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,343,21,13,Tue,CGKIKA,Indonesia,No,No,Yes,8.15,0
+2,Internet,RoundTrip,56,5,14,Sun,DELDPS,Indonesia,Yes,Yes,Yes,5.52,0
+1,Internet,RoundTrip,56,21,9,Thu,SYDTRZ,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,11,4,7,Tue,CGKPEK,Indonesia,Yes,No,No,6.42,0
+2,Internet,RoundTrip,42,17,13,Wed,SGNSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,39,17,13,Fri,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,29,5,12,Mon,CGKPVG,China,No,No,No,5.33,0
+1,Internet,RoundTrip,10,90,13,Thu,COKMEL,India,No,No,Yes,8.83,0
+2,Internet,RoundTrip,40,21,7,Mon,DADMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,17,3,2,Thu,BLRICN,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,2,21,5,Fri,CMBOOL,Sri Lanka,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,57,17,0,Sun,KNOTPE,Taiwan,No,No,No,4.67,0
+2,Internet,RoundTrip,136,29,10,Tue,DPSPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,53,23,9,Wed,KCHMEL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,212,34,7,Sat,SGNSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,3,2,8,Fri,HNDPEN,Malaysia,No,No,No,7.57,1
+2,Internet,RoundTrip,28,18,5,Fri,DACICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,57,6,2,Fri,CGKICN,Indonesia,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,258,21,12,Fri,CKGSBW,Malaysia,Yes,No,No,4.83,1
+1,Internet,RoundTrip,28,28,8,Tue,DPSSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,32,4,6,Tue,DPSICN,South Korea,No,No,No,6.62,0
+2,Internet,RoundTrip,106,30,9,Mon,PEKPEN,Malaysia,No,No,No,6.42,0
+1,Internet,RoundTrip,33,6,17,Sat,MELXIY,Australia,No,No,Yes,8.83,0
+1,Mobile,RoundTrip,9,4,12,Sat,JHBMRU,Malaysia,Yes,Yes,Yes,7.42,0
+2,Internet,RoundTrip,260,27,0,Mon,CTSDMK,Australia,Yes,Yes,No,8.67,0
+4,Mobile,RoundTrip,16,27,4,Sat,DELPER,Australia,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,146,24,10,Thu,MELSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,16,28,5,Sat,MAAOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,45,5,8,Sun,JHBKIX,Malaysia,Yes,Yes,Yes,7.0,1
+1,Internet,RoundTrip,3,2,8,Thu,PENTPE,Malaysia,Yes,No,Yes,4.67,0
+2,Internet,RoundTrip,129,31,12,Sun,COKSYD,Australia,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,50,27,6,Fri,DELPER,Australia,No,No,No,5.62,0
+3,Internet,RoundTrip,269,48,11,Thu,DMKOOL,Bhutan,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,78,21,10,Mon,ICNSIN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,33,5,4,Tue,HKTICN,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,1,6,12,Tue,ICNPEN,Malaysia,No,Yes,No,6.62,0
+2,Internet,RoundTrip,41,84,0,Thu,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,15,20,12,Wed,AKLKUL,Malaysia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,259,18,22,Fri,CEBMEL,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,49,5,14,Mon,HNDKBR,Japan,No,Yes,Yes,7.57,0
+1,Internet,RoundTrip,92,6,16,Thu,BKIPUS,Kazakhstan,Yes,Yes,Yes,6.33,1
+2,Internet,RoundTrip,114,20,7,Tue,DMKMEL,Australia,Yes,No,Yes,8.83,0
+3,Internet,RoundTrip,88,5,8,Sat,PENSYD,Malaysia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,108,29,4,Sun,KTMMFM,China,Yes,No,No,4.75,0
+2,Internet,RoundTrip,55,4,13,Mon,HKTPUS,South Korea,Yes,No,Yes,6.33,0
+1,Internet,RoundTrip,238,25,9,Thu,KTMSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,65,33,8,Fri,OOLSGN,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,72,5,10,Sat,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,51,21,16,Mon,MELSGN,China,Yes,No,Yes,8.83,0
+3,Internet,RoundTrip,251,4,15,Mon,DMKICN,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,176,50,7,Tue,PEKTRZ,India,Yes,No,No,6.42,0
+4,Internet,RoundTrip,234,6,13,Thu,HKTPUS,South Korea,Yes,Yes,Yes,6.33,0
+1,Mobile,RoundTrip,6,43,17,Fri,MELTPE,Taiwan,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,9,6,15,Thu,PEKTWU,Thailand,Yes,Yes,No,6.42,0
+1,Internet,RoundTrip,12,6,14,Tue,AKLKUL,Malaysia,No,Yes,No,8.83,0
+1,Internet,RoundTrip,87,23,8,Tue,AKLKUL,New Zealand,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,233,17,12,Tue,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,38,92,7,Wed,KTMPEN,Malaysia,Yes,Yes,No,4.75,1
+1,Internet,CircleTrip,71,71,1,Wed,GOISYD,Australia,Yes,No,No,8.58,0
+4,Internet,RoundTrip,17,5,8,Tue,PENPER,Malaysia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,184,3,15,Sun,KIXREP,Japan,No,No,No,7.0,0
+4,Internet,RoundTrip,74,5,3,Tue,CKGTWU,China,Yes,No,No,4.83,0
+1,Mobile,RoundTrip,278,6,7,Fri,CGKKIX,Indonesia,Yes,No,Yes,7.0,0
+4,Internet,RoundTrip,22,4,9,Tue,PENTPE,Malaysia,Yes,Yes,Yes,4.67,0
+1,Internet,RoundTrip,37,18,5,Thu,CNXPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,61,4,10,Fri,CTSDMK,Thailand,Yes,No,No,8.67,0
+1,Internet,RoundTrip,109,58,5,Wed,SBWTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,12,365,2,Sun,MELTPE,South Korea,Yes,No,No,8.83,0
+1,Internet,RoundTrip,12,5,8,Mon,HNDIKA,Japan,No,No,No,8.15,0
+2,Internet,RoundTrip,239,24,4,Sun,CTSDPS,Japan,No,No,No,8.67,0
+2,Internet,RoundTrip,46,3,14,Sun,HNDSIN,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,81,29,12,Mon,KTMMFM,Macau,Yes,No,Yes,4.75,1
+2,Internet,RoundTrip,91,6,17,Thu,DPSPEK,Taiwan,Yes,Yes,Yes,6.42,0
+1,Internet,RoundTrip,152,31,8,Sat,KCHMEL,Malaysia,Yes,No,No,8.83,1
+2,Mobile,RoundTrip,84,6,8,Mon,CTUDPS,China,Yes,No,No,4.72,0
+1,Internet,RoundTrip,3,34,3,Mon,PERSBW,Malaysia,Yes,Yes,No,5.62,1
+1,Internet,RoundTrip,9,19,0,Mon,KIXMEL,Japan,No,No,Yes,8.83,0
+4,Internet,RoundTrip,11,44,7,Wed,HANOOL,Vietnam,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,52,89,13,Fri,DMKPER,Australia,Yes,No,No,5.62,1
+1,Internet,RoundTrip,14,2,8,Mon,BKICTU,Malaysia,No,No,No,4.72,0
+2,Internet,RoundTrip,85,24,8,Tue,CGKXIY,Indonesia,No,No,Yes,5.0,0
+1,Internet,RoundTrip,99,5,5,Mon,MELSGN,Vietnam,Yes,No,No,8.83,0
+2,Internet,RoundTrip,111,29,2,Mon,HKTMEL,Australia,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,177,6,6,Tue,DMKKIX,Thailand,Yes,No,Yes,7.0,0
+2,Internet,RoundTrip,153,20,9,Wed,PERTPE,Australia,Yes,Yes,No,5.62,0
+2,Internet,RoundTrip,17,69,4,Wed,COKOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,11,35,3,Tue,HGHTRZ,China,Yes,No,No,5.07,0
+2,Internet,RoundTrip,123,26,14,Thu,MELPEN,Malaysia,No,Yes,Yes,8.83,1
+3,Internet,RoundTrip,28,3,13,Mon,PENPER,Malaysia,No,Yes,Yes,5.62,0
+2,Mobile,RoundTrip,29,5,15,Tue,MELTPE,China,No,No,No,8.83,0
+1,Internet,RoundTrip,72,3,11,Mon,KIXSGN,Japan,No,Yes,No,7.0,0
+1,Internet,RoundTrip,23,52,10,Sun,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,65,29,1,Mon,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,31,6,7,Mon,MYYPER,Malaysia,Yes,No,No,5.62,1
+2,Internet,RoundTrip,18,4,12,Sat,HNDLGK,Japan,Yes,No,No,7.57,0
+1,Mobile,RoundTrip,94,4,11,Sun,DELHKG,India,No,No,No,5.52,0
+2,Internet,RoundTrip,184,17,13,Sat,HKTMEL,Australia,No,No,Yes,8.83,0
+2,Internet,RoundTrip,25,6,6,Sat,PENTPE,Malaysia,Yes,Yes,Yes,4.67,1
+1,Internet,RoundTrip,227,57,12,Sat,CGKMEL,Indonesia,Yes,No,Yes,8.83,1
+2,Mobile,RoundTrip,115,6,8,Sun,BKICTS,Japan,Yes,Yes,Yes,8.67,0
+1,Internet,RoundTrip,16,4,2,Wed,DMKOOL,Australia,No,Yes,No,8.83,0
+1,Internet,RoundTrip,38,6,7,Fri,DPSPUS,South Korea,No,Yes,No,6.33,0
+1,Internet,RoundTrip,194,21,2,Sat,ICNMAA,South Korea,No,No,Yes,6.62,0
+5,Internet,RoundTrip,392,18,5,Wed,KNOTPE,Indonesia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,38,20,8,Tue,KIXPER,Australia,No,No,No,7.0,0
+1,Mobile,RoundTrip,17,5,2,Sat,DMKPER,Australia,Yes,Yes,No,5.62,0
+4,Internet,RoundTrip,109,5,9,Thu,DPSKIX,Japan,Yes,Yes,No,7.0,0
+2,Internet,RoundTrip,46,77,8,Wed,PERSDK,Malaysia,Yes,Yes,Yes,5.62,0
+1,Mobile,RoundTrip,43,28,10,Fri,ICNOOL,South Korea,Yes,No,No,8.83,0
+1,Internet,RoundTrip,11,57,9,Mon,PUSSYD,South Korea,Yes,No,No,8.58,0
+1,Internet,OneWay,168,6,2,Wed,CTSDMK,Thailand,Yes,No,No,8.67,1
+2,Internet,RoundTrip,18,6,7,Fri,DMKPER,Thailand,Yes,No,No,5.62,0
+1,Internet,RoundTrip,4,30,11,Tue,CTSSIN,Singapore,Yes,No,No,8.67,0
+1,Internet,RoundTrip,39,3,11,Mon,DMKICN,Thailand,Yes,No,No,6.62,0
+3,Internet,RoundTrip,17,4,9,Tue,PENTPE,Taiwan,Yes,No,Yes,4.67,1
+2,Internet,RoundTrip,82,4,14,Fri,HNDLGK,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,0,5,6,Wed,KNOPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,162,19,11,Sat,ICNPER,Australia,Yes,Yes,Yes,6.62,0
+4,Internet,RoundTrip,289,23,6,Wed,HGHMEL,China,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,27,5,5,Mon,KCHOOL,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,30,17,5,Sat,MELPEN,Australia,No,Yes,No,8.83,0
+1,Internet,RoundTrip,203,19,4,Mon,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,213,28,20,Tue,AKLKUL,Germany,Yes,No,No,8.83,0
+1,Internet,RoundTrip,17,119,15,Thu,AKLKUL,Malaysia,No,No,No,8.83,0
+2,Internet,RoundTrip,34,6,8,Fri,DMKSYD,United Kingdom,Yes,No,No,8.58,0
+1,Internet,RoundTrip,22,4,13,Tue,BDOSYD,Australia,No,No,Yes,8.58,1
+3,Internet,RoundTrip,19,29,9,Wed,JEDSUB,Indonesia,Yes,No,Yes,9.5,0
+1,Internet,RoundTrip,26,85,7,Sun,DMKSYD,Thailand,Yes,Yes,Yes,8.58,1
+1,Internet,RoundTrip,10,31,11,Sun,KNOTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,104,41,22,Mon,AKLKUL,New Zealand,Yes,No,No,8.83,0
+2,Internet,RoundTrip,32,6,9,Sun,ICNKNO,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,12,2,2,Mon,PENSYD,Malaysia,No,No,No,8.58,0
+1,Internet,RoundTrip,224,87,5,Mon,CNXOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,44,6,14,Mon,HKTICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,31,24,3,Wed,COKSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,81,26,9,Fri,IKASYD,United States,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,5,2,11,Fri,DELDMK,Thailand,No,No,No,5.52,0
+1,Internet,RoundTrip,22,1,3,Fri,DACSYD,Switzerland,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,274,27,14,Tue,HNDPEN,Malaysia,Yes,No,Yes,7.57,0
+3,Internet,RoundTrip,145,5,5,Wed,HNDKCH,Malaysia,Yes,No,No,7.57,1
+4,Internet,RoundTrip,142,41,12,Fri,MYYOOL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,66,4,15,Tue,CGKKIX,Indonesia,No,No,Yes,7.0,0
+1,Internet,RoundTrip,52,19,23,Wed,MNLSYD,Australia,No,No,No,8.58,0
+4,Internet,RoundTrip,24,19,5,Sun,PERSGN,Australia,Yes,No,Yes,5.62,0
+1,Mobile,RoundTrip,18,205,8,Thu,PERTPE,Taiwan,Yes,No,No,5.62,0
+1,Internet,RoundTrip,82,25,7,Sun,PERSGN,Australia,Yes,No,No,5.62,0
+2,Mobile,RoundTrip,7,22,10,Tue,PNHSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Mobile,RoundTrip,166,17,4,Sun,BLRSYD,India,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,118,46,1,Sun,CCUPER,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,40,5,5,Tue,ICNKBV,South Korea,Yes,No,Yes,6.62,0
+2,Internet,RoundTrip,42,20,5,Mon,DPSOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,297,4,5,Mon,PENPER,Malaysia,No,Yes,Yes,5.62,0
+1,Internet,RoundTrip,16,3,8,Mon,DPSPUS,South Korea,Yes,Yes,Yes,6.33,0
+1,Internet,RoundTrip,37,5,6,Sun,KIXSIN,Singapore,No,No,No,7.0,1
+6,Internet,RoundTrip,14,4,1,Wed,PENPER,Italy,Yes,Yes,Yes,5.62,1
+1,Internet,RoundTrip,17,3,5,Mon,LGKTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,186,6,2,Mon,KBRKIX,Malaysia,Yes,Yes,No,7.0,1
+1,Internet,RoundTrip,26,4,14,Fri,KCHOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,82,4,13,Wed,ICNKBV,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,0,54,4,Wed,KIXSGN,Vietnam,Yes,Yes,Yes,7.0,1
+2,Internet,RoundTrip,3,61,5,Wed,CGKPVG,China,No,No,No,5.33,0
+1,Internet,RoundTrip,17,33,15,Sun,ICNSIN,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,18,6,2,Thu,HKGPER,Australia,Yes,Yes,Yes,5.62,0
+6,Internet,RoundTrip,25,4,8,Sat,PUSSIN,South Korea,Yes,Yes,Yes,6.33,0
+1,Internet,RoundTrip,17,4,6,Mon,REPTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,6,4,10,Fri,MELSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,186,21,12,Fri,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,6,19,9,Wed,DMKOOL,Thailand,No,Yes,No,8.83,1
+3,Mobile,RoundTrip,269,6,15,Mon,HKTPVG,China,Yes,Yes,No,5.33,0
+2,Internet,RoundTrip,37,52,12,Sat,OOLPEN,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,63,25,6,Fri,MELTPE,Taiwan,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,33,17,7,Tue,MELTPE,Taiwan,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,32,68,7,Tue,CANMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,30,65,7,Sun,IKAOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,37,4,15,Fri,PERSBW,Malaysia,No,No,No,5.62,0
+1,Internet,RoundTrip,118,31,0,Fri,DADMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,106,5,3,Thu,HKTPER,Australia,No,Yes,No,5.62,0
+1,Mobile,RoundTrip,0,4,2,Mon,ICNKCH,Malaysia,No,No,No,6.62,0
+1,Internet,RoundTrip,301,34,0,Sat,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Internet,OneWay,78,17,16,Mon,MELTPE,Taiwan,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,21,207,21,Fri,CGKMEL,Australia,Yes,Yes,No,8.83,0
+1,Mobile,RoundTrip,8,4,12,Wed,MELMNL,Philippines,No,Yes,No,8.83,0
+1,Internet,RoundTrip,7,29,14,Tue,PENTPE,Malaysia,Yes,No,No,4.67,1
+1,Internet,RoundTrip,28,6,19,Wed,DPSPEK,China,No,No,No,6.42,0
+1,Internet,RoundTrip,106,92,11,Mon,MELPEN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,10,3,9,Thu,KIXPEN,Malaysia,Yes,Yes,No,7.0,0
+2,Internet,RoundTrip,63,21,23,Wed,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,4,43,10,Sun,ICNSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,52,4,9,Sun,HKTMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,21,5,11,Wed,SBWWUH,Malaysia,Yes,No,Yes,5.13,1
+1,Internet,RoundTrip,45,5,16,Tue,PERTPE,Taiwan,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,176,6,15,Tue,CGKKIX,Turkey,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,59,21,10,Mon,PERPNH,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,8,3,14,Wed,CTSSIN,Singapore,No,No,Yes,8.67,0
+2,Internet,RoundTrip,64,5,17,Thu,DELDPS,India,Yes,No,No,5.52,0
+1,Internet,RoundTrip,22,19,23,Thu,KTMMEL,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,134,5,8,Fri,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,132,6,8,Sun,DPSHND,Japan,Yes,No,No,7.57,1
+1,Internet,RoundTrip,31,4,6,Sun,DELHKT,India,No,No,No,5.52,0
+2,Internet,RoundTrip,4,87,7,Thu,DELMEL,India,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,83,70,23,Sun,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,69,21,6,Fri,COKPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,40,35,7,Tue,AKLKUL,Malaysia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,17,64,12,Tue,OOLSGN,Australia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,50,108,15,Mon,MELPUS,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,29,32,15,Tue,KNOOOL,Australia,Yes,Yes,No,8.83,0
+2,Mobile,RoundTrip,19,5,13,Mon,BKIHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,70,6,13,Fri,HKTPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,2,4,12,Mon,OOLSBW,Australia,No,Yes,Yes,8.83,0
+4,Internet,RoundTrip,19,5,2,Wed,HGHHKT,China,Yes,Yes,Yes,5.07,0
+4,Mobile,RoundTrip,127,4,1,Wed,ICNKBV,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,39,19,10,Thu,PENSYD,Australia,Yes,Yes,Yes,8.58,0
+4,Internet,RoundTrip,11,34,2,Sun,IKASYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,111,50,2,Sun,MELSGN,Australia,Yes,No,Yes,8.83,0
+1,Mobile,RoundTrip,31,97,3,Thu,HANOOL,Australia,Yes,Yes,Yes,8.83,1
+4,Mobile,RoundTrip,284,22,7,Thu,DADSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,57,38,10,Thu,OOLSZX,Australia,Yes,Yes,Yes,8.83,1
+2,Internet,RoundTrip,92,6,1,Thu,KCHPUS,South Korea,Yes,No,No,6.33,1
+2,Internet,OneWay,43,1,5,Thu,ICNSYD,South Korea,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,77,41,12,Mon,DMKOOL,Thailand,No,No,No,8.83,0
+1,Internet,RoundTrip,320,17,17,Sun,CTUKBV,China,Yes,No,No,4.72,0
+1,Internet,RoundTrip,84,47,4,Wed,CEBOOL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,21,6,1,Wed,ICNMLE,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,253,17,11,Sun,PERPUS,South Korea,Yes,Yes,Yes,6.33,0
+2,Internet,RoundTrip,31,28,12,Sat,KCHTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,38,21,4,Tue,HKTOOL,Australia,No,Yes,No,8.83,0
+3,Internet,RoundTrip,89,22,6,Sat,AKLKUL,Malaysia,Yes,No,No,8.83,0
+4,Internet,RoundTrip,285,6,9,Thu,DPSICN,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,53,21,10,Fri,ICNSYD,South Korea,No,No,No,8.58,0
+1,Internet,RoundTrip,6,23,11,Tue,BWNOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,9,63,9,Wed,PEKPEN,Malaysia,Yes,No,No,6.42,1
+1,Internet,RoundTrip,31,3,8,Fri,ICNKNO,South Korea,Yes,No,Yes,6.62,0
+2,Internet,RoundTrip,41,5,3,Tue,MELPVG,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,30,5,0,Sun,HKTPER,Australia,No,Yes,No,5.62,0
+2,Internet,RoundTrip,61,24,16,Fri,ICNKNO,Indonesia,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,7,19,13,Sat,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,255,5,7,Sun,MELTPE,Australia,No,No,Yes,8.83,0
+2,Internet,RoundTrip,9,4,9,Thu,DMKPVG,Thailand,Yes,No,No,5.33,0
+2,Internet,RoundTrip,126,32,12,Tue,MELSGN,Australia,Yes,No,Yes,8.83,0
+1,Mobile,RoundTrip,21,4,9,Tue,LGKPVG,China,No,No,No,5.33,0
+2,Internet,RoundTrip,20,5,15,Tue,BKIXIY,China,No,No,No,5.0,0
+1,Internet,RoundTrip,299,5,9,Mon,CGKMEL,Indonesia,Yes,Yes,Yes,8.83,1
+3,Internet,RoundTrip,32,6,11,Fri,COKHGH,India,Yes,Yes,No,5.07,0
+1,Internet,RoundTrip,78,5,13,Mon,BKIHND,Japan,No,Yes,No,7.57,0
+1,Mobile,RoundTrip,95,3,10,Mon,DPSTPE,Taiwan,No,No,No,4.67,0
+1,Mobile,RoundTrip,0,4,8,Mon,CCUMEL,Australia,No,No,No,8.83,0
+9,Internet,RoundTrip,145,5,11,Thu,OOLSGN,Australia,Yes,No,No,8.83,0
+3,Internet,RoundTrip,347,17,2,Wed,CGKICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,213,61,1,Mon,SGNSYD,Japan,Yes,Yes,No,8.58,0
+2,Internet,RoundTrip,98,6,13,Thu,DPSPVG,China,Yes,No,No,5.33,1
+1,Internet,RoundTrip,6,35,14,Mon,KIXPEN,Malaysia,No,No,No,7.0,0
+2,Internet,RoundTrip,2,19,23,Thu,IKAOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,36,3,5,Wed,DPSKIX,Japan,No,No,No,7.0,0
+1,Mobile,RoundTrip,4,4,10,Fri,CGKICN,Indonesia,Yes,No,No,6.62,0
+1,Internet,RoundTrip,95,168,14,Sun,HKTOOL,Greece,Yes,No,No,8.83,0
+2,Mobile,RoundTrip,207,6,3,Sat,PENPVG,China,Yes,No,Yes,5.33,0
+1,Internet,RoundTrip,33,27,11,Wed,CGKPEK,Spain,Yes,No,Yes,6.42,0
+1,Mobile,RoundTrip,33,54,7,Thu,HKTPEK,Thailand,Yes,Yes,Yes,6.42,0
+1,Internet,RoundTrip,31,21,0,Sat,CMBSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,6,2,3,Mon,CGKKIX,Malaysia,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,87,3,2,Mon,PEKSUB,Indonesia,No,No,No,6.42,0
+3,Internet,RoundTrip,107,6,18,Sat,DELDPS,India,Yes,No,Yes,5.52,0
+1,Internet,RoundTrip,209,89,8,Fri,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,186,3,11,Wed,HKTPEK,China,No,No,No,6.42,0
+4,Internet,RoundTrip,226,17,6,Sun,AKLKUL,Malaysia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,112,5,3,Mon,DPSPUS,South Korea,Yes,Yes,Yes,6.33,0
+3,Internet,RoundTrip,354,5,13,Tue,DMKKIX,Thailand,Yes,No,No,7.0,0
+3,Mobile,RoundTrip,5,18,8,Sun,CCUSYD,India,Yes,No,Yes,8.58,0
+4,Internet,RoundTrip,175,62,22,Fri,HYDMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,122,6,9,Sat,DMKKIX,Thailand,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,64,25,3,Thu,GOIOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,8,6,2,Fri,HKGSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,25,61,2,Thu,KTMPEN,Malaysia,Yes,No,No,4.75,0
+2,Internet,RoundTrip,34,6,11,Tue,DMKMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,29,43,16,Mon,KIXPER,Australia,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,3,3,1,Thu,CGKICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,0,19,2,Mon,MELPEK,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,86,17,11,Sun,RGNSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,18,6,0,Thu,ICNPER,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,65,18,5,Wed,DMKSYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,35,6,6,Sun,HKTPEK,China,Yes,No,No,6.42,0
+3,Internet,RoundTrip,6,4,2,Wed,KIXREP,Japan,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,5,18,14,Sat,PENPER,Malaysia,No,No,Yes,5.62,0
+1,Internet,RoundTrip,134,6,13,Tue,PEKSIN,China,No,No,No,6.42,0
+1,Internet,RoundTrip,78,6,3,Thu,DMKOOL,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,23,6,16,Thu,DPSPVG,China,No,No,No,5.33,0
+1,Internet,RoundTrip,47,51,14,Mon,HYDMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,33,3,12,Sun,CGKCTS,Indonesia,No,No,No,8.67,0
+1,Internet,RoundTrip,37,6,3,Sat,HNDRGN,Japan,Yes,No,No,7.57,1
+1,Internet,RoundTrip,60,18,5,Fri,HKTMEL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,60,24,6,Wed,ICNMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,74,6,5,Sun,HNDPEN,Japan,Yes,Yes,Yes,7.57,0
+1,Internet,RoundTrip,146,4,1,Fri,PERTPE,Taiwan,Yes,No,No,5.62,0
+2,Internet,RoundTrip,170,5,2,Mon,JOGPVG,Taiwan,No,No,No,5.33,1
+2,Internet,RoundTrip,83,20,13,Fri,SGNSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,19,21,22,Wed,DELSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,39,28,1,Fri,PENTPE,Malaysia,No,Yes,No,4.67,1
+2,Internet,RoundTrip,38,4,9,Tue,BKIPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,220,18,4,Tue,CGKPVG,Indonesia,Yes,No,No,5.33,1
+3,Internet,RoundTrip,171,5,6,Thu,ICNSBW,Malaysia,Yes,Yes,Yes,6.62,0
+5,Internet,RoundTrip,50,6,15,Sun,HGHKBV,China,Yes,No,No,5.07,0
+1,Internet,RoundTrip,73,43,7,Fri,CMBMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,126,4,1,Fri,HKTSYD,Australia,No,No,No,8.58,0
+1,Mobile,RoundTrip,29,5,16,Tue,DMKKIX,Thailand,No,No,No,7.0,0
+1,Internet,RoundTrip,72,90,13,Tue,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,77,67,13,Wed,PENTPE,Malaysia,No,No,No,4.67,0
+2,Internet,RoundTrip,61,4,5,Tue,HKTTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,15,6,12,Tue,PENTPE,Malaysia,No,No,No,4.67,0
+1,Internet,RoundTrip,40,19,3,Fri,COKPER,Australia,Yes,Yes,No,5.62,1
+1,Internet,RoundTrip,138,41,15,Mon,SYDTRZ,Australia,Yes,Yes,Yes,8.58,0
+3,Mobile,RoundTrip,53,6,7,Tue,ICNKCH,Malaysia,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,142,124,9,Wed,AKLKUL,Malaysia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,208,29,8,Sun,HKTPER,Thailand,Yes,No,No,5.62,0
+1,Internet,RoundTrip,241,89,7,Sat,JHBSYD,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,54,28,10,Sun,DMKOOL,Australia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,80,79,10,Sun,DELMNL,Philippines,Yes,No,No,5.52,0
+2,Internet,RoundTrip,35,18,23,Fri,OOLTRZ,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,1,5,5,Mon,DMKMEL,Australia,No,No,Yes,8.83,0
+6,Internet,RoundTrip,250,26,1,Thu,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+2,Mobile,RoundTrip,102,5,14,Sun,ICNRGN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,15,22,10,Mon,PERPNH,Australia,No,Yes,Yes,5.62,0
+2,Internet,RoundTrip,16,4,16,Mon,IKAPEN,Thailand,No,No,No,8.15,0
+2,Internet,RoundTrip,236,32,9,Tue,DMKSYD,New Zealand,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,5,32,3,Mon,BKIKIX,Japan,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,5,3,11,Wed,CEBOOL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,108,106,22,Wed,SYDTRZ,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,39,2,14,Tue,KIXSBW,Japan,Yes,No,No,7.0,1
+1,Internet,RoundTrip,104,52,3,Mon,MELSGN,New Zealand,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,150,23,11,Tue,PNHSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,150,6,0,Thu,DPSPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,47,24,2,Mon,DPSSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,17,6,13,Thu,DPSPEK,China,No,No,No,6.42,0
+1,Internet,RoundTrip,94,28,15,Thu,DPSICN,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,23,5,6,Sun,HKTSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,12,4,16,Wed,DACSYD,Australia,No,No,No,8.58,0
+3,Internet,RoundTrip,7,45,5,Tue,KTMMFM,Macau,Yes,No,No,4.75,0
+2,Internet,RoundTrip,152,21,4,Sun,MELRGN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,44,6,1,Wed,HNDSIN,Japan,Yes,No,No,7.57,0
+1,Internet,RoundTrip,28,17,11,Wed,CANPER,China,Yes,No,No,5.62,0
+1,Internet,RoundTrip,3,19,5,Fri,KCHXIY,Malaysia,No,No,No,5.0,0
+1,Internet,RoundTrip,17,2,11,Tue,MELPEN,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,82,23,10,Sat,DMKOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,118,89,8,Sun,AKLKUL,Malaysia,No,Yes,No,8.83,0
+1,Mobile,RoundTrip,8,6,9,Thu,KNOSYD,Australia,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,22,47,8,Sat,ICNPEN,South Korea,Yes,No,No,6.62,0
+7,Internet,RoundTrip,39,6,12,Sun,HKTPVG,China,Yes,No,Yes,5.33,1
+1,Internet,RoundTrip,54,17,1,Thu,HNDSIN,Singapore,No,No,Yes,7.57,0
+1,Internet,RoundTrip,76,6,2,Tue,HNDIKA,Japan,No,No,No,8.15,0
+1,Internet,RoundTrip,29,24,13,Mon,DELSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,3,59,2,Wed,MELPNH,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,54,35,2,Wed,SYDTRZ,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,36,6,6,Fri,DPSPVG,China,Yes,No,Yes,5.33,1
+1,Internet,RoundTrip,28,5,9,Tue,LGKPVG,Australia,Yes,Yes,Yes,5.33,1
+6,Internet,RoundTrip,351,6,17,Mon,CTSDMK,Thailand,No,No,No,8.67,0
+2,Internet,RoundTrip,186,5,2,Fri,LGKMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,301,4,15,Sun,DMKKIX,Japan,No,No,No,7.0,0
+2,Internet,RoundTrip,4,5,4,Thu,ICNOOL,Australia,No,Yes,No,8.83,0
+2,Mobile,RoundTrip,20,3,4,Fri,DMKHND,Japan,No,No,Yes,7.57,0
+2,Internet,RoundTrip,123,21,10,Mon,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,240,20,10,Mon,BWNMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,146,31,7,Sat,DMKPER,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,131,5,7,Thu,PENPUS,Malaysia,No,No,No,6.33,0
+3,Internet,RoundTrip,99,18,21,Sun,DPSOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,24,4,10,Sun,HKTHND,Japan,No,No,No,7.57,0
+2,Internet,RoundTrip,112,23,10,Sun,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,36,29,4,Sun,MELPEK,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,78,6,14,Thu,KIXTRZ,Japan,No,No,Yes,7.0,0
+1,Internet,RoundTrip,31,30,9,Wed,HGHKNO,Indonesia,Yes,No,Yes,5.07,0
+1,Internet,RoundTrip,43,28,23,Wed,COKOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Mobile,RoundTrip,155,4,13,Thu,DPSHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,26,6,3,Mon,DPSHGH,China,Yes,No,Yes,5.07,1
+2,Internet,RoundTrip,82,4,2,Sun,DPSPEK,China,Yes,No,Yes,6.42,0
+1,Internet,RoundTrip,66,29,14,Sun,MELPEN,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,14,5,3,Sat,KCHWUH,Malaysia,Yes,No,No,5.13,1
+1,Internet,RoundTrip,66,26,12,Tue,PVGSUB,China,Yes,No,No,5.33,1
+6,Internet,RoundTrip,88,6,9,Wed,KCHPEK,Malaysia,Yes,No,No,6.42,0
+1,Internet,RoundTrip,54,61,2,Thu,JHBKTM,Malaysia,Yes,Yes,Yes,4.75,0
+1,Internet,RoundTrip,18,48,12,Tue,JHBKTM,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,8,25,16,Fri,PERTPE,Australia,No,Yes,Yes,5.62,0
+1,Internet,RoundTrip,52,55,13,Wed,ICNSIN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,8,17,1,Wed,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,27,33,12,Tue,COKMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,85,4,7,Sat,DMKMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,17,6,7,Wed,DELHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,81,2,10,Mon,CGKICN,South Korea,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,36,4,11,Thu,PERREP,Australia,No,No,No,5.62,0
+4,Internet,RoundTrip,256,5,13,Fri,JOGKIX,Indonesia,Yes,Yes,Yes,7.0,1
+1,Internet,RoundTrip,40,29,8,Fri,PERPNH,Australia,Yes,Yes,Yes,5.62,0
+1,Mobile,RoundTrip,209,34,13,Sun,ICNMEL,Australia,No,No,No,8.83,0
+3,Internet,RoundTrip,188,5,4,Sun,PENTPE,Malaysia,Yes,Yes,Yes,4.67,1
+2,Internet,RoundTrip,163,5,7,Wed,HKTSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,38,6,0,Sat,PENPER,Vietnam,No,Yes,No,5.62,0
+2,Internet,RoundTrip,21,31,9,Mon,AKLKUL,Malaysia,Yes,Yes,No,8.83,1
+3,Mobile,RoundTrip,73,26,11,Sun,ICNJHB,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,20,5,8,Wed,ICNSIN,South Korea,Yes,No,No,6.62,0
+1,Mobile,RoundTrip,6,3,6,Wed,HGHKCH,Malaysia,Yes,No,No,5.07,1
+3,Internet,RoundTrip,34,4,8,Fri,CGKICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,196,31,6,Mon,MAATPE,Taiwan,No,No,No,4.67,0
+2,Internet,RoundTrip,120,91,3,Mon,AKLKTM,New Zealand,Yes,No,Yes,4.75,0
+1,Internet,RoundTrip,26,19,22,Fri,HANOOL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,135,30,23,Sun,CEBSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,28,29,0,Tue,DMKKTM,Japan,Yes,No,No,4.75,0
+4,Internet,RoundTrip,143,6,2,Mon,KIXPEN,Malaysia,Yes,No,Yes,7.0,1
+1,Internet,RoundTrip,9,22,13,Thu,CMBMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,15,4,13,Wed,BKIICN,South Korea,Yes,No,Yes,6.62,0
+2,Internet,RoundTrip,50,4,7,Tue,CCUMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,46,5,2,Sun,CGKHND,Japan,No,No,No,7.57,0
+3,Internet,RoundTrip,12,6,1,Tue,CTSSIN,Singapore,Yes,Yes,Yes,8.67,0
+1,Internet,RoundTrip,33,24,11,Tue,COKSYD,Australia,Yes,Yes,Yes,8.58,0
+4,Internet,RoundTrip,44,5,8,Fri,CTUTGG,China,Yes,No,Yes,4.72,0
+1,Internet,RoundTrip,217,48,14,Sat,SYDTPE,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,114,6,16,Thu,HKTXIY,China,No,No,Yes,5.0,0
+1,Internet,RoundTrip,36,27,11,Thu,MAATPE,Taiwan,Yes,Yes,Yes,4.67,0
+4,Internet,RoundTrip,194,4,13,Mon,ICNKBV,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,119,6,9,Thu,DPSICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,27,17,0,Sat,HKTPER,Australia,Yes,Yes,No,5.62,0
+2,Internet,RoundTrip,134,4,14,Wed,DMKHND,Thailand,Yes,No,No,7.57,0
+1,Internet,RoundTrip,11,19,1,Mon,KBVPER,Australia,Yes,No,Yes,5.62,0
+3,Internet,RoundTrip,57,6,11,Mon,CTUDPS,China,Yes,No,Yes,4.72,0
+1,Internet,RoundTrip,14,19,8,Mon,DPSSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,136,5,14,Wed,ICNKBV,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,81,5,4,Fri,PUSSIN,Malaysia,Yes,Yes,Yes,6.33,1
+1,Internet,RoundTrip,203,85,23,Sun,KIXSGN,Japan,No,No,No,7.0,0
+2,Internet,RoundTrip,8,4,15,Tue,KIXPEN,Malaysia,Yes,No,No,7.0,1
+2,Mobile,RoundTrip,22,4,12,Sat,HKTICN,South Korea,No,Yes,Yes,6.62,0
+1,Mobile,RoundTrip,156,6,2,Thu,MELREP,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,105,6,14,Sun,HKTPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,19,5,16,Tue,HNDPNH,Japan,No,No,Yes,7.57,1
+2,Internet,RoundTrip,249,5,12,Mon,BKIHND,Malaysia,Yes,Yes,Yes,7.57,0
+1,Internet,RoundTrip,21,6,2,Sun,HKTPEK,Hong Kong,No,No,No,6.42,0
+1,Mobile,RoundTrip,25,5,7,Fri,MELPEN,Malaysia,Yes,No,No,8.83,0
+3,Mobile,RoundTrip,136,5,13,Mon,REPTPE,Taiwan,Yes,Yes,Yes,4.67,0
+1,Internet,RoundTrip,51,6,20,Tue,HKTOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,84,4,0,Tue,ICNSBW,Malaysia,No,No,No,6.62,1
+1,Internet,RoundTrip,165,5,5,Thu,LGKPVG,China,No,Yes,Yes,5.33,0
+1,Internet,RoundTrip,16,30,6,Sat,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,14,3,9,Sat,ICNSIN,South Korea,No,No,No,6.62,0
+2,Internet,RoundTrip,13,4,6,Wed,DMKPVG,Thailand,Yes,No,No,5.33,0
+1,Internet,RoundTrip,22,6,14,Mon,LGKTPE,Taiwan,No,No,No,4.67,1
+3,Internet,RoundTrip,70,6,10,Thu,PENPUS,Malaysia,Yes,No,Yes,6.33,0
+1,Internet,RoundTrip,8,6,9,Fri,PENTPE,Malaysia,Yes,Yes,No,4.67,1
+4,Mobile,RoundTrip,217,6,2,Tue,DPSHND,Japan,No,No,No,7.57,0
+2,Internet,RoundTrip,47,30,4,Wed,HNDPER,Australia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,11,30,6,Tue,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,0,4,1,Thu,KIXSIN,Singapore,No,No,No,7.0,0
+2,Internet,OneWay,150,18,7,Tue,MELPUS,South Korea,Yes,No,No,8.83,0
+5,Mobile,RoundTrip,33,6,12,Fri,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,15,25,11,Tue,JHBMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,18,40,1,Thu,MAAMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,56,21,2,Sun,AKLKUL,Malaysia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,7,35,3,Tue,DADOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,0,5,0,Sat,CNXOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,20,166,7,Tue,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,4,27,8,Sun,DPSOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,24,4,14,Sun,BWNPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,4,2,7,Fri,DMKKIX,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,5,88,2,Sat,DMKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,10,19,14,Sat,AORMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,95,23,9,Wed,KNOOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,1,30,7,Sun,DMKMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,57,21,2,Tue,CGKMEL,Australia,Yes,No,No,8.83,1
+2,Internet,RoundTrip,29,17,9,Thu,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,6,5,12,Wed,HYDSYD,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,71,5,4,Sat,CGKTPE,Indonesia,Yes,No,Yes,4.67,0
+2,Internet,RoundTrip,197,18,6,Mon,KHHPER,Australia,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,34,6,6,Mon,MELSGN,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,72,5,20,Mon,HNDLGK,United Kingdom,Yes,Yes,Yes,7.57,0
+3,Internet,RoundTrip,27,37,0,Tue,BWNDEL,Brunei,Yes,No,No,5.52,1
+1,Internet,RoundTrip,10,6,14,Mon,HANPER,Australia,No,No,No,5.62,0
+2,Mobile,RoundTrip,97,18,15,Sun,JHBMEL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,3,6,13,Sat,ICNPEN,South Korea,No,No,Yes,6.62,1
+1,Internet,RoundTrip,27,20,14,Mon,PERSGN,Australia,Yes,No,No,5.62,1
+2,Internet,RoundTrip,398,5,21,Sun,KBVKIX,Japan,Yes,No,No,7.0,0
+1,Mobile,RoundTrip,2,93,9,Thu,PERPVG,Australia,No,No,Yes,5.62,0
+1,Internet,RoundTrip,5,6,5,Wed,PENTPE,Malaysia,Yes,Yes,Yes,4.67,1
+1,Internet,RoundTrip,10,84,9,Tue,DMKPER,Thailand,Yes,Yes,No,5.62,0
+2,Internet,RoundTrip,119,5,1,Wed,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,7,3,6,Wed,PERSGN,Australia,No,No,No,5.62,0
+2,Mobile,RoundTrip,319,6,15,Sun,CTUMLE,China,No,No,Yes,4.72,0
+1,Internet,RoundTrip,29,29,12,Fri,MRUPER,Australia,No,No,Yes,7.42,0
+1,Internet,RoundTrip,165,97,8,Tue,COKPER,Australia,Yes,No,No,5.62,0
+1,Mobile,RoundTrip,26,22,18,Sun,MELTPE,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,11,4,9,Sat,PENPUS,South Korea,Yes,No,No,6.33,1
+1,Internet,RoundTrip,47,3,13,Sat,PUSSIN,Singapore,No,Yes,Yes,6.33,1
+1,Internet,RoundTrip,52,6,15,Sat,CGKHND,Indonesia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,21,75,2,Sat,KNOSYD,Indonesia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,11,29,13,Thu,PERPNH,Australia,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,79,5,16,Sat,DPSICN,South Korea,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,149,18,7,Tue,BKISYD,Australia,Yes,Yes,No,8.58,1
+7,Mobile,RoundTrip,420,6,3,Sun,BKIPUS,South Korea,Yes,No,No,6.33,0
+1,Internet,RoundTrip,47,35,13,Wed,BDOICN,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,36,5,16,Mon,HKTPEK,China,No,No,No,6.42,0
+2,Internet,RoundTrip,14,3,7,Thu,BKIPUS,South Korea,Yes,No,Yes,6.33,0
+2,Internet,RoundTrip,121,30,2,Tue,COKSYD,Australia,Yes,Yes,No,8.58,0
+1,Internet,RoundTrip,9,5,14,Fri,SYDTPE,Australia,No,Yes,No,8.58,0
+1,Internet,RoundTrip,316,6,11,Mon,BKIKIX,Malaysia,Yes,Yes,No,7.0,0
+1,Internet,RoundTrip,125,86,0,Thu,DMKPER,(not set),Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,128,5,0,Tue,LGKMEL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,54,55,15,Wed,IKAPER,Australia,Yes,No,Yes,8.15,0
+4,Internet,RoundTrip,118,32,13,Sun,PENPUS,Malaysia,Yes,No,Yes,6.33,0
+1,Internet,RoundTrip,249,22,15,Thu,DMKMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,83,4,10,Thu,ICNSUB,Indonesia,No,No,No,6.62,0
+2,Internet,RoundTrip,104,17,2,Tue,BKIPEK,Russia,Yes,No,No,6.42,0
+1,Internet,RoundTrip,2,6,4,Mon,ICNPER,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,146,25,3,Mon,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+5,Internet,RoundTrip,228,17,11,Fri,DMKMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,324,91,7,Mon,MELSBW,Australia,Yes,No,Yes,8.83,0
+3,Internet,RoundTrip,279,17,6,Wed,CGKSYD,Indonesia,Yes,Yes,No,8.58,0
+1,Internet,RoundTrip,55,3,4,Sat,CGKHND,Japan,No,No,Yes,7.57,0
+3,Internet,RoundTrip,114,5,15,Tue,DPSPVG,China,Yes,No,No,5.33,1
+2,Internet,RoundTrip,55,35,23,Tue,OOLPNH,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,128,6,16,Fri,ICNKNO,Indonesia,Yes,No,No,6.62,0
+1,Internet,RoundTrip,210,18,14,Thu,CGKMEL,Indonesia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,7,26,8,Fri,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,15,68,5,Tue,CNXHND,Japan,No,No,No,7.57,0
+1,Mobile,RoundTrip,30,21,16,Sat,ICNMEL,South Korea,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,32,5,7,Mon,MAAPER,Australia,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,50,4,9,Wed,CGKMEL,Indonesia,Yes,Yes,Yes,8.83,1
+1,Mobile,RoundTrip,28,88,14,Thu,DMKSYD,Thailand,Yes,Yes,No,8.58,0
+1,Internet,RoundTrip,15,17,11,Mon,HKTPER,Australia,Yes,Yes,No,5.62,0
+2,Internet,RoundTrip,11,4,12,Tue,OOLPEK,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,15,32,4,Tue,CMBMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,19,18,9,Thu,CMBMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,84,6,11,Sun,HKTPER,Australia,Yes,No,No,5.62,0
+1,Mobile,RoundTrip,53,6,12,Sun,ICNSIN,Singapore,Yes,No,No,6.62,0
+1,Internet,RoundTrip,13,30,18,Tue,DELPNH,Spain,Yes,Yes,Yes,5.52,0
+4,Internet,RoundTrip,85,38,9,Mon,CMBMEL,Sri Lanka,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,63,17,12,Fri,CMBMEL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,104,6,14,Sun,DPSHND,Mexico,No,No,No,7.57,0
+1,Internet,RoundTrip,223,4,13,Fri,CGKHND,Indonesia,Yes,No,Yes,7.57,0
+1,Internet,RoundTrip,7,6,15,Wed,KCHPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,0,2,2,Mon,KIXSIN,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,214,3,13,Mon,HNDLGK,Japan,No,No,No,7.57,0
+1,Mobile,RoundTrip,13,6,11,Fri,BKIMEL,Australia,No,No,No,8.83,0
+1,Mobile,RoundTrip,162,6,5,Tue,CGKTPE,Indonesia,Yes,No,Yes,4.67,0
+1,Internet,RoundTrip,19,31,12,Fri,PNHSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,181,43,23,Thu,COKMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,0,1,4,Thu,DMKPER,Thailand,Yes,No,No,5.62,0
+2,Internet,RoundTrip,25,6,3,Sun,DPSICN,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,30,21,6,Fri,IKASYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,32,28,9,Tue,OOLTPE,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,83,19,5,Fri,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,390,6,0,Sun,KIXPEN,Malaysia,No,No,No,7.0,1
+1,Internet,RoundTrip,32,19,9,Mon,ICNMEL,Australia,Yes,Yes,Yes,8.83,1
+1,Mobile,RoundTrip,15,25,6,Wed,CNXPER,Australia,Yes,Yes,Yes,5.62,0
+2,Internet,CircleTrip,201,6,6,Tue,DPSSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,228,5,9,Fri,ICNSIN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,135,5,14,Thu,MELTPE,Taiwan,No,Yes,No,8.83,0
+2,Internet,RoundTrip,110,6,8,Mon,HKTOOL,Australia,Yes,Yes,Yes,8.83,1
+1,Internet,OneWay,57,2,23,Wed,DMKOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,35,3,14,Sun,KIXPER,Australia,No,No,No,7.0,0
+2,Internet,RoundTrip,342,6,10,Tue,DPSHGH,China,No,No,No,5.07,0
+1,Internet,RoundTrip,5,27,5,Wed,PERSZX,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,86,31,7,Wed,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,7,25,13,Fri,MNLPER,Philippines,Yes,Yes,Yes,5.62,1
+1,Internet,RoundTrip,5,17,11,Tue,DMKMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,61,21,4,Wed,DPSSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,36,6,7,Sat,DPSPEK,China,Yes,No,No,6.42,0
+1,Internet,RoundTrip,16,38,1,Sun,COKPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,14,200,19,Fri,AKLKUL,New Zealand,Yes,No,No,8.83,0
+2,Internet,RoundTrip,18,6,2,Wed,KIXSIN,Singapore,Yes,Yes,Yes,7.0,1
+2,Internet,RoundTrip,52,5,11,Wed,CGKHND,Malaysia,Yes,Yes,No,7.57,1
+1,Internet,RoundTrip,99,87,3,Thu,MELMRU,Mauritius,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,91,18,0,Mon,DMKOOL,Chile,Yes,No,No,8.83,0
+1,Internet,RoundTrip,50,3,16,Wed,KIXPER,Japan,No,No,No,7.0,0
+1,Mobile,RoundTrip,3,4,10,Fri,MELPEN,Malaysia,No,No,No,8.83,0
+2,Internet,RoundTrip,391,27,7,Mon,SGNSYD,Australia,Yes,No,Yes,8.58,0
+3,Internet,RoundTrip,15,17,3,Sun,MELSGN,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,50,26,21,Tue,MELSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,2,2,14,Sun,CGKICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,7,43,13,Thu,MELPEN,Australia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,15,6,10,Tue,DMKPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,113,6,0,Mon,AKLKUL,United Kingdom,No,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,10,3,5,Wed,DMKKIX,Thailand,No,No,No,7.0,0
+1,Internet,RoundTrip,4,36,14,Thu,KTMPEN,Malaysia,Yes,Yes,Yes,4.75,1
+1,Internet,RoundTrip,214,4,16,Sun,DMKKIX,Thailand,Yes,No,Yes,7.0,0
+4,Internet,RoundTrip,334,17,5,Mon,ICNPER,Australia,Yes,No,Yes,6.62,0
+4,Mobile,RoundTrip,316,6,12,Wed,DMKSYD,Thailand,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,7,22,1,Tue,REPSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,136,4,5,Tue,PUSSIN,South Korea,Yes,No,No,6.33,0
+4,Internet,RoundTrip,410,5,15,Sun,SBWTPE,Malaysia,No,No,No,4.67,0
+2,Internet,RoundTrip,77,22,10,Fri,KTMMFM,Macau,Yes,No,Yes,4.75,1
+1,Internet,RoundTrip,2,4,6,Fri,RGNSYD,Australia,No,Yes,Yes,8.58,0
+1,Internet,RoundTrip,106,21,9,Sun,ICNSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,109,24,13,Sun,PEKSYD,China,No,No,No,8.58,0
+2,Internet,RoundTrip,304,5,0,Sun,ICNJHB,Malaysia,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,52,5,13,Tue,BKIPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,18,37,3,Sun,DACKIX,United States,Yes,No,No,7.0,0
+2,Internet,RoundTrip,18,91,17,Thu,PENSYD,Italy,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,2,25,2,Sun,MNLPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,15,46,19,Mon,DMKHND,Croatia,No,No,No,7.57,0
+1,Mobile,RoundTrip,36,6,4,Fri,OOLPEN,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,52,59,6,Tue,SGNSYD,Australia,Yes,Yes,No,8.58,1
+2,Internet,RoundTrip,2,48,3,Fri,ICNMEL,South Korea,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,12,19,9,Tue,OOLPEN,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,352,5,11,Mon,DMKKIX,Thailand,No,No,No,7.0,0
+1,Internet,RoundTrip,1,3,3,Wed,HNDPEN,Japan,No,No,No,7.57,0
+4,Internet,RoundTrip,106,6,12,Sun,DPSICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,97,4,13,Thu,DPSKIX,Japan,Yes,No,No,7.0,0
+1,Mobile,RoundTrip,33,6,10,Fri,LGKMEL,Australia,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,336,29,6,Mon,COKPER,Australia,No,No,Yes,5.62,0
+2,Internet,RoundTrip,51,4,12,Tue,HKTKIX,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,7,61,6,Wed,CNXOOL,Australia,No,No,No,8.83,0
+2,Mobile,RoundTrip,166,35,2,Sat,DPSSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,49,5,2,Sun,DMKKIX,Japan,Yes,Yes,Yes,7.0,1
+1,Mobile,OneWay,10,2,4,Sat,BDOPER,Indonesia,No,Yes,No,5.62,0
+2,Internet,RoundTrip,173,5,2,Fri,KCHPER,Malaysia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,90,6,7,Wed,PEKTWU,China,No,No,No,6.42,0
+1,Internet,RoundTrip,9,27,12,Tue,PERRGN,Australia,Yes,No,No,5.62,0
+4,Internet,RoundTrip,356,6,23,Wed,CTSDMK,Thailand,Yes,Yes,Yes,8.67,0
+1,Internet,RoundTrip,40,5,14,Mon,PERSBW,Malaysia,No,No,No,5.62,0
+1,Internet,RoundTrip,11,5,9,Mon,HKTOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,33,5,12,Tue,COKMEL,India,Yes,No,No,8.83,0
+1,Internet,RoundTrip,71,42,16,Thu,ICNSYD,South Korea,Yes,No,No,8.58,0
+1,Internet,RoundTrip,27,30,1,Mon,JHBKTM,Malaysia,Yes,No,No,4.75,1
+1,Internet,RoundTrip,103,31,3,Wed,MELPEK,China,No,No,No,8.83,0
+2,Mobile,RoundTrip,16,6,22,Tue,HKTOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,21,34,8,Mon,JHBKTM,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,116,17,11,Tue,DPSPEK,China,Yes,Yes,No,6.42,0
+1,Internet,RoundTrip,29,4,14,Thu,KCHPER,Australia,No,Yes,Yes,5.62,0
+1,Internet,RoundTrip,117,19,7,Mon,IKAMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,48,6,7,Sun,DPSHND,Japan,No,No,Yes,7.57,0
+1,Internet,RoundTrip,102,86,23,Wed,COKMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Mobile,RoundTrip,84,5,14,Tue,DPSPEK,China,No,No,No,6.42,0
+2,Internet,RoundTrip,84,4,10,Wed,KCHPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,31,5,5,Sun,PENTPE,Malaysia,No,No,No,4.67,0
+2,Internet,RoundTrip,266,49,5,Tue,HNDPEN,Japan,Yes,No,No,7.57,0
+2,Internet,RoundTrip,62,3,1,Thu,HKTICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,19,5,11,Tue,ICNSIN,South Korea,Yes,Yes,Yes,6.62,0
+2,Internet,RoundTrip,58,6,7,Tue,MELTPE,Taiwan,Yes,No,No,8.83,0
+2,Mobile,RoundTrip,236,3,16,Sun,DPSTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,8,17,1,Wed,MRUOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,340,6,23,Fri,PEKREP,China,No,No,Yes,6.42,0
+2,Internet,RoundTrip,58,6,7,Sat,DELDPS,India,Yes,Yes,Yes,5.52,0
+1,Internet,RoundTrip,49,6,10,Sun,KIXPEN,New Zealand,No,No,No,7.0,0
+8,Internet,OneWay,10,2,12,Fri,JHBPVG,China,Yes,No,No,5.33,0
+1,Internet,RoundTrip,27,5,10,Fri,ICNPER,Australia,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,20,6,6,Fri,DMKPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,2,38,3,Tue,ICNIKA,South Korea,Yes,No,Yes,8.15,0
+1,Internet,RoundTrip,66,18,11,Thu,ICNKTM,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,342,4,18,Sat,HANSYD,Vietnam,Yes,No,No,8.58,0
+1,Internet,RoundTrip,85,24,8,Tue,BDOHGH,China,Yes,No,Yes,5.07,0
+1,Internet,RoundTrip,240,4,15,Sun,PENPER,Australia,No,Yes,Yes,5.62,0
+1,Internet,RoundTrip,6,21,3,Mon,OOLSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,15,5,11,Sun,DMKICN,Thailand,No,No,No,6.62,0
+2,Internet,RoundTrip,53,155,12,Fri,OOLVTE,Laos,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,41,56,6,Sun,CTUSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,77,4,14,Mon,DPSPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,111,3,13,Mon,DPSHND,Japan,No,Yes,No,7.57,0
+1,Internet,RoundTrip,8,5,9,Mon,DMKIKA,Thailand,Yes,Yes,Yes,8.15,0
+1,Internet,RoundTrip,18,72,8,Fri,CTUOOL,Thailand,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,1,22,2,Thu,CGKMEL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,255,23,23,Sun,KBVOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,129,43,6,Thu,MELSGN,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,29,47,9,Thu,BKISYD,Malaysia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,3,17,9,Tue,KCHPEK,China,Yes,No,No,6.42,0
+1,Internet,RoundTrip,7,2,9,Fri,CGKKIX,Indonesia,No,Yes,No,7.0,0
+2,Internet,RoundTrip,50,24,11,Sat,DELPEN,Malaysia,Yes,No,No,5.52,0
+2,Internet,RoundTrip,14,4,16,Tue,CTUHKT,China,No,No,No,4.72,0
+4,Mobile,RoundTrip,86,21,3,Sun,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,7,19,22,Thu,MELMNL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,43,27,9,Wed,HKTOOL,Australia,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,26,5,12,Sun,PUSSYD,South Korea,No,No,No,8.58,0
+1,Internet,RoundTrip,195,86,8,Sat,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,69,4,10,Thu,DELSIN,India,No,Yes,No,5.52,0
+4,Internet,RoundTrip,91,5,4,Tue,BKIICN,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,43,23,12,Thu,BWNKTM,Brunei,Yes,No,No,4.75,1
+1,Internet,RoundTrip,24,4,3,Thu,DMKICN,Thailand,No,No,No,6.62,0
+1,Internet,RoundTrip,58,4,13,Tue,PERPUS,Australia,No,Yes,No,6.33,0
+1,Internet,RoundTrip,25,17,8,Mon,COKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,66,3,11,Tue,HNDSIN,Japan,No,No,No,7.57,0
+2,Internet,RoundTrip,235,4,15,Mon,DMKKIX,Vietnam,Yes,Yes,No,7.0,0
+1,Internet,RoundTrip,39,5,11,Mon,REPTPE,Taiwan,Yes,No,No,4.67,0
+1,Mobile,RoundTrip,20,3,13,Fri,HKGMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,152,22,6,Mon,DELPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,12,5,12,Sat,KCHPER,Australia,Yes,Yes,No,5.62,0
+2,Internet,RoundTrip,177,6,12,Thu,CGKHND,Indonesia,Yes,No,No,7.57,0
+1,Internet,RoundTrip,26,41,13,Wed,PENTPE,Taiwan,Yes,No,No,4.67,1
+2,Internet,RoundTrip,124,18,17,Thu,CCUSYD,India,Yes,Yes,Yes,8.58,0
+3,Internet,RoundTrip,126,22,1,Thu,PERSGN,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,5,31,5,Sun,SGNSYD,Vietnam,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,20,75,12,Wed,MELTPE,Taiwan,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,107,20,1,Sun,KCHMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,55,17,6,Wed,DPSHND,Japan,Yes,No,No,7.57,0
+3,Mobile,RoundTrip,46,6,22,Thu,HNDSIN,Singapore,Yes,Yes,Yes,7.57,1
+1,Internet,RoundTrip,5,21,9,Sun,CTUSYD,Australia,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,75,4,7,Fri,DMKICN,Thailand,Yes,No,No,6.62,1
+1,Internet,RoundTrip,1,6,15,Wed,HKTPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,49,4,6,Fri,KIXPEN,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,7,6,3,Mon,MELTPE,Australia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,22,5,9,Wed,IKASIN,(not set),No,No,No,8.15,0
+1,Internet,RoundTrip,34,29,1,Tue,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,2,4,12,Mon,HNDSIN,Japan,No,No,No,7.57,0
+2,Internet,RoundTrip,73,4,8,Mon,HKTICN,South Korea,Yes,No,No,6.62,0
+2,Internet,RoundTrip,1,85,13,Sun,MELTPE,Australia,Yes,Yes,Yes,8.83,0
+6,Internet,RoundTrip,124,5,9,Thu,CGKHND,Indonesia,No,No,No,7.57,0
+1,Internet,RoundTrip,5,31,13,Fri,JHBTPE,Malaysia,Yes,No,No,4.67,0
+1,Mobile,RoundTrip,13,6,13,Sat,CGKMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,188,4,4,Sun,CNXPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,56,3,7,Fri,KIXPEN,Japan,No,No,Yes,7.0,1
+1,Internet,RoundTrip,49,89,10,Mon,DMKPER,Australia,No,Yes,No,5.62,1
+1,Internet,RoundTrip,186,5,4,Fri,AKLKUL,Malaysia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,16,4,0,Tue,PENTPE,Malaysia,No,No,No,4.67,0
+4,Internet,RoundTrip,8,22,12,Sat,KTMMFM,Macau,Yes,No,No,4.75,0
+2,Internet,RoundTrip,231,4,7,Wed,DPSTPE,Taiwan,Yes,No,No,4.67,0
+4,Internet,RoundTrip,338,5,13,Tue,ICNSYD,South Korea,No,No,No,8.58,0
+1,Internet,RoundTrip,39,32,7,Tue,OOLTPE,Taiwan,Yes,No,No,8.83,0
+2,Internet,RoundTrip,45,6,0,Fri,HKTSYD,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,159,6,14,Wed,BKIKIX,Japan,Yes,No,No,7.0,0
+5,Internet,RoundTrip,270,23,8,Sat,AKLKUL,Malaysia,No,No,No,8.83,0
+3,Internet,RoundTrip,18,66,9,Thu,KTMPEN,Malaysia,Yes,No,Yes,4.75,1
+1,Internet,RoundTrip,46,6,3,Sat,HKGPER,United States,No,No,No,5.62,0
+1,Internet,RoundTrip,22,4,15,Thu,HNDSIN,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,92,6,5,Mon,HNDPEN,Malaysia,No,Yes,No,7.57,1
+1,Internet,RoundTrip,175,24,13,Sun,PNKTPE,Taiwan,Yes,No,Yes,4.67,0
+4,Internet,RoundTrip,153,5,14,Mon,PENPVG,Malaysia,Yes,No,No,5.33,0
+2,Internet,RoundTrip,190,6,15,Sun,CTUMRU,China,No,No,Yes,7.42,0
+1,Internet,RoundTrip,31,6,0,Sat,KBVOOL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,232,6,8,Wed,DMKKIX,Thailand,Yes,No,No,7.0,1
+1,Internet,RoundTrip,13,28,2,Tue,CTUJHB,Malaysia,Yes,No,Yes,4.72,0
+1,Internet,RoundTrip,36,33,1,Sat,ICNOOL,South Korea,Yes,No,No,8.83,0
+1,Internet,RoundTrip,11,5,16,Sat,KIXSYD,Japan,No,Yes,No,8.58,1
+2,Internet,RoundTrip,14,48,12,Tue,ICNSYD,Australia,Yes,No,Yes,8.58,0
+1,Mobile,RoundTrip,7,6,13,Mon,ICNMEL,South Korea,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,3,43,12,Sat,IKAOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,7,5,7,Tue,ICNIKA,South Korea,Yes,No,Yes,8.15,0
+1,Internet,RoundTrip,174,23,3,Wed,SGNSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,57,50,6,Fri,KTMPEN,Malaysia,Yes,No,No,4.75,1
+1,Internet,RoundTrip,55,6,15,Tue,MELTPE,Taiwan,No,No,Yes,8.83,0
+1,Internet,RoundTrip,43,26,8,Fri,CKGSUB,Indonesia,Yes,Yes,Yes,4.83,1
+1,Internet,RoundTrip,321,5,6,Fri,CGKICN,Hong Kong,No,No,No,6.62,0
+1,Internet,RoundTrip,181,31,18,Tue,COKHGH,China,Yes,No,No,5.07,0
+1,Internet,RoundTrip,64,17,7,Mon,DMKPER,Thailand,No,Yes,No,5.62,0
+1,Mobile,RoundTrip,39,5,13,Mon,HKTPVG,China,No,No,No,5.33,0
+3,Internet,RoundTrip,65,19,0,Thu,CMBOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,281,6,11,Tue,PENPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,12,5,6,Tue,CGKICN,Indonesia,Yes,No,No,6.62,0
+1,Internet,RoundTrip,67,19,0,Mon,AKLKUL,New Zealand,Yes,No,No,8.83,0
+2,Internet,RoundTrip,60,24,13,Sat,MELMNL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,10,36,2,Fri,CTUMYY,Malaysia,Yes,No,No,4.72,0
+1,Internet,RoundTrip,25,4,2,Mon,DMKMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,17,18,14,Fri,KCHPER,Australia,No,No,Yes,5.62,0
+2,Internet,RoundTrip,5,4,4,Sat,PENTPE,Malaysia,No,Yes,No,4.67,0
+2,Internet,RoundTrip,4,4,15,Tue,PENPER,Malaysia,Yes,No,No,5.62,1
+1,Internet,RoundTrip,11,40,1,Wed,DMKOOL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,14,19,6,Mon,MELPEK,China,Yes,No,No,8.83,0
+2,Internet,RoundTrip,72,5,16,Mon,ICNSIN,South Korea,No,Yes,No,6.62,0
+3,Mobile,RoundTrip,9,4,8,Tue,ICNKCH,South Korea,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,13,40,3,Mon,KTMMFM,Macau,Yes,No,No,4.75,0
+1,Internet,RoundTrip,38,5,12,Sun,DMKHND,Japan,No,Yes,No,7.57,0
+2,Internet,RoundTrip,50,5,10,Sat,BKIOOL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,47,17,9,Mon,BKISYD,Malaysia,No,No,No,8.58,0
+2,Internet,RoundTrip,190,27,7,Tue,HYDMEL,India,Yes,Yes,Yes,8.83,0
+4,Internet,RoundTrip,20,5,15,Fri,PENTPE,Malaysia,Yes,No,No,4.67,1
+2,Internet,RoundTrip,18,88,10,Mon,DELPER,India,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,13,53,7,Fri,KTMPEN,Malaysia,Yes,No,Yes,4.75,0
+2,Internet,RoundTrip,76,69,5,Tue,LOPPVG,China,Yes,No,Yes,5.33,0
+2,Internet,RoundTrip,204,20,13,Fri,AKLKUL,Malaysia,No,No,No,8.83,0
+3,Internet,RoundTrip,130,5,15,Thu,MLETPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,149,4,9,Mon,PENPER,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,110,6,10,Tue,ICNMLE,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,55,29,14,Thu,OOLSGN,Australia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,5,4,8,Wed,MELPEN,Malaysia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,13,6,19,Wed,HKGSYD,Hong Kong,Yes,No,No,8.58,1
+3,Mobile,RoundTrip,83,5,10,Thu,OOLPEN,Australia,Yes,No,No,8.83,1
+3,Internet,RoundTrip,338,6,10,Mon,OOLPUS,South Korea,No,No,No,8.83,0
+1,Mobile,RoundTrip,35,5,20,Tue,DMKMEL,India,No,No,Yes,8.83,0
+1,Internet,RoundTrip,201,79,10,Fri,CTUPER,Australia,No,No,No,5.62,0
+2,Internet,RoundTrip,9,2,15,Thu,KIXSIN,Japan,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,60,37,9,Wed,PENTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,49,20,6,Wed,DELMEL,India,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,69,5,5,Sat,CGKHND,Indonesia,No,No,Yes,7.57,0
+1,Internet,RoundTrip,4,48,2,Mon,PUSSUB,Indonesia,Yes,Yes,No,6.33,0
+1,Internet,RoundTrip,142,5,14,Mon,ICNSIN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,22,61,5,Mon,JHBKTM,Malaysia,Yes,No,No,4.75,0
+2,Internet,RoundTrip,66,6,14,Wed,DPSPVG,China,No,No,No,5.33,1
+1,Internet,RoundTrip,8,88,16,Wed,MYYSYD,Brunei,Yes,No,No,8.58,0
+1,Internet,RoundTrip,72,4,0,Sat,AKLKUL,Malaysia,No,Yes,No,8.83,0
+1,Mobile,RoundTrip,24,25,19,Tue,OOLTPE,Australia,No,Yes,No,8.83,0
+1,Mobile,RoundTrip,70,5,17,Tue,CTSDMK,Thailand,Yes,No,No,8.67,1
+1,Internet,RoundTrip,22,5,6,Wed,ICNSIN,South Korea,No,Yes,No,6.62,0
+1,Internet,RoundTrip,14,3,11,Thu,HKGSYD,Hong Kong,No,No,Yes,8.58,0
+1,Internet,RoundTrip,9,42,15,Tue,PENTPE,Taiwan,Yes,No,Yes,4.67,0
+1,Internet,RoundTrip,44,21,10,Sat,HKTSYD,Australia,Yes,No,No,8.58,1
+1,Internet,RoundTrip,57,6,7,Sat,DMKKIX,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,134,36,23,Sun,MELPEN,Australia,No,Yes,No,8.83,0
+1,Internet,RoundTrip,16,23,5,Tue,CMBSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,6,4,4,Thu,PERVTZ,Australia,Yes,Yes,Yes,5.62,0
+5,Internet,RoundTrip,288,29,8,Fri,MELSGN,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,9,6,7,Tue,CTUTWU,China,Yes,No,No,4.72,0
+1,Internet,RoundTrip,308,29,16,Tue,AKLKUL,Malaysia,Yes,No,Yes,8.83,1
+2,Internet,RoundTrip,23,6,9,Sat,HKTPEK,China,No,No,No,6.42,0
+3,Internet,RoundTrip,23,5,13,Wed,CTSDMK,Thailand,Yes,No,No,8.67,1
+2,Internet,RoundTrip,165,5,13,Sat,CGKHND,Japan,Yes,No,No,7.57,0
+2,Internet,RoundTrip,138,35,19,Fri,AKLKUL,Switzerland,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,23,18,10,Tue,PENTPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,32,63,4,Mon,MAATPE,Taiwan,Yes,No,No,4.67,0
+2,Internet,RoundTrip,247,17,8,Thu,DPSSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,111,17,8,Wed,MELPEN,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,107,6,7,Tue,ICNSIN,South Korea,Yes,Yes,Yes,6.62,0
+4,Internet,RoundTrip,219,29,4,Mon,ICNSYD,South Korea,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,25,5,16,Wed,CTSJHB,Malaysia,No,No,No,8.67,1
+1,Internet,RoundTrip,111,5,11,Tue,DMKKIX,Thailand,Yes,Yes,No,7.0,0
+1,Internet,RoundTrip,69,4,3,Thu,BDOICN,Indonesia,Yes,Yes,Yes,6.62,1
+2,Internet,RoundTrip,19,4,13,Sun,DPSPEK,China,Yes,No,No,6.42,0
+1,Mobile,RoundTrip,47,5,4,Tue,DPSKIX,Japan,Yes,Yes,Yes,7.0,0
+1,Internet,CircleTrip,85,5,0,Fri,DACICN,South Korea,Yes,No,No,6.62,0
+2,Mobile,RoundTrip,30,4,7,Thu,DPSICN,South Korea,Yes,Yes,Yes,6.62,1
+1,Internet,RoundTrip,42,4,11,Mon,BKIPER,Malaysia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,56,3,21,Thu,LGKSYD,Australia,No,Yes,Yes,8.58,0
+1,Mobile,RoundTrip,89,23,13,Wed,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,15,36,8,Thu,KBRKIX,Malaysia,Yes,No,Yes,7.0,0
+1,Mobile,RoundTrip,33,4,16,Wed,CGKICN,South Korea,No,No,No,6.62,1
+3,Internet,RoundTrip,105,4,3,Mon,KCHPER,Malaysia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,61,6,18,Thu,KCHPUS,Malaysia,Yes,No,No,6.33,1
+5,Internet,RoundTrip,8,5,2,Sat,BKICTS,Malaysia,Yes,Yes,No,8.67,0
+1,Internet,RoundTrip,32,51,14,Sat,MELSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,15,3,4,Tue,KIXPER,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,16,62,7,Tue,KTMPEN,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,122,26,2,Thu,BWNKTM,Brunei,Yes,No,No,4.75,0
+8,Internet,RoundTrip,60,6,4,Wed,ICNKNO,South Korea,Yes,Yes,Yes,6.62,0
+2,Internet,RoundTrip,175,4,3,Thu,LOPPVG,Indonesia,No,No,No,5.33,0
+1,Internet,RoundTrip,22,24,11,Sun,JHBKTM,Malaysia,No,No,No,4.75,0
+2,Internet,RoundTrip,250,4,16,Sat,HNDLGK,Japan,Yes,Yes,Yes,7.57,1
+1,Internet,RoundTrip,36,20,0,Sun,MELSGN,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,66,6,7,Mon,HNDSIN,Singapore,No,No,No,7.57,0
+2,Internet,RoundTrip,56,4,11,Fri,HKTKIX,Japan,Yes,Yes,Yes,7.0,1
+1,Internet,RoundTrip,284,5,2,Sun,CGKICN,Indonesia,Yes,No,No,6.62,1
+1,Internet,RoundTrip,49,175,23,Wed,CNXOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,132,6,16,Wed,CTSSIN,Singapore,Yes,No,No,8.67,0
+1,Internet,RoundTrip,75,74,10,Wed,ICNRGN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,37,27,23,Tue,DMKOOL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,17,40,11,Wed,ICNMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,82,5,2,Tue,DPSICN,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,74,6,10,Tue,ICNMEL,South Korea,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,62,6,12,Tue,PENSYD,Australia,No,No,No,8.58,1
+2,Internet,RoundTrip,283,57,8,Fri,ICNPER,Australia,Yes,No,No,6.62,0
+1,Internet,RoundTrip,13,26,8,Wed,MELSGN,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,193,19,6,Fri,DELMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,2,88,0,Wed,BKIICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,82,32,23,Sat,PUSSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,81,18,17,Sat,IKASIN,Singapore,No,No,No,8.15,0
+2,Internet,RoundTrip,44,6,7,Sun,HKTSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,23,51,11,Sun,OOLSGN,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,147,20,1,Fri,KNOSYD,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,14,4,14,Mon,ICNSIN,Singapore,Yes,No,No,6.62,0
+1,Internet,RoundTrip,18,18,5,Tue,CGKKIX,Japan,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,101,6,7,Sun,DMKICN,Thailand,No,No,Yes,6.62,0
+1,Internet,RoundTrip,6,27,2,Fri,KTMMFM,Macau,Yes,No,Yes,4.75,0
+1,Internet,RoundTrip,18,4,7,Sat,DPSKIX,Japan,Yes,No,No,7.0,0
+2,Internet,RoundTrip,50,3,10,Sat,SBWTPE,Taiwan,No,No,No,4.67,1
+1,Internet,RoundTrip,6,28,5,Wed,DMKOOL,Australia,Yes,No,Yes,8.83,1
+2,Internet,RoundTrip,52,5,10,Sun,CGKPVG,China,No,No,No,5.33,0
+2,Internet,RoundTrip,80,6,3,Fri,KBVPVG,Thailand,No,No,No,5.33,0
+2,Internet,RoundTrip,382,5,10,Mon,CGKSYD,Indonesia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,34,21,1,Thu,OOLPNH,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,111,1,15,Tue,GOIPER,Australia,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,34,3,6,Sun,HKGMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,17,50,21,Wed,PENSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,116,29,8,Mon,HKTMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,348,21,10,Thu,MNLSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,3,21,10,Sun,DMKSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,235,5,12,Thu,MLETPE,Taiwan,Yes,No,No,4.67,0
+3,Internet,RoundTrip,190,21,2,Wed,HKTSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,17,5,13,Thu,PVGSIN,United Kingdom,No,No,No,5.33,0
+1,Internet,RoundTrip,17,6,18,Mon,DMKSYD,Thailand,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,27,4,16,Thu,HKTKIX,Japan,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,46,5,10,Sun,MNLSYD,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,22,17,4,Mon,ICNLGK,Russia,Yes,Yes,Yes,6.62,0
+2,Mobile,RoundTrip,13,6,13,Fri,PENTPE,Malaysia,No,No,No,4.67,0
+2,Internet,RoundTrip,102,20,16,Tue,MRUPEK,China,Yes,No,Yes,7.42,0
+3,Internet,RoundTrip,109,3,3,Sat,DPSICN,South Korea,No,Yes,No,6.62,0
+2,Internet,RoundTrip,36,19,15,Mon,BOMSYD,India,Yes,No,No,8.58,0
+1,Internet,RoundTrip,8,5,2,Thu,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,89,6,4,Wed,MELPVG,China,No,No,No,8.83,0
+2,Internet,RoundTrip,77,4,10,Mon,ICNLGK,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,33,2,9,Sun,DMKHND,Thailand,Yes,No,No,7.57,0
+1,Internet,RoundTrip,5,4,3,Thu,CMBPVG,China,Yes,No,No,5.33,0
+2,Internet,RoundTrip,10,23,7,Wed,DACMEL,Tanzania,Yes,No,No,8.83,0
+2,Internet,RoundTrip,2,1,10,Fri,PENTPE,Malaysia,No,No,No,4.67,1
+1,Internet,RoundTrip,3,134,12,Mon,ICNPER,South Korea,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,25,22,1,Fri,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,237,21,5,Wed,AKLKUL,United Kingdom,No,No,No,8.83,1
+1,Internet,RoundTrip,1,4,3,Tue,MELPEN,Australia,No,No,No,8.83,0
+1,Mobile,RoundTrip,12,6,10,Fri,HKTIKA,Thailand,Yes,Yes,No,8.15,0
+1,Internet,RoundTrip,7,91,3,Fri,OOLSGN,Vietnam,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,22,84,4,Tue,OOLSGN,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,75,19,6,Fri,DMKOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,19,21,1,Thu,IKAOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,301,6,23,Mon,ICNPER,Australia,Yes,No,Yes,6.62,0
+2,Internet,OneWay,40,6,5,Mon,MELPEK,China,Yes,No,Yes,8.83,0
+4,Internet,RoundTrip,102,22,10,Tue,DACPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,64,35,12,Mon,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,62,45,20,Fri,AKLKUL,New Zealand,No,No,No,8.83,0
+2,Internet,RoundTrip,16,4,6,Mon,ICNMAA,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,2,3,13,Sat,HKTSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,126,87,8,Mon,PEKSIN,Singapore,No,No,Yes,6.42,1
+1,Internet,RoundTrip,11,79,21,Fri,COKMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,10,41,14,Wed,JHBKTM,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,11,5,5,Sat,CGKPER,Australia,No,Yes,No,5.62,1
+3,Internet,RoundTrip,17,3,0,Fri,DMKKIX,Thailand,No,No,No,7.0,0
+1,Internet,RoundTrip,28,17,1,Mon,CMBMEL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,33,5,11,Fri,PNHSYD,Australia,No,No,Yes,8.58,0
+1,Internet,RoundTrip,10,3,11,Tue,HNDSIN,Japan,No,No,Yes,7.57,0
+4,Internet,RoundTrip,115,3,9,Sun,KIXSIN,Japan,No,No,No,7.0,1
+2,Mobile,RoundTrip,7,22,15,Mon,BKIPER,Malaysia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,12,19,10,Fri,SGNSYD,Vietnam,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,12,1,11,Tue,CGKSYD,Australia,No,No,Yes,8.58,0
+1,Mobile,RoundTrip,16,38,5,Tue,COKSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,1,4,2,Mon,DMKPER,Australia,No,No,Yes,5.62,0
+2,Mobile,RoundTrip,113,5,11,Thu,BKIPVG,Malaysia,Yes,Yes,No,5.33,1
+1,Internet,RoundTrip,19,92,7,Sat,CEBSYD,Philippines,Yes,No,Yes,8.58,1
+1,Internet,RoundTrip,99,5,3,Tue,HKTPEK,China,No,No,No,6.42,0
+3,Mobile,RoundTrip,15,44,13,Thu,RGNSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,129,23,13,Wed,COKSYD,Australia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,15,6,15,Thu,ICNSIN,Singapore,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,277,6,14,Sun,HKGOOL,Hong Kong,Yes,Yes,No,8.83,0
+2,Mobile,RoundTrip,38,5,6,Sun,PERPVG,Australia,Yes,Yes,Yes,5.62,0
+2,Internet,RoundTrip,29,6,15,Fri,CTSDMK,Thailand,Yes,Yes,Yes,8.67,1
+1,Internet,RoundTrip,77,27,2,Wed,MELPNH,Cambodia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,135,54,13,Tue,CCUSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,46,4,5,Mon,PEKPEN,Malaysia,No,No,No,6.42,0
+2,Internet,RoundTrip,175,18,23,Thu,MELSGN,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,163,6,5,Mon,HKTMEL,Australia,Yes,No,No,8.83,0
+2,Mobile,RoundTrip,61,4,4,Wed,DPSICN,South Korea,Yes,No,No,6.62,1
+5,Mobile,RoundTrip,95,4,10,Tue,PERSBW,Malaysia,Yes,Yes,No,5.62,0
+2,Internet,RoundTrip,203,50,1,Fri,MELPEN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,73,19,5,Thu,MELSGN,Vietnam,Yes,No,No,8.83,0
+1,Internet,RoundTrip,47,5,13,Thu,ICNMAA,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,96,19,12,Thu,MELMNL,Australia,No,No,Yes,8.83,0
+1,Mobile,RoundTrip,235,6,8,Sat,DMKKIX,Thailand,No,Yes,Yes,7.0,0
+1,Internet,RoundTrip,279,18,7,Sun,AKLKUL,Malaysia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,24,5,22,Sun,DMKOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,139,6,14,Wed,HKTPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,83,29,3,Wed,OOLPNH,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,50,3,7,Thu,SBWTPE,Malaysia,Yes,Yes,No,4.67,0
+1,Internet,RoundTrip,17,17,22,Tue,KCHMEL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,263,4,6,Mon,ICNSIN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,48,4,11,Tue,MRUPVG,China,No,No,No,7.42,0
+1,Internet,RoundTrip,119,24,12,Fri,COKPER,Australia,Yes,No,Yes,5.62,0
+1,Mobile,RoundTrip,59,29,7,Fri,HKTSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,26,2,6,Fri,MELPEN,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,196,5,6,Wed,HKGPER,Malaysia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,75,23,14,Fri,BKIKTM,Nepal,Yes,No,Yes,4.75,1
+1,Internet,RoundTrip,172,26,9,Tue,DMKKIX,Japan,Yes,No,No,7.0,0
+2,Mobile,RoundTrip,18,4,16,Sat,HKTICN,South Korea,Yes,No,No,6.62,0
+1,Internet,RoundTrip,25,6,4,Tue,LGKWUH,China,No,No,No,5.13,0
+1,Internet,RoundTrip,63,21,9,Sat,KIXPEN,Malaysia,Yes,No,No,7.0,1
+2,Internet,RoundTrip,333,19,0,Wed,DMKOOL,Australia,No,Yes,No,8.83,0
+2,Internet,RoundTrip,124,17,8,Fri,CEBOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,70,25,1,Mon,PERTPE,Taiwan,Yes,No,Yes,5.62,0
+4,Mobile,RoundTrip,110,6,8,Mon,DPSPVG,China,Yes,No,No,5.33,0
+1,Internet,RoundTrip,77,35,12,Sat,BWNHGH,China,Yes,No,No,5.07,0
+3,Internet,RoundTrip,98,5,14,Thu,ICNPEN,Singapore,Yes,No,Yes,6.62,1
+1,Mobile,RoundTrip,31,39,3,Thu,LGKPUS,South Korea,Yes,Yes,No,6.33,0
+2,Internet,RoundTrip,131,19,4,Mon,CEBMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,259,37,6,Sun,AKLDEL,India,No,No,No,5.52,0
+4,Internet,RoundTrip,28,23,10,Tue,BKIMRU,Mauritius,Yes,No,No,7.42,0
+1,Internet,RoundTrip,2,4,1,Fri,BKIHND,Japan,Yes,No,No,7.57,0
+1,Internet,RoundTrip,36,3,3,Wed,JHBTPE,Malaysia,No,No,No,4.67,1
+3,Internet,RoundTrip,128,87,11,Sun,OOLSGN,Australia,Yes,No,No,8.83,0
+8,Internet,RoundTrip,15,4,11,Thu,CTSDMK,Thailand,Yes,No,Yes,8.67,0
+1,Internet,RoundTrip,53,30,9,Sat,MELTPE,Australia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,24,44,3,Wed,MELPEK,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,30,30,2,Fri,DMKMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,78,22,10,Thu,HYDSYD,(not set),Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,22,57,12,Sun,MAAMRU,Mauritius,Yes,No,No,7.42,0
+1,Internet,RoundTrip,25,3,0,Wed,DPSICN,South Korea,No,No,Yes,6.62,0
+2,Internet,RoundTrip,76,190,6,Sat,MAASYD,India,No,No,Yes,8.58,0
+1,Internet,RoundTrip,5,17,3,Sat,IKAOOL,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,23,27,11,Sat,AKLKIX,Japan,No,No,No,7.0,0
+2,Mobile,RoundTrip,31,3,14,Sun,DPSHND,Japan,No,No,No,7.57,0
+2,Internet,RoundTrip,5,4,10,Wed,BTUPER,Malaysia,No,No,No,5.62,0
+1,Internet,RoundTrip,57,6,6,Fri,DPSPVG,United Kingdom,No,No,No,5.33,1
+1,Internet,RoundTrip,39,43,10,Sat,KTMSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,22,3,10,Thu,MELPEN,Malaysia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,90,96,23,Sun,HKTMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,258,6,10,Tue,ICNPER,Australia,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,24,47,4,Fri,KTMMFM,Macau,No,No,Yes,4.75,0
+3,Internet,RoundTrip,47,6,2,Thu,HKTSYD,Australia,Yes,No,Yes,8.58,0
+2,Mobile,RoundTrip,13,5,7,Wed,BKIMEL,Malaysia,No,Yes,Yes,8.83,1
+4,Internet,RoundTrip,193,3,10,Tue,DPSICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,101,26,14,Wed,BWNPER,Brunei,Yes,No,No,5.62,0
+1,Internet,RoundTrip,43,17,11,Thu,COKPER,Australia,No,No,Yes,5.62,0
+1,Internet,RoundTrip,46,17,6,Tue,CMBOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,82,6,9,Thu,PENSYD,Malaysia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,21,4,15,Wed,JOGTPE,Taiwan,No,No,No,4.67,0
+1,Mobile,RoundTrip,12,5,4,Thu,ICNPEN,Malaysia,Yes,No,No,6.62,0
+1,Internet,RoundTrip,92,22,1,Wed,AKLKUL,New Zealand,No,No,No,8.83,0
+1,Internet,RoundTrip,36,28,7,Fri,PVGSUB,Indonesia,Yes,Yes,Yes,5.33,1
+1,Internet,RoundTrip,14,91,2,Thu,SYDTWU,Australia,Yes,No,Yes,8.58,0
+2,Internet,RoundTrip,7,4,6,Sat,CGKHND,Japan,No,No,No,7.57,0
+2,Internet,RoundTrip,89,4,16,Mon,DPSKIX,Japan,Yes,Yes,No,7.0,1
+1,Internet,RoundTrip,20,29,4,Wed,PERXIY,Australia,No,No,No,5.62,0
+4,Internet,RoundTrip,60,44,1,Fri,SYDTRZ,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,152,30,6,Sat,COKSYD,Australia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,43,5,9,Tue,PEKTWU,China,No,No,No,6.42,0
+1,Internet,RoundTrip,417,4,2,Mon,PUSSYD,South Korea,No,No,No,8.58,0
+4,Internet,RoundTrip,12,26,3,Fri,OOLPEN,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,29,6,7,Tue,PEKPEN,China,No,No,No,6.42,0
+1,Internet,RoundTrip,71,38,6,Thu,ICNOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,380,36,8,Sun,OOLXIY,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,20,19,11,Mon,DELOOL,India,No,No,Yes,8.83,0
+1,Internet,RoundTrip,37,21,3,Thu,OOLPNH,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,97,30,2,Wed,MELPVG,Australia,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,24,2,9,Thu,PENTPE,Australia,No,No,Yes,4.67,1
+1,Internet,RoundTrip,33,338,5,Thu,MELMNL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,116,56,15,Thu,AKLKUL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,89,62,11,Sat,KCHTPE,Malaysia,Yes,Yes,No,4.67,0
+1,Internet,RoundTrip,151,19,8,Wed,CRKOOL,Australia,Yes,No,No,8.83,0
+3,Internet,RoundTrip,194,27,3,Sun,OOLSGN,Vietnam,No,No,Yes,8.83,0
+2,Internet,RoundTrip,29,5,6,Wed,MRUPEK,China,No,No,No,7.42,0
+2,Internet,RoundTrip,21,6,3,Wed,HKTPEK,China,No,No,No,6.42,0
+2,Internet,RoundTrip,231,17,15,Tue,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,6,4,9,Mon,DMKMEL,Australia,No,No,No,8.83,0
+1,Mobile,RoundTrip,43,17,17,Tue,KIXOOL,Japan,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,6,20,5,Wed,MELSGN,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,51,4,1,Tue,ICNSIN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,61,24,18,Mon,MELPEK,Mexico,Yes,Yes,Yes,8.83,0
+4,Mobile,RoundTrip,64,6,13,Sat,KIXPEN,Malaysia,No,No,No,7.0,0
+1,Internet,RoundTrip,45,23,8,Sat,MELPEK,Australia,No,Yes,Yes,8.83,0
+2,Mobile,RoundTrip,424,6,15,Tue,PEKTWU,China,No,No,No,6.42,0
+2,Internet,RoundTrip,83,36,14,Sun,HYDMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,20,55,14,Wed,KIXPER,Australia,Yes,Yes,Yes,7.0,0
+1,Internet,RoundTrip,3,33,3,Tue,ICNMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,32,21,7,Sat,MELTPE,Taiwan,No,No,Yes,8.83,0
+1,Internet,RoundTrip,87,17,11,Mon,CMBMEL,Australia,Yes,No,Yes,8.83,0
+3,Internet,RoundTrip,9,28,0,Sat,DMKPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,139,40,15,Mon,ICNSIN,Singapore,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,320,29,12,Mon,PERUTP,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,135,20,23,Tue,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,45,6,8,Mon,CTUHKT,China,Yes,No,No,4.72,0
+2,Internet,RoundTrip,104,6,8,Thu,DPSTPE,Taiwan,Yes,No,Yes,4.67,0
+2,Internet,RoundTrip,281,86,0,Tue,HNDLGK,Malaysia,Yes,Yes,No,7.57,0
+3,Internet,RoundTrip,15,21,13,Mon,HYDPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,64,30,12,Tue,KTMSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,219,30,7,Sun,SBWTPE,Malaysia,Yes,No,No,4.67,0
+3,Internet,RoundTrip,335,6,15,Wed,CNXPVG,China,Yes,No,No,5.33,0
+1,Internet,RoundTrip,48,17,9,Wed,CGKICN,South Korea,Yes,Yes,No,6.62,0
+1,Internet,RoundTrip,70,71,13,Mon,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,62,6,17,Fri,KIXSIN,Singapore,No,Yes,Yes,7.0,1
+3,Internet,RoundTrip,175,4,13,Sun,PERSDK,Malaysia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,23,27,3,Thu,MELPVG,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,100,64,13,Tue,HNDPER,Australia,Yes,No,No,7.57,0
+2,Internet,RoundTrip,63,5,14,Thu,CGKKIX,Indonesia,Yes,No,Yes,7.0,0
+1,Internet,RoundTrip,95,6,14,Wed,PEKPEN,Singapore,Yes,No,No,6.42,1
+2,Internet,RoundTrip,28,5,8,Wed,HKTXIY,China,Yes,No,No,5.0,1
+1,Internet,RoundTrip,163,4,2,Wed,LGKMEL,Australia,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,16,5,19,Fri,DMKICN,Thailand,No,No,No,6.62,0
+2,Internet,RoundTrip,96,6,4,Tue,DPSICN,South Korea,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,170,70,2,Mon,DMKPER,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,15,5,9,Wed,DPSICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,169,6,4,Sun,MELTPE,Taiwan,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,89,5,23,Tue,COKMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,28,39,16,Sat,CANPER,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,263,5,2,Wed,JHBTPE,Malaysia,Yes,Yes,Yes,4.67,0
+1,Internet,RoundTrip,192,31,22,Sun,PUSSYD,South Korea,Yes,No,No,8.58,0
+2,Internet,RoundTrip,19,6,8,Sun,HKTMEL,Australia,No,No,No,8.83,0
+2,Internet,RoundTrip,1,28,6,Fri,JHBPVG,China,Yes,No,No,5.33,0
+1,Internet,RoundTrip,56,4,4,Sat,KIXSIN,Malaysia,No,No,No,7.0,0
+2,Mobile,RoundTrip,5,256,12,Wed,JOGOOL,Australia,No,Yes,Yes,8.83,0
+1,Internet,RoundTrip,11,58,3,Thu,JHBKTM,Malaysia,Yes,No,Yes,4.75,0
+1,Mobile,RoundTrip,161,31,3,Sun,DELMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,143,3,11,Mon,BKIPER,Australia,No,No,No,5.62,0
+2,Internet,RoundTrip,96,21,5,Tue,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,8,5,10,Tue,PERREP,Indonesia,No,No,No,5.62,0
+1,Internet,RoundTrip,6,2,6,Thu,HNDSIN,Singapore,No,No,No,7.57,0
+1,Internet,RoundTrip,14,4,9,Tue,PENPVG,Malaysia,No,No,Yes,5.33,0
+1,Mobile,RoundTrip,295,26,15,Mon,ICNOOL,Malaysia,No,No,No,8.83,0
+2,Internet,RoundTrip,30,17,4,Sun,CMBPEK,China,Yes,No,No,6.42,0
+1,Internet,RoundTrip,12,5,9,Thu,ICNKCH,Singapore,Yes,No,No,6.62,0
+2,Internet,RoundTrip,270,17,17,Sun,HYDSYD,India,Yes,No,No,8.58,0
+4,Internet,RoundTrip,225,6,14,Sun,CGKKIX,Indonesia,Yes,No,No,7.0,0
+3,Internet,RoundTrip,94,6,12,Sun,CNXPVG,China,Yes,Yes,No,5.33,1
+1,Internet,RoundTrip,28,99,8,Mon,DMKPER,Australia,Yes,No,No,5.62,0
+4,Internet,RoundTrip,139,4,1,Fri,ICNSIN,Singapore,Yes,Yes,No,6.62,1
+1,Internet,RoundTrip,33,19,7,Fri,PVGSYD,China,Yes,No,No,8.58,0
+4,Internet,RoundTrip,36,6,12,Sun,DELMRU,India,Yes,No,No,7.42,0
+1,Internet,RoundTrip,185,6,9,Fri,DMKIKA,Thailand,Yes,No,No,8.15,0
+2,Internet,RoundTrip,106,47,12,Wed,AKLTPE,Taiwan,Yes,No,No,4.67,0
+1,Internet,RoundTrip,154,5,14,Mon,KIXSUB,Indonesia,Yes,Yes,Yes,7.0,1
+1,Mobile,RoundTrip,87,44,8,Tue,DACSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,61,90,4,Thu,KNOSYD,Indonesia,No,No,No,8.58,0
+1,Internet,RoundTrip,17,3,3,Mon,SGNSYD,Vietnam,Yes,No,No,8.58,0
+1,Internet,RoundTrip,10,3,7,Thu,CGKPVG,China,Yes,Yes,Yes,5.33,1
+1,Internet,RoundTrip,12,78,12,Wed,KTMPEN,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,13,4,9,Thu,KIXSGN,Japan,No,No,Yes,7.0,0
+1,Internet,RoundTrip,29,5,12,Wed,COKPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,53,3,7,Wed,DMKOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,30,4,12,Sun,ICNSIN,South Korea,Yes,No,Yes,6.62,0
+2,Internet,RoundTrip,111,4,14,Tue,DMKKIX,Thailand,Yes,No,No,7.0,1
+4,Internet,RoundTrip,202,5,3,Mon,ICNMLE,South Korea,No,Yes,No,6.62,0
+1,Internet,RoundTrip,89,5,8,Fri,ICNJHB,Malaysia,Yes,No,Yes,6.62,0
+1,Internet,RoundTrip,138,4,15,Sat,HNDSGN,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,9,3,0,Sun,JOGKIX,Japan,No,Yes,No,7.0,0
+2,Internet,RoundTrip,35,18,15,Sat,MELSGN,Australia,Yes,No,No,8.83,1
+5,Internet,RoundTrip,38,5,12,Mon,MELPEN,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,41,92,9,Thu,KTMPEN,Malaysia,Yes,No,Yes,4.75,0
+1,Internet,RoundTrip,279,3,14,Tue,HNDLGK,Japan,No,Yes,Yes,7.57,0
+2,Mobile,RoundTrip,60,4,12,Tue,DMKKIX,Thailand,Yes,Yes,Yes,7.0,1
+1,Internet,RoundTrip,205,6,6,Thu,DMKTPE,Thailand,No,No,No,4.67,1
+1,Internet,RoundTrip,216,6,6,Wed,BTUICN,Malaysia,Yes,No,No,6.62,0
+1,Internet,RoundTrip,97,22,3,Mon,CRKMEL,Philippines,No,No,No,8.83,0
+2,Internet,RoundTrip,40,6,17,Thu,AKLHND,Japan,No,No,Yes,7.57,0
+1,Internet,RoundTrip,36,41,6,Mon,CCUOOL,India,Yes,Yes,Yes,8.83,1
+2,Internet,RoundTrip,96,6,10,Wed,CNXKIX,Thailand,No,Yes,No,7.0,0
+1,Mobile,RoundTrip,27,40,7,Tue,MELPEN,Malaysia,Yes,No,Yes,8.83,0
+2,Mobile,RoundTrip,10,5,4,Mon,KNOTPE,Taiwan,No,No,No,4.67,0
+2,Internet,RoundTrip,369,20,8,Thu,CGKSYD,Indonesia,Yes,No,No,8.58,0
+2,Internet,RoundTrip,67,4,2,Wed,HNDKBR,Malaysia,Yes,No,No,7.57,1
+1,Internet,RoundTrip,29,4,3,Tue,LGKMEL,Australia,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,186,5,5,Wed,DPSPVG,China,Yes,Yes,Yes,5.33,0
+1,Internet,RoundTrip,13,465,9,Thu,AKLKUL,Malaysia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,20,3,8,Wed,MELPEN,Malaysia,Yes,No,No,8.83,1
+1,Internet,RoundTrip,112,19,12,Fri,MELPEN,Australia,Yes,No,Yes,8.83,0
+3,Internet,RoundTrip,68,22,4,Fri,CEBOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,148,5,16,Mon,DMKKIX,Thailand,Yes,Yes,No,7.0,0
+2,Internet,RoundTrip,3,4,9,Mon,ICNRGN,South Korea,No,No,No,6.62,0
+2,Internet,RoundTrip,213,6,1,Fri,HKTOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,40,4,16,Fri,HKTPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,32,3,7,Mon,CGKOOL,Indonesia,No,Yes,No,8.83,0
+5,Internet,RoundTrip,56,6,9,Sun,PEKTGG,China,Yes,No,No,6.42,1
+1,Internet,RoundTrip,59,23,13,Mon,HNDSUB,Japan,Yes,No,Yes,7.57,1
+1,Internet,RoundTrip,149,33,1,Fri,DADOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,190,3,3,Wed,DPSHND,Japan,No,Yes,No,7.57,0
+4,Internet,RoundTrip,97,5,5,Thu,MELSGN,Vietnam,Yes,No,No,8.83,0
+1,Mobile,RoundTrip,22,18,12,Fri,DPSPEK,China,No,No,No,6.42,0
+3,Internet,RoundTrip,45,5,7,Fri,HKTHND,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,4,84,11,Wed,PENSYD,Malaysia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,99,19,13,Wed,AKLKUL,Malaysia,Yes,Yes,Yes,8.83,1
+1,Internet,RoundTrip,36,88,2,Fri,CNXHND,Thailand,Yes,No,Yes,7.57,0
+5,Internet,RoundTrip,355,17,20,Sun,HKTOOL,Thailand,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,67,4,1,Sun,KIXLGK,Japan,Yes,No,Yes,7.0,0
+2,Internet,RoundTrip,87,17,15,Tue,AKLKUL,United Kingdom,No,No,No,8.83,0
+1,Internet,RoundTrip,13,74,3,Tue,PERTPE,Taiwan,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,10,24,10,Tue,MELPEK,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,65,5,6,Sat,DPSICN,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,7,3,0,Wed,ICNKCH,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,200,5,13,Fri,DPSPEK,China,No,No,No,6.42,0
+1,Internet,RoundTrip,36,88,6,Mon,CGKKIX,Indonesia,No,No,Yes,7.0,0
+1,Internet,RoundTrip,20,33,8,Thu,OOLTPE,Australia,Yes,No,Yes,8.83,1
+1,Internet,RoundTrip,13,18,4,Fri,ICNJED,Saudi Arabia,No,No,No,9.5,0
+1,Internet,RoundTrip,19,6,12,Sun,PERPNH,Australia,Yes,No,No,5.62,0
+2,Mobile,RoundTrip,22,5,10,Sun,HKGPER,South Korea,Yes,No,No,5.62,0
+1,Internet,RoundTrip,64,30,7,Mon,KTMMFM,Macau,Yes,No,Yes,4.75,0
+2,Internet,RoundTrip,9,20,6,Thu,SYDTRZ,India,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,175,5,16,Wed,MELPEN,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,84,6,12,Mon,CGKDEL,Indonesia,No,No,No,5.52,0
+2,Internet,RoundTrip,7,64,1,Thu,JHBKTM,Malaysia,Yes,No,No,4.75,1
+2,Internet,RoundTrip,13,3,6,Fri,KIXSIN,Japan,Yes,Yes,Yes,7.0,0
+4,Internet,RoundTrip,270,5,14,Wed,PENPER,Malaysia,Yes,Yes,Yes,5.62,1
+1,Internet,RoundTrip,61,25,14,Fri,HKGPER,Australia,No,No,No,5.62,0
+3,Internet,RoundTrip,192,5,4,Thu,ICNRGN,South Korea,Yes,No,No,6.62,0
+3,Internet,RoundTrip,141,29,21,Sat,DMKOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,7,2,5,Wed,DMKKIX,Japan,No,No,No,7.0,0
+1,Internet,RoundTrip,41,31,5,Tue,HKTPER,Thailand,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,10,27,3,Thu,JHBPVG,China,Yes,No,No,5.33,0
+1,Internet,RoundTrip,11,23,9,Mon,MELPEN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,52,4,11,Wed,HKTHND,Japan,No,Yes,Yes,7.57,0
+1,Internet,RoundTrip,59,39,13,Tue,ICNOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,11,21,1,Tue,PERSBW,Malaysia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,54,28,10,Mon,PENPER,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,265,59,10,Tue,AKLKUL,New Zealand,Yes,No,No,8.83,0
+1,Internet,RoundTrip,126,5,4,Wed,CGKICN,South Korea,No,No,Yes,6.62,0
+3,Internet,RoundTrip,183,4,8,Thu,HKTICN,South Korea,No,No,Yes,6.62,0
+3,Internet,RoundTrip,62,6,15,Sun,DPSPVG,Hong Kong,Yes,Yes,Yes,5.33,0
+1,Internet,RoundTrip,25,19,3,Wed,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,61,21,6,Fri,MELMNL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,259,59,12,Sun,CNXMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,91,3,3,Thu,DMKSYD,Australia,Yes,Yes,Yes,8.58,1
+1,Internet,OneWay,53,36,12,Tue,ICNOOL,South Korea,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,74,22,2,Sun,DMKOOL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,189,5,10,Wed,ICNTGG,South Korea,Yes,No,No,6.62,0
+2,Mobile,RoundTrip,248,5,19,Sun,DMKKIX,Thailand,Yes,Yes,Yes,7.0,0
+5,Internet,RoundTrip,277,42,0,Sun,AKLKUL,New Zealand,Yes,No,No,8.83,0
+5,Internet,RoundTrip,131,37,6,Wed,MELRGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,59,44,12,Mon,COKPER,Australia,Yes,No,No,5.62,0
+2,Internet,RoundTrip,55,25,12,Tue,PERSGN,Australia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,16,6,12,Thu,HKTWUH,Philippines,Yes,No,No,5.13,0
+1,Internet,RoundTrip,26,29,2,Thu,SGNSYD,Australia,Yes,Yes,Yes,8.58,0
+3,Internet,RoundTrip,73,28,10,Wed,PENSYD,Malaysia,Yes,No,No,8.58,0
+1,Internet,RoundTrip,74,27,4,Thu,COKPER,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,0,29,5,Sun,DELMEL,Australia,Yes,No,No,8.83,0
+6,Mobile,RoundTrip,136,5,10,Mon,PENTPE,Malaysia,Yes,No,No,4.67,0
+1,Internet,RoundTrip,58,44,14,Wed,COKHGH,China,Yes,No,Yes,5.07,0
+1,Internet,RoundTrip,161,5,10,Tue,KCHMEL,Australia,Yes,Yes,No,8.83,0
+1,Internet,RoundTrip,80,3,1,Mon,ICNSIN,Malaysia,Yes,No,Yes,6.62,1
+1,Internet,RoundTrip,54,34,3,Mon,OOLPNH,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,72,17,8,Wed,OOLTPE,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,210,58,4,Sun,COKMEL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,57,28,9,Wed,DMKSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,4,6,3,Thu,PENTPE,Malaysia,Yes,Yes,Yes,4.67,1
+1,Internet,RoundTrip,169,34,14,Wed,MELPEN,Australia,Yes,No,No,8.83,0
+6,Internet,RoundTrip,45,4,15,Sun,PVGSIN,China,No,No,No,5.33,0
+1,Internet,RoundTrip,24,5,2,Thu,COKMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,3,2,2,Fri,PVGTWU,Japan,Yes,No,No,5.33,1
+1,Internet,RoundTrip,27,78,6,Thu,MELMYY,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,82,4,23,Fri,DPSOOL,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,113,18,9,Sun,KIXOOL,Australia,Yes,Yes,No,8.83,1
+1,Internet,RoundTrip,21,5,2,Tue,MAAOOL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,23,4,1,Sat,HNDSIN,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,2,5,22,Wed,CNXMEL,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,36,18,12,Tue,PERPNH,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,34,89,8,Thu,ICNPER,Australia,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,81,4,5,Mon,ICNOOL,South Korea,No,No,No,8.83,0
+2,Internet,RoundTrip,212,19,9,Thu,MELSGN,Australia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,118,5,14,Thu,PENPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,28,23,9,Thu,DMKPER,Australia,Yes,No,No,5.62,0
+3,Internet,RoundTrip,41,6,14,Sun,MAATPE,Taiwan,Yes,No,No,4.67,0
+2,Internet,RoundTrip,150,5,9,Wed,DPSSYD,Australia,Yes,No,Yes,8.58,1
+1,Internet,RoundTrip,117,4,12,Mon,CTSPER,Japan,No,No,No,8.67,0
+5,Internet,RoundTrip,272,6,9,Sun,PEKSBW,Malaysia,Yes,No,Yes,6.42,1
+2,Internet,RoundTrip,202,53,15,Fri,HKGPER,China,Yes,No,No,5.62,0
+2,Mobile,RoundTrip,43,5,7,Sat,CTUHKT,China,No,No,No,4.72,0
+2,Internet,RoundTrip,95,21,1,Tue,CMBSYD,Australia,No,No,No,8.58,0
+1,Internet,RoundTrip,124,32,7,Fri,IKASYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,372,6,13,Tue,OOLPVG,China,No,No,No,8.83,0
+2,Mobile,RoundTrip,41,22,20,Wed,DPSPEK,China,Yes,Yes,No,6.42,0
+1,Internet,RoundTrip,6,5,20,Thu,PERREP,Australia,No,No,No,5.62,0
+1,Internet,RoundTrip,31,20,16,Sun,SGNSYD,Australia,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,93,3,10,Tue,AKLKUL,New Zealand,No,No,No,8.83,0
+1,Internet,RoundTrip,224,5,17,Sun,ICNKCH,Malaysia,Yes,No,Yes,6.62,0
+4,Internet,RoundTrip,19,5,10,Mon,KCHPER,Malaysia,Yes,Yes,No,5.62,1
+1,Internet,RoundTrip,220,27,8,Wed,BLRPER,Australia,Yes,Yes,No,5.62,0
+1,Internet,RoundTrip,48,20,13,Mon,DMKSYD,Australia,No,No,Yes,8.58,0
+2,Internet,RoundTrip,395,5,15,Fri,PERSIN,Australia,No,Yes,No,5.62,0
+1,Internet,RoundTrip,9,5,14,Fri,ICNSIN,Singapore,Yes,No,No,6.62,0
+2,Internet,RoundTrip,8,6,4,Tue,BKIPEK,China,No,No,No,6.42,0
+3,Mobile,RoundTrip,33,4,17,Thu,CGKHND,Indonesia,Yes,Yes,No,7.57,0
+1,Internet,RoundTrip,302,22,2,Sun,CGKKIX,Japan,Yes,No,Yes,7.0,0
+4,Internet,RoundTrip,137,29,3,Sun,CMBSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,31,182,10,Fri,ICNSYD,South Korea,Yes,Yes,Yes,8.58,0
+2,Internet,RoundTrip,64,87,20,Sat,DACOOL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,4,18,10,Thu,KBRPER,Australia,Yes,No,No,5.62,1
+1,Internet,RoundTrip,320,5,8,Mon,CGKHND,Indonesia,No,No,No,7.57,0
+2,Internet,RoundTrip,1,6,4,Sun,KCHPUS,South Korea,Yes,No,No,6.33,0
+1,Internet,RoundTrip,6,4,11,Fri,CTUPER,Malaysia,No,No,No,5.62,0
+2,Internet,RoundTrip,32,19,8,Mon,KNOOOL,Australia,Yes,Yes,Yes,8.83,1
+2,Internet,RoundTrip,212,5,14,Mon,DMKKIX,Thailand,Yes,Yes,Yes,7.0,1
+2,Mobile,RoundTrip,216,17,5,Fri,BDOIKA,Indonesia,No,No,No,8.15,0
+1,Internet,RoundTrip,39,6,9,Tue,DMKPER,Thailand,No,No,No,5.62,0
+1,Internet,RoundTrip,41,43,5,Tue,TPETRZ,Taiwan,Yes,No,Yes,4.67,0
+1,Internet,RoundTrip,77,18,1,Thu,HKTOOL,Australia,Yes,No,No,8.83,1
+2,Mobile,RoundTrip,6,4,5,Tue,PENTPE,Malaysia,Yes,Yes,No,4.67,1
+1,Internet,RoundTrip,34,60,5,Tue,TWUXIY,Malaysia,No,No,No,5.0,1
+1,Internet,RoundTrip,16,6,6,Tue,DPSPEK,New Zealand,No,No,No,6.42,0
+1,Internet,RoundTrip,67,6,14,Fri,ICNSIN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,267,5,18,Mon,CGKMEL,Indonesia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,19,69,7,Mon,MAAMRU,India,Yes,No,No,7.42,0
+1,Internet,RoundTrip,17,3,22,Tue,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,48,3,13,Sat,HNDSIN,Japan,No,No,Yes,7.57,0
+1,Internet,RoundTrip,33,19,4,Sat,CGKHND,Japan,Yes,No,Yes,7.57,1
+2,Internet,RoundTrip,24,4,13,Wed,DPSICN,South Korea,No,No,No,6.62,0
+1,Internet,RoundTrip,47,36,13,Sat,CGKPVG,China,Yes,No,No,5.33,1
+1,Internet,RoundTrip,64,19,9,Mon,MELSGN,Australia,Yes,No,No,8.83,0
+1,Mobile,OneWay,33,3,10,Fri,DACSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,286,35,1,Fri,AKLKUL,New Zealand,Yes,No,No,8.83,0
+2,Internet,RoundTrip,27,27,1,Tue,JEDSUB,Indonesia,Yes,No,Yes,9.5,0
+2,Internet,RoundTrip,73,18,12,Sun,DELSIN,India,Yes,No,No,5.52,0
+2,Internet,RoundTrip,181,18,2,Fri,AKLKUL,New Zealand,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,330,5,4,Sun,PENTPE,Malaysia,No,Yes,No,4.67,0
+3,Internet,RoundTrip,75,5,12,Fri,PERTPE,Taiwan,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,41,88,5,Tue,DPSHND,Japan,Yes,No,No,7.57,1
+1,Internet,RoundTrip,101,28,5,Fri,DMKOOL,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,47,38,15,Wed,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,239,33,8,Sat,COKMEL,Australia,Yes,Yes,No,8.83,0
+1,Mobile,RoundTrip,86,4,12,Tue,CNXHND,Thailand,Yes,No,No,7.57,0
+1,Internet,RoundTrip,68,92,20,Tue,MELPEK,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,3,3,15,Thu,JHBWUH,Malaysia,No,No,No,5.13,0
+2,Internet,RoundTrip,199,35,14,Sun,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,41,6,7,Wed,KIXPEN,Malaysia,No,No,No,7.0,0
+1,Internet,RoundTrip,69,30,12,Mon,DMKOOL,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,41,57,4,Wed,CGKCTS,Indonesia,Yes,No,No,8.67,0
+1,Internet,RoundTrip,98,39,10,Sat,DELPER,Indonesia,No,No,Yes,5.62,0
+1,Mobile,RoundTrip,72,4,12,Sun,BKIHND,Japan,No,No,Yes,7.57,0
+2,Internet,RoundTrip,78,23,21,Fri,ICNSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,237,6,12,Wed,KCHKIX,Indonesia,No,No,No,7.0,0
+2,Internet,RoundTrip,27,5,7,Sat,DELHKG,India,Yes,No,No,5.52,0
+2,Internet,RoundTrip,101,44,14,Mon,DACPER,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,37,6,17,Tue,CGKKIX,Indonesia,Yes,No,Yes,7.0,0
+2,Internet,RoundTrip,73,5,13,Sat,HNDSIN,Japan,Yes,No,No,7.57,0
+1,Mobile,RoundTrip,96,17,6,Sat,CGKIKA,Indonesia,Yes,No,Yes,8.15,0
+1,Internet,RoundTrip,72,6,3,Mon,KIXPER,Japan,Yes,No,Yes,7.0,1
+2,Internet,RoundTrip,204,20,1,Sat,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,224,18,15,Sun,AKLKUL,Germany,No,No,No,8.83,0
+1,Internet,RoundTrip,75,5,22,Sun,HNDLGK,Japan,No,No,No,7.57,0
+1,Internet,RoundTrip,42,5,14,Fri,HNDPEN,Malaysia,Yes,Yes,Yes,7.57,0
+1,Internet,RoundTrip,45,23,14,Fri,MELSGN,Australia,Yes,Yes,Yes,8.83,0
+1,Internet,RoundTrip,164,6,8,Tue,MELPEN,Malaysia,No,No,No,8.83,0
+2,Internet,RoundTrip,54,20,12,Sun,OOLVTE,Australia,Yes,No,No,8.83,0
+2,Internet,RoundTrip,89,18,9,Thu,KBVSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Mobile,RoundTrip,48,5,7,Fri,PERSGN,Australia,No,Yes,No,5.62,0
+4,Internet,RoundTrip,89,4,18,Fri,HKTPUS,South Korea,Yes,No,Yes,6.33,0
+2,Mobile,RoundTrip,378,5,6,Wed,BKIOOL,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,168,5,2,Fri,DMKKIX,Thailand,Yes,No,Yes,7.0,0
+1,Mobile,RoundTrip,196,4,7,Sat,PENPVG,China,Yes,Yes,Yes,5.33,1
+1,Internet,RoundTrip,22,27,9,Sun,AKLKUL,New Zealand,No,No,Yes,8.83,0
+2,Mobile,RoundTrip,186,5,13,Sun,HKTKIX,Japan,Yes,No,Yes,7.0,0
+2,Internet,RoundTrip,413,6,5,Wed,AKLKUL,Malaysia,No,No,No,8.83,0
+1,Internet,RoundTrip,69,23,18,Wed,HNDSIN,Singapore,Yes,No,Yes,7.57,0
+1,Internet,RoundTrip,235,6,4,Wed,ICNKBV,South Korea,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,70,6,4,Thu,CGKICN,Indonesia,Yes,Yes,Yes,6.62,0
+1,Internet,RoundTrip,24,3,7,Tue,CMBICN,South Korea,No,No,Yes,6.62,0
+2,Internet,RoundTrip,29,5,3,Tue,KCHPER,Malaysia,Yes,Yes,Yes,5.62,0
+9,Internet,RoundTrip,54,4,11,Sat,KBVPEK,China,Yes,No,No,6.42,1
+1,Internet,RoundTrip,363,31,16,Sun,AKLKUL,Malaysia,Yes,No,Yes,8.83,0
+4,Internet,RoundTrip,132,20,13,Tue,AKLKUL,Malaysia,Yes,No,No,8.83,1
+2,Mobile,RoundTrip,152,37,12,Thu,DMKPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,32,53,10,Mon,KTMPEN,Malaysia,Yes,No,No,4.75,0
+1,Internet,RoundTrip,70,6,16,Wed,MLETPE,Taiwan,No,No,No,4.67,0
+1,Internet,RoundTrip,144,35,2,Fri,COKSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,66,91,6,Thu,DELOOL,Australia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,37,5,10,Tue,MELPEN,Malaysia,Yes,No,No,8.83,0
+1,Internet,RoundTrip,119,18,2,Tue,DMKSYD,Australia,No,No,No,8.58,0
+2,Internet,RoundTrip,35,4,4,Sun,DPSKIX,Japan,Yes,Yes,No,7.0,1
+1,Internet,RoundTrip,123,6,23,Wed,ICNOOL,South Korea,No,No,No,8.83,0
+1,Internet,RoundTrip,59,29,9,Mon,KTMMFM,Macau,Yes,No,No,4.75,0
+1,Internet,RoundTrip,61,39,6,Mon,PENSYD,Malaysia,Yes,No,Yes,8.58,1
+2,Internet,RoundTrip,38,19,12,Thu,KBVMEL,Australia,Yes,Yes,No,8.83,0
+2,Internet,RoundTrip,62,5,7,Thu,PENPER,United States,Yes,Yes,Yes,5.62,1
+1,Internet,RoundTrip,37,21,17,Sat,SYDTPE,Taiwan,Yes,No,No,8.58,0
+1,Mobile,RoundTrip,8,78,11,Fri,SYDTRZ,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,43,22,3,Thu,CTUPEN,Malaysia,No,No,No,4.72,0
+1,Internet,RoundTrip,10,4,19,Tue,MELSIN,Malaysia,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,45,68,5,Sat,ICNSYD,South Korea,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,26,87,11,Sat,SYDTRZ,Australia,No,Yes,Yes,8.58,0
+1,Internet,RoundTrip,12,54,13,Fri,DMKOOL,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,6,3,0,Wed,KIXTGG,Japan,No,No,Yes,7.0,1
+3,Mobile,RoundTrip,30,6,3,Sat,HGHSGN,China,Yes,No,Yes,5.07,0
+1,Internet,RoundTrip,38,6,8,Sat,LGKSYD,Australia,Yes,Yes,Yes,8.58,0
+5,Internet,RoundTrip,136,5,3,Wed,DPSICN,South Korea,No,No,Yes,6.62,0
+1,Internet,RoundTrip,84,20,0,Fri,COKICN,South Korea,Yes,No,No,6.62,0
+1,Mobile,RoundTrip,248,22,12,Fri,MELSBW,Australia,Yes,No,Yes,8.83,0
+2,Mobile,RoundTrip,111,32,2,Wed,DMKMEL,Australia,Yes,Yes,Yes,8.83,0
+2,Internet,RoundTrip,164,23,13,Thu,MYYPER,Australia,Yes,No,No,5.62,0
+6,Internet,RoundTrip,40,6,2,Thu,MELPEN,Australia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,7,4,5,Tue,PENPER,Malaysia,Yes,No,No,5.62,0
+1,Internet,RoundTrip,133,27,9,Sun,HYDSYD,Australia,No,Yes,Yes,8.58,0
+1,Internet,RoundTrip,34,5,2,Sat,PUSSIN,South Korea,Yes,No,No,6.33,0
+1,Internet,RoundTrip,94,21,13,Sun,ICNMEL,United States,No,No,No,8.83,0
+3,Internet,RoundTrip,163,18,5,Fri,PERPUS,South Korea,Yes,No,No,6.33,0
+1,Internet,RoundTrip,2,27,1,Thu,KIXLOP,Japan,Yes,No,No,7.0,0
+1,Internet,RoundTrip,162,6,13,Mon,PENSYD,Australia,Yes,No,Yes,8.58,0
+1,Internet,RoundTrip,191,29,11,Tue,PENPER,Italy,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,17,29,8,Tue,MELSGN,Vietnam,Yes,No,No,8.83,0
+1,Internet,RoundTrip,97,6,6,Thu,DPSPEK,China,No,No,No,6.42,0
+1,Internet,RoundTrip,4,4,16,Thu,HNDMEL,Japan,Yes,No,No,8.83,0
+1,Internet,RoundTrip,21,4,6,Fri,OOLPEN,Malaysia,Yes,No,Yes,8.83,0
+2,Internet,RoundTrip,5,3,17,Sun,JHBPVG,China,No,No,No,5.33,0
+2,Internet,RoundTrip,119,29,12,Sat,COKPER,Australia,Yes,Yes,Yes,5.62,0
+1,Internet,RoundTrip,3,4,11,Tue,SBWSYD,Australia,Yes,Yes,Yes,8.58,0
+1,Internet,RoundTrip,127,4,11,Wed,DMKHND,Thailand,Yes,No,No,7.57,0
+2,Internet,RoundTrip,142,29,9,Wed,AKLKUL,New Zealand,Yes,Yes,Yes,8.83,0
+1,Mobile,RoundTrip,6,5,20,Tue,KBVPEK,China,No,Yes,No,6.42,1
+1,Mobile,RoundTrip,15,17,14,Sat,DPSPUS,South Korea,No,No,No,6.33,0
+1,Internet,RoundTrip,57,20,4,Wed,CGKPEK,Indonesia,No,No,No,6.42,0
+1,Internet,RoundTrip,45,26,11,Wed,PERTPE,Australia,Yes,No,Yes,5.62,0
+1,Internet,RoundTrip,42,22,12,Fri,OOLPUS,Australia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,166,6,2,Thu,AKLKUL,Malaysia,No,No,Yes,8.83,0
+1,Internet,RoundTrip,16,89,2,Mon,ICNSYD,South Korea,Yes,Yes,Yes,8.58,0
+4,Internet,RoundTrip,43,5,0,Wed,PENTPE,Malaysia,Yes,Yes,No,4.67,0
+2,Internet,RoundTrip,35,28,6,Fri,MELXIY,China,Yes,No,Yes,8.83,0
+1,Internet,RoundTrip,58,22,7,Sun,KTMMEL,Australia,No,No,No,8.83,0
+1,Internet,RoundTrip,1,5,3,Sun,MELSGN,Australia,Yes,No,Yes,8.83,0
+1,Mobile,RoundTrip,4,4,1,Wed,CMBMEL,Australia,No,No,No,8.83,1
+1,Internet,RoundTrip,17,4,5,Wed,HGHPEN,Malaysia,Yes,No,Yes,5.07,0
+2,Internet,RoundTrip,18,5,5,Sun,COKSYD,India,No,Yes,Yes,8.58,0
+2,Internet,RoundTrip,143,6,3,Sun,KTMSUB,Indonesia,Yes,Yes,No,4.75,1
+2,Internet,RoundTrip,171,5,12,Sun,DELSIN,India,No,No,No,5.52,0
+2,Internet,RoundTrip,221,5,10,Sun,JHBSYD,Australia,No,No,No,8.58,0
+7,Internet,RoundTrip,90,6,10,Sat,HGHKBV,China,No,No,Yes,5.07,0
+1,Internet,RoundTrip,15,1,3,Wed,MELPEN,Malaysia,Yes,No,No,8.83,0
