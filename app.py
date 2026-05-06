@@ -510,4 +510,4 @@ with gr.Blocks(title="BA Flight Booking Predictor") as demo:
     gr.Markdown("---")
 
 if __name__ == "__main__":
-    demo.launch(theme=gr.themes.Soft())
+    demo.launch(server_name="0.0.0.0", server_port=7860, theme=gr.themes.Soft())
